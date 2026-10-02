@@ -126,7 +126,10 @@ def main():
     if not API_KEY:
         raise ValueError("OPENDART_API_KEY 환경 변수가 설정되지 않았습니다.")
 
-    today = datetime.now()
+    # 💡 한국 시간(KST, UTC+9) 강제 설정
+    KST = timezone(timedelta(hours=9))
+    today = datetime.now(KST)
+
     bgn_de = (today - timedelta(days=5)).strftime("%Y%m%d")
     end_de = today.strftime("%Y%m%d")
 
@@ -171,8 +174,9 @@ def main():
         reverse=True
     )[:500]
 
+    # 💡 갱신 시간 기록 시에도 한국 시간(KST) 적용
     payload = {
-        "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "updated_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S"),
         "total_count": len(merged_list),
         "disclosures": merged_list
     }
