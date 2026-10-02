@@ -3,8 +3,10 @@ import json
 import requests
 from datetime import datetime, timedelta
 
-# Open DART API KEY (GitHub Secret 환경 변수)
+# API Keys
 API_KEY = os.environ.get("OPENDART_API_KEY")
+KAKAO_REST_API_KEY = os.environ.get("KAKAO_REST_API_KEY")
+KAKAO_REFRESH_TOKEN = os.environ.get("KAKAO_REFRESH_TOKEN")
 
 KOSPI200_SECTORS = {
     "화학·에너지": ["LG화학", "S-Oil", "SK이노베이션", "롯데케미칼", "SK가스", "GS", "한국가스공사", "한화솔루션", "금호석유", "OCI홀딩스", "대한유화"],
@@ -36,15 +38,41 @@ KOSDAQ150_SECTORS = {
     "피팅·배관기자재": ["성광벤드", "태광", "하이록코리아", "디케이락", "비엠티", "태웅"]
 }
 
-# 빠른 검색을 위한 해시 맵 생성
 TARGET_MAP = {}
 for sector, comps in KOSPI200_SECTORS.items():
     for c in comps:
         TARGET_MAP[c.strip()] = {"market": "KOSPI 200", "sector": sector}
-
 for sector, comps in KOSDAQ150_SECTORS.items():
     for c in comps:
         TARGET_MAP[c.strip()] = {"market": "KOSDAQ 150", "sector": sector}
+
+
+def get_kakao_access_token():
+    """Refresh Token을 이용해 새로운 Access Token을 발급받습니다."""
+    url = "https://kauth.kakao.com/oauth/token"
+    data = {
+        "grant_type": "refresh_token",
+        "client_id": KAKAO_REST_API_KEY,
+        "refresh_token": KAKAO_REFRESH_TOKEN
+    }
+    resp = requests.post(url, data=data).json()
+    return resp.get("access_token")
+
+def send_kakao_message(access_token, corp_name, report_nm, url):
+    """카카오톡 '나에게 보내기' API를 호출합니다."""
+    send_url = "https://kapi.kakao.com/v2/api/talk/memo/default/send"
+    headers = {"Authorization": f"Bearer {access_token}"}
+    template = {
+        "object_type": "text",
+        "text": f"🚨 [DART 신규공시]\n\n기업명: {corp_name}\n공시명: {report_nm}",
+        "link": {
+            "web_url": url,
+            "mobile_web_url": url
+        },
+        "button_title": "공시 원문 보기"
+    }
+    data = {"template_object": json.dumps(template)}
+    requests.post(send_url, headers=headers, data=data)
 
 
 def fetch_disclosures_for_period(bgn_de, end_de):
@@ -87,7 +115,7 @@ def fetch_disclosures_for_period(bgn_de, end_de):
                 })
 
         total_pages = data.get("total_page", 1)
-        if page >= total_pages or page >= 15:  # 최대 1,500건 이상은 페이징 방지
+        if page >= total_pages or page >= 15:
             break
         page += 1
 
@@ -98,7 +126,6 @@ def main():
     if not API_KEY:
         raise ValueError("OPENDART_API_KEY 환경 변수가 설정되지 않았습니다.")
 
-    # 최근 5일간 공시 대상 확인
     today = datetime.now()
     bgn_de = (today - timedelta(days=5)).strftime("%Y%m%d")
     end_de = today.strftime("%Y%m%d")
@@ -115,7 +142,25 @@ def main():
         except Exception:
             existing_items = []
 
-    # 접수번호(rcept_no) 기준 중복 제거 및 최신순 정렬
+    # 기존 데이터와 비교하여 '진짜 새로운 공시'만 필터링
+    existing_ids = {item["rcept_no"] for item in existing_items}
+    new_alerts = [item for item in new_items if item["rcept_no"] not in existing_ids]
+
+    # 카카오톡 전송 로직
+    if new_alerts and KAKAO_REST_API_KEY and KAKAO_REFRESH_TOKEN:
+        try:
+            k_token = get_kakao_access_token()
+            if k_token:
+                # 카톡 도배 방지를 위해 최대 5건까지만 전송
+                for alert in new_alerts[:5]:
+                    send_kakao_message(k_token, alert["corp_name"], alert["report_nm"], alert["url"])
+                
+                if len(new_alerts) > 5:
+                    send_kakao_message(k_token, "대시보드 시스템", f"외 {len(new_alerts)-5}건의 신규 공시가 더 있습니다. 대시보드를 확인하세요.", "https://github.com")
+        except Exception as e:
+            print(f"Kakao Alert Error: {e}")
+
+    # 데이터 병합 및 저장
     items_by_id = {item["rcept_no"]: item for item in existing_items}
     for item in new_items:
         items_by_id[item["rcept_no"]] = item
@@ -124,7 +169,7 @@ def main():
         list(items_by_id.values()),
         key=lambda x: (x["rcept_dt"], x["rcept_no"]),
         reverse=True
-    )[:500]  # 대시보드 경량화를 위해 최근 500개 유지
+    )[:500]
 
     payload = {
         "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -136,7 +181,7 @@ def main():
     with open(data_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    print(f"Update complete: {len(merged_list)} disclosures recorded.")
+    print(f"Update complete: {len(new_alerts)} new alerts sent. {len(merged_list)} disclosures recorded.")
 
 
 if __name__ == "__main__":
