@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="ko" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DART 핵심 종목 공시 모니터링 대시보드</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: '#3b82f6',
+            surface: '#1e293b',
+            background: '#0f172a'
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-background text-slate-100 min-h-screen p-4 md:p-8">
+  <div class="max-w-7xl mx-auto space-y-6">
+    <!-- 상단 헤더 -->
+    <header class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 bg-surface p-6 rounded-2xl border border-slate-700/60 shadow-xl">
+      <div>
+        <h1 class="text-2xl md:text-3xl font-extrabold tracking-tight text-white flex items-center gap-2">
+          <span>📊 DART 공시 실시간 레이더</span>
+          <span class="text-xs bg-blue-500/20 text-blue-400 border border-blue-500/30 px-2.5 py-0.5 rounded-full font-mono">LIVE</span>
+        </h1>
+        <p class="text-slate-400 text-sm mt-1">KOSPI 200 & KOSDAQ 150 주요 섹터 타겟 자동 모니터링</p>
+      </div>
+      <div class="flex items-center gap-4 text-xs font-mono text-slate-400">
+        <div>마지막 갱신: <span id="lastUpdated" class="text-slate-200">-</span></div>
+        <button onclick="fetchData()" class="px-3 py-1.5 bg-blue-600 hover:bg-blue-500 text-white rounded-lg transition-all font-sans font-medium">새로고침</button>
+      </div>
+    </header>
+
+    <!-- 검색 및 필터 패널 -->
+    <section class="bg-surface p-5 rounded-xl border border-slate-700/60 flex flex-wrap gap-4 items-center justify-between">
+      <div class="flex flex-wrap items-center gap-3 w-full md:w-auto">
+        <!-- 시장 선택 버튼 -->
+        <div class="inline-flex rounded-lg bg-slate-900 p-1 border border-slate-700 text-xs">
+          <button onclick="setMarket('ALL')" id="btn-market-all" class="market-btn px-3 py-1.5 rounded-md bg-blue-600 text-white font-medium">전체</button>
+          <button onclick="setMarket('KOSPI 200')" id="btn-market-kospi" class="market-btn px-3 py-1.5 rounded-md text-slate-400 hover:text-white">KOSPI 200</button>
+          <button onclick="setMarket('KOSDAQ 150')" id="btn-market-kosdaq" class="market-btn px-3 py-1.5 rounded-md text-slate-400 hover:text-white">KOSDAQ 150</button>
+        </div>
+
+        <!-- 섹터 드롭다운 -->
+        <select id="sectorFilter" onchange="renderList()" class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-blue-500">
+          <option value="ALL">전체 섹터</option>
+        </select>
+      </div>
+
+      <!-- 실시간 검색창 -->
+      <div class="relative w-full md:w-80">
+        <input type="text" id="searchInput" oninput="renderList()" placeholder="종목명 또는 공시 제목 검색..."
+          class="w-full bg-slate-900 border border-slate-700 rounded-lg px-3.5 py-2 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-blue-500">
+      </div>
+    </section>
+
+    <!-- 공시 카드 리스트 -->
+    <main>
+      <div id="disclosureCount" class="text-xs text-slate-400 font-mono mb-3">검색된 공시: 0건</div>
+      <div id="disclosureGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <!-- 공시 카드가 동적으로 렌더링됩니다 -->
+      </div>
+    </main>
+  </div>
+
+  <script>
+    let rawDisclosures = [];
+    let currentMarket = "ALL";
+
+    async function fetchData() {
+      try {
+        const res = await fetch(`./data/disclosures.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error("데이터를 불러올 수 없습니다.");
+        const data = await res.json();
+        rawDisclosures = data.disclosures || [];
+        document.getElementById("lastUpdated").innerText = data.updated_at || "-";
+        buildSectorOptions();
+        renderList();
+      } catch (err) {
+        console.error(err);
+        document.getElementById("disclosureGrid").innerHTML = `
+          <div class="col-span-full py-16 text-center text-slate-500">
+            데이터 수집 대기 중이거나 파일이 생성되지 않았습니다. GitHub Actions 실행 상태를 확인해 주세요.
+          </div>
+        `;
+      }
+    }
+
+    function buildSectorOptions() {
+      const sectors = new Set(rawDisclosures.map(item => item.sector).filter(Boolean));
+      const sectorSelect = document.getElementById("sectorFilter");
+      const currentVal = sectorSelect.value;
+      sectorSelect.innerHTML = `<option value="ALL">전체 섹터</option>`;
+      Array.from(sectors).sort().forEach(sec => {
+        const opt = document.createElement("option");
+        opt.value = sec;
+        opt.innerText = sec;
+        sectorSelect.appendChild(opt);
+      });
+      sectorSelect.value = currentVal;
+    }
+
+    function setMarket(market) {
+      currentMarket = market;
+      document.querySelectorAll('.market-btn').forEach(btn => {
+        btn.className = "market-btn px-3 py-1.5 rounded-md text-slate-400 hover:text-white";
+      });
+      if (market === 'ALL') document.getElementById('btn-market-all').className = "market-btn px-3 py-1.5 rounded-md bg-blue-600 text-white font-medium";
+      if (market === 'KOSPI 200') document.getElementById('btn-market-kospi').className = "market-btn px-3 py-1.5 rounded-md bg-blue-600 text-white font-medium";
+      if (market === 'KOSDAQ 150') document.getElementById('btn-market-kosdaq').className = "market-btn px-3 py-1.5 rounded-md bg-blue-600 text-white font-medium";
+      renderList();
+    }
+
+    function getHighlightBadge(title) {
+      if (/공급계약|수주|단일판매/i.test(title)) return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">수주/계약</span>`;
+      if (/유상증자|무상증자|전환사채|CB|BW/i.test(title)) return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-400 border border-amber-500/30">자본/채권</span>`;
+      if (/분기보고서|반기보고서|사업보고서|실적/i.test(title)) return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-500/20 text-indigo-400 border border-indigo-500/30">실적보고</span>`;
+      if (/주주총회|배당/i.test(title)) return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-purple-500/20 text-purple-400 border border-purple-500/30">주총/배당</span>`;
+      return '';
+    }
+
+    function renderList() {
+      const keyword = document.getElementById("searchInput").value.trim().toLowerCase();
+      const selectedSector = document.getElementById("sectorFilter").value;
+
+      const filtered = rawDisclosures.filter(item => {
+        const matchesMarket = currentMarket === "ALL" || item.market === currentMarket;
+        const matchesSector = selectedSector === "ALL" || item.sector === selectedSector;
+        const matchesKeyword = !keyword || 
+          item.corp_name.toLowerCase().includes(keyword) || 
+          item.report_nm.toLowerCase().includes(keyword) ||
+          item.stock_code.includes(keyword);
+        return matchesMarket && matchesSector && matchesKeyword;
+      });
+
+      document.getElementById("disclosureCount").innerText = `표시 중인 공시: ${filtered.length}건`;
+
+      const grid = document.getElementById("disclosureGrid");
+      if (filtered.length === 0) {
+        grid.innerHTML = `<div class="col-span-full py-16 text-center text-slate-500">조건에 부합하는 공시 내역이 없습니다.</div>`;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(item => {
+        const badge = getHighlightBadge(item.report_nm);
+        const marketColor = item.market === 'KOSPI 200' ? 'text-red-400 bg-red-400/10 border-red-400/20' : 'text-cyan-400 bg-cyan-400/10 border-cyan-400/20';
+        const formattedDate = `${item.rcept_dt.slice(0,4)}-${item.rcept_dt.slice(4,6)}-${item.rcept_dt.slice(6,8)}`;
+
+        return `
+          <div class="bg-surface rounded-xl p-5 border border-slate-700/60 hover:border-slate-500 transition-all flex flex-col justify-between group shadow-md hover:shadow-lg">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-2">
+                <div class="flex items-center gap-1.5 flex-wrap">
+                  <span class="text-[11px] px-2 py-0.5 rounded border font-semibold ${marketColor}">${item.market}</span>
+                  <span class="text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700">${item.sector}</span>
+                  ${badge}
+                </div>
+                <span class="text-xs text-slate-400 font-mono">${formattedDate}</span>
+              </div>
+              <div class="flex items-baseline gap-2 mb-2">
+                <h3 class="text-lg font-bold text-white group-hover:text-blue-400 transition-colors">${item.corp_name}</h3>
+                <span class="text-xs text-slate-400 font-mono">${item.stock_code}</span>
+              </div>
+              <p class="text-sm text-slate-300 font-medium leading-snug line-clamp-2">${item.report_nm}</p>
+            </div>
+            <div class="mt-4 pt-3 border-t border-slate-700/50 flex items-center justify-between text-xs">
+              <span class="text-slate-400">제출인: ${item.flr_nm || item.corp_name}</span>
+              <a href="${item.url}" target="_blank" rel="noopener noreferrer" 
+                class="inline-flex items-center gap-1 text-blue-400 hover:text-blue-300 font-semibold transition-colors">
+                원문 보기 &rarr;
+              </a>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // 5분마다 자동 새로고침
+    fetchData();
+    setInterval(fetchData, 300000);
+  </script>
+</body>
+</html>
