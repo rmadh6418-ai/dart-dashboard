@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-02 01:43:37",
-  "total_count": 173,
+  "updated_at": "2026-10-02 11:18:37",
+  "total_count": 177,
   "disclosures": [
+    {
+      "rcept_no": "20261002800245",
+      "corp_name": "삼성중공업",
+      "stock_code": "010140",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261002",
+      "flr_nm": "삼성중공업",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002800245"
+    },
     {
       "rcept_no": "20261002800184",
       "corp_name": "한국가스공사",
@@ -73,6 +85,42 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002800002"
+    },
+    {
+      "rcept_no": "20261002000118",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261002",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000118"
+    },
+    {
+      "rcept_no": "20261002000101",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261002",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000101"
+    },
+    {
+      "rcept_no": "20261002000091",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261002",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000091"
     },
     {
       "rcept_no": "20261002000082",
