@@ -1,0 +1,44 @@
+name: Update DART Disclosures
+
+on:
+  schedule:
+    # 월~금 KST 08:30 ~ 18:30 (UTC 23:30 ~ 09:30) 20분 주기 동작
+    - cron: '*/20 23,0-9 * * 0-4'
+  workflow_dispatch: # 수동 즉시 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  run-updater:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Run Disclosure Fetcher
+        env:
+          OPENDART_API_KEY: ${{ secrets.OPENDART_API_KEY }}
+        run: |
+          python scripts/fetch_disclosures.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/disclosures.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update disclosures [skip ci]"
+            git push
+          else
+            echo "No changes found."
+          fi
