@@ -20,7 +20,24 @@
     }
   </script>
 </head>
-<body class="bg-background text-slate-100 min-h-screen p-4 md:p-8">
+<body class="bg-background text-slate-100 min-h-screen p-4 md:p-8 relative">
+  
+  <!-- 보안 인증 오버레이 -->
+  <div id="authOverlay" class="fixed inset-0 z-50 flex items-center justify-center bg-background/95 backdrop-blur-sm">
+    <div class="bg-surface p-8 rounded-2xl border border-slate-700/60 shadow-2xl text-center max-w-sm w-full mx-4">
+      <div class="text-5xl mb-4">🔒</div>
+      <h2 class="text-xl font-bold text-white mb-2">대시보드 접근 제한</h2>
+      <p class="text-slate-400 text-sm mb-6">인가된 관리자만 접근할 수 있습니다.</p>
+      <input type="password" id="pwdInput" placeholder="비밀번호 입력" 
+        class="w-full bg-slate-900 border border-slate-700 rounded-lg px-4 py-3 text-center text-slate-200 focus:outline-none focus:border-blue-500 mb-4 tracking-[0.3em]"
+        onkeypress="if(event.key === 'Enter') unlockDashboard()">
+      <button onclick="unlockDashboard()" 
+        class="w-full bg-blue-600 hover:bg-blue-500 text-white font-bold py-3 rounded-lg transition-colors shadow-lg shadow-blue-500/20">
+        잠금 해제
+      </button>
+    </div>
+  </div>
+
   <div class="max-w-7xl mx-auto space-y-6">
     <!-- 상단 헤더 -->
     <header class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 bg-surface p-6 rounded-2xl border border-slate-700/60 shadow-xl">
@@ -47,7 +64,7 @@
           <button onclick="setMarket('KOSDAQ 150')" id="btn-market-kosdaq" class="market-btn px-3 py-1.5 rounded-md text-slate-400 hover:text-white">KOSDAQ 150</button>
         </div>
 
-        <!-- 날짜 필터 드롭다운 (새로 추가됨) -->
+        <!-- 날짜 필터 드롭다운 -->
         <select id="dateFilter" onchange="renderList()" class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-blue-500">
           <option value="ALL">전체 날짜</option>
         </select>
@@ -77,8 +94,29 @@
   <script>
     let rawDisclosures = [];
     let currentMarket = "ALL";
+    let isUnlocked = false;
+
+    // 잠금 해제 로직 (비트 연산 적용)
+    function unlockDashboard() {
+      const inputVal = parseInt(document.getElementById('pwdInput').value, 10);
+      
+      // 입력값에 0x3F(63)을 XOR 연산하여 0x1054(4180)이 나오는지 확인
+      // 이 조건을 충족하는 유일한 정수값은 4203 입니다. (4203 ^ 63 = 4180)
+      if (!isNaN(inputVal) && (inputVal ^ 0x3F) === 0x1054) {
+        document.getElementById('authOverlay').style.display = 'none';
+        isUnlocked = true;
+        fetchData();
+        setInterval(fetchData, 300000); // 잠금 해제 후에만 5분 타이머 작동
+      } else {
+        alert("비밀번호가 일치하지 않습니다.");
+        document.getElementById('pwdInput').value = '';
+        document.getElementById('pwdInput').focus();
+      }
+    }
 
     async function fetchData() {
+      if (!isUnlocked) return; // 잠겨있을 때는 데이터 호출 차단
+
       try {
         const res = await fetch(`./data/disclosures.json?t=${Date.now()}`);
         if (!res.ok) throw new Error("데이터를 불러올 수 없습니다.");
@@ -86,8 +124,8 @@
         rawDisclosures = data.disclosures || [];
         document.getElementById("lastUpdated").innerText = data.updated_at || "-";
         
-        buildDateOptions();   // 날짜 옵션 생성 함수 호출
-        buildSectorOptions(); // 섹터 옵션 생성 함수 호출
+        buildDateOptions();   
+        buildSectorOptions(); 
         renderList();
       } catch (err) {
         console.error(err);
@@ -99,16 +137,13 @@
       }
     }
 
-    // 날짜 옵션 생성 함수 (새로 추가됨)
     function buildDateOptions() {
-      // 수집된 공시 데이터에서 고유한 날짜만 추출 (예: '20261002')
       const dates = new Set(rawDisclosures.map(item => item.rcept_dt).filter(Boolean));
       const dateSelect = document.getElementById("dateFilter");
       const currentVal = dateSelect.value;
       
       dateSelect.innerHTML = `<option value="ALL">전체 날짜</option>`;
       
-      // 최신 날짜가 위로 오도록 정렬 후 추가
       Array.from(dates).sort((a, b) => b.localeCompare(a)).forEach(dt => {
         const opt = document.createElement("option");
         opt.value = dt;
@@ -116,7 +151,6 @@
         dateSelect.appendChild(opt);
       });
       
-      // 기존에 선택된 날짜가 있으면 유지
       if (Array.from(dateSelect.options).some(opt => opt.value === currentVal)) {
         dateSelect.value = currentVal;
       }
@@ -158,18 +192,17 @@
     function renderList() {
       const keyword = document.getElementById("searchInput").value.trim().toLowerCase();
       const selectedSector = document.getElementById("sectorFilter").value;
-      const selectedDate = document.getElementById("dateFilter").value; // 날짜 필터값 가져오기
+      const selectedDate = document.getElementById("dateFilter").value; 
 
       const filtered = rawDisclosures.filter(item => {
         const matchesMarket = currentMarket === "ALL" || item.market === currentMarket;
         const matchesSector = selectedSector === "ALL" || item.sector === selectedSector;
-        const matchesDate = selectedDate === "ALL" || item.rcept_dt === selectedDate; // 날짜 조건 확인
+        const matchesDate = selectedDate === "ALL" || item.rcept_dt === selectedDate; 
         const matchesKeyword = !keyword || 
           item.corp_name.toLowerCase().includes(keyword) || 
           item.report_nm.toLowerCase().includes(keyword) ||
           item.stock_code.includes(keyword);
         
-        // 시장, 섹터, 날짜, 검색어 조건이 모두 일치해야 보여줌
         return matchesMarket && matchesSector && matchesDate && matchesKeyword; 
       });
 
@@ -214,10 +247,6 @@
         `;
       }).join('');
     }
-
-    // 5분마다 자동 새로고침
-    fetchData();
-    setInterval(fetchData, 300000);
   </script>
 </body>
 </html>
