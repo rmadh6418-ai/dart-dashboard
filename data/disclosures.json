@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-05 18:54:25",
-  "total_count": 322,
+  "updated_at": "2026-10-06 08:06:11",
+  "total_count": 323,
   "disclosures": [
+    {
+      "rcept_no": "20261006800023",
+      "corp_name": "한미반도체",
+      "stock_code": "042700",
+      "report_nm": "단일판매ㆍ공급계약체결(자율공시)              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "한미반도체",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
     {
       "rcept_no": "20261002900860",
       "corp_name": "펄어비스",
