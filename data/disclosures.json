@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-06 15:09:26",
-  "total_count": 384,
+  "updated_at": "2026-10-06 15:40:13",
+  "total_count": 388,
   "disclosures": [
+    {
+      "rcept_no": "20261006900386",
+      "corp_name": "코스메카코리아",
+      "stock_code": "241710",
+      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "코스메카코리아",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900386"
+    },
     {
       "rcept_no": "20261006900277",
       "corp_name": "에스티팜",
@@ -145,6 +157,42 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000277",
+      "corp_name": "JB금융지주",
+      "stock_code": "175330",
+      "report_nm": "[기재정정]주요사항보고서(상각형조건부자본증권발행결정)",
+      "rcept_dt": "20261006",
+      "flr_nm": "JB금융지주",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000277"
+    },
+    {
+      "rcept_no": "20261006000273",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261006",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000273"
+    },
+    {
+      "rcept_no": "20261006000268",
+      "corp_name": "엘앤에프",
+      "stock_code": "066970",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "정성엽",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000268"
     },
     {
       "rcept_no": "20261006000266",
