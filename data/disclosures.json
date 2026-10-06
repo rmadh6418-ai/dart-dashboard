@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06 16:34:16",
-  "total_count": 405,
+  "updated_at": "2026-10-06 16:51:49",
+  "total_count": 409,
   "disclosures": [
     {
       "rcept_no": "20261006900386",
@@ -229,6 +229,54 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000382",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "report_nm": "[발행조건확정]증권신고서(채무증권)",
+      "rcept_dt": "20261006",
+      "flr_nm": "고려아연",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "철강·금속",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000382"
+    },
+    {
+      "rcept_no": "20261006000379",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000379"
+    },
+    {
+      "rcept_no": "20261006000372",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "report_nm": "[기재정정]증권신고서(채무증권)",
+      "rcept_dt": "20261006",
+      "flr_nm": "고려아연",
+      "rm": "정",
+      "market": "KOSPI 200",
+      "sector": "철강·금속",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000372"
+    },
+    {
+      "rcept_no": "20261006000369",
+      "corp_name": "티로보틱스",
+      "stock_code": "117730",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261006",
+      "flr_nm": "안승욱",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "로봇·자동화",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000369"
     },
     {
       "rcept_no": "20261006000337",
