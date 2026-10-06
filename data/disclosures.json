@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06 14:50:38",
-  "total_count": 380,
+  "updated_at": "2026-10-06 15:09:26",
+  "total_count": 384,
   "disclosures": [
     {
       "rcept_no": "20261006900277",
@@ -37,6 +37,30 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900180"
+    },
+    {
+      "rcept_no": "20261006800336",
+      "corp_name": "삼성중공업",
+      "stock_code": "010140",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "삼성중공업",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800336"
+    },
+    {
+      "rcept_no": "20261006800320",
+      "corp_name": "산일전기",
+      "stock_code": "062040",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "산일전기",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800320"
     },
     {
       "rcept_no": "20261006800240",
@@ -121,6 +145,30 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000266",
+      "corp_name": "한화엔진",
+      "stock_code": "082740",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "윤우석",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000266"
+    },
+    {
+      "rcept_no": "20261006000264",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261006",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000264"
     },
     {
       "rcept_no": "20261006000256",
