@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06 17:09:24",
-  "total_count": 416,
+  "updated_at": "2026-10-06 17:35:07",
+  "total_count": 418,
   "disclosures": [
     {
       "rcept_no": "20261006900386",
@@ -49,6 +49,18 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900180"
+    },
+    {
+      "rcept_no": "20261006800697",
+      "corp_name": "두산에너빌리티",
+      "stock_code": "034020",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "두산에너빌리티",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800697"
     },
     {
       "rcept_no": "20261006800676",
@@ -253,6 +265,18 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000428",
+      "corp_name": "SK",
+      "stock_code": "034730",
+      "report_nm": "[발행조건확정]증권신고서(채무증권)",
+      "rcept_dt": "20261006",
+      "flr_nm": "SK",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000428"
     },
     {
       "rcept_no": "20261006000413",
