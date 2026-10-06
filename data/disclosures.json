@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06 13:51:15",
-  "total_count": 349,
+  "updated_at": "2026-10-06 14:07:53",
+  "total_count": 357,
   "disclosures": [
     {
       "rcept_no": "20261006900180",
@@ -13,6 +13,30 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900180"
+    },
+    {
+      "rcept_no": "20261006800240",
+      "corp_name": "삼성에스디에스",
+      "stock_code": "018260",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "삼성에스디에스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800240"
+    },
+    {
+      "rcept_no": "20261006800220",
+      "corp_name": "LG전자",
+      "stock_code": "066570",
+      "report_nm": "풍문또는보도에대한해명(미확정)              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "LG전자",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800220"
     },
     {
       "rcept_no": "20261006800217",
@@ -73,6 +97,78 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000203",
+      "corp_name": "한전기술",
+      "stock_code": "052690",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "국민연금공단",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000203"
+    },
+    {
+      "rcept_no": "20261006000200",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "국민연금공단",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000200"
+    },
+    {
+      "rcept_no": "20261006000194",
+      "corp_name": "롯데쇼핑",
+      "stock_code": "023530",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "국민연금공단",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000194"
+    },
+    {
+      "rcept_no": "20261006000192",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "국민연금공단",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000192"
+    },
+    {
+      "rcept_no": "20261006000181",
+      "corp_name": "S-Oil",
+      "stock_code": "010950",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "국민연금공단",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000181"
+    },
+    {
+      "rcept_no": "20261006000180",
+      "corp_name": "코스메카코리아",
+      "stock_code": "241710",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261006",
+      "flr_nm": "트러스톤자산운용",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000180"
     },
     {
       "rcept_no": "20261006000170",
