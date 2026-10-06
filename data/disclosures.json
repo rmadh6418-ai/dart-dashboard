@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06 16:51:49",
-  "total_count": 409,
+  "updated_at": "2026-10-06 17:09:24",
+  "total_count": 416,
   "disclosures": [
     {
       "rcept_no": "20261006900386",
@@ -49,6 +49,30 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900180"
+    },
+    {
+      "rcept_no": "20261006800676",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "삼성바이오로직스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800676"
+    },
+    {
+      "rcept_no": "20261006800617",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "포스코퓨처엠",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800617"
     },
     {
       "rcept_no": "20261006800472",
@@ -229,6 +253,66 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000413",
+      "corp_name": "한국금융지주",
+      "stock_code": "071050",
+      "report_nm": "[발행조건확정]증권신고서(채무증권)",
+      "rcept_dt": "20261006",
+      "flr_nm": "한국금융지주",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000413"
+    },
+    {
+      "rcept_no": "20261006000411",
+      "corp_name": "KB금융",
+      "stock_code": "105560",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261006",
+      "flr_nm": "KB금융",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000411"
+    },
+    {
+      "rcept_no": "20261006000404",
+      "corp_name": "한국금융지주",
+      "stock_code": "071050",
+      "report_nm": "[기재정정]증권신고서(채무증권)",
+      "rcept_dt": "20261006",
+      "flr_nm": "한국금융지주",
+      "rm": "정",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000404"
+    },
+    {
+      "rcept_no": "20261006000400",
+      "corp_name": "KB금융",
+      "stock_code": "105560",
+      "report_nm": "일괄신고추가서류",
+      "rcept_dt": "20261006",
+      "flr_nm": "KB금융",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000400"
+    },
+    {
+      "rcept_no": "20261006000391",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000391"
     },
     {
       "rcept_no": "20261006000382",
