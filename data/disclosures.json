@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06 15:40:13",
-  "total_count": 388,
+  "updated_at": "2026-10-06 15:58:54",
+  "total_count": 392,
   "disclosures": [
     {
       "rcept_no": "20261006900386",
@@ -49,6 +49,30 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900180"
+    },
+    {
+      "rcept_no": "20261006800422",
+      "corp_name": "삼성에피스홀딩스",
+      "stock_code": "0126Z0",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "삼성에피스홀딩스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800422"
+    },
+    {
+      "rcept_no": "20261006800410",
+      "corp_name": "HD한국조선해양",
+      "stock_code": "009540",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "HD한국조선해양",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800410"
     },
     {
       "rcept_no": "20261006800336",
@@ -157,6 +181,30 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000302",
+      "corp_name": "티씨케이",
+      "stock_code": "064760",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261006",
+      "flr_nm": "베어링자산운용",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000302"
+    },
+    {
+      "rcept_no": "20261006000298",
+      "corp_name": "한전KPS",
+      "stock_code": "051600",
+      "report_nm": "[기재정정]독립이사의선임ㆍ해임또는중도퇴임에관한신고",
+      "rcept_dt": "20261006",
+      "flr_nm": "한전KPS",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000298"
     },
     {
       "rcept_no": "20261006000277",
@@ -1581,7 +1629,7 @@
       "report_nm": "독립이사의선임ㆍ해임또는중도퇴임에관한신고",
       "rcept_dt": "20261002",
       "flr_nm": "한전KPS",
-      "rm": "",
+      "rm": "정",
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261002000456"
