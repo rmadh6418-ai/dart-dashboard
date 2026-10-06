@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-06 13:08:24",
-  "total_count": 335,
+  "updated_at": "2026-10-06 13:34:23",
+  "total_count": 339,
   "disclosures": [
+    {
+      "rcept_no": "20261006900180",
+      "corp_name": "클래시스",
+      "stock_code": "214150",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "클래시스",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900180"
+    },
     {
       "rcept_no": "20261006800130",
       "corp_name": "삼성전기",
@@ -37,6 +49,42 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000130",
+      "corp_name": "삼양식품",
+      "stock_code": "003230",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "국민연금공단",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000130"
+    },
+    {
+      "rcept_no": "20261006000127",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261006",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000127"
+    },
+    {
+      "rcept_no": "20261006000097",
+      "corp_name": "LS",
+      "stock_code": "006260",
+      "report_nm": "계열금융회사를거래상대방으로한단기금융상품거래의분기별공시",
+      "rcept_dt": "20261006",
+      "flr_nm": "LS",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000097"
     },
     {
       "rcept_no": "20261006000092",
