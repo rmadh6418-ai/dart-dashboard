@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-06 17:52:38",
-  "total_count": 422,
+  "updated_at": "2026-10-06 18:08:37",
+  "total_count": 425,
   "disclosures": [
+    {
+      "rcept_no": "20261006900765",
+      "corp_name": "오스코텍",
+      "stock_code": "039200",
+      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "오스코텍",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900765"
+    },
     {
       "rcept_no": "20261006900761",
       "corp_name": "알테오젠",
@@ -13,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900761"
+    },
+    {
+      "rcept_no": "20261006900750",
+      "corp_name": "오스코텍",
+      "stock_code": "039200",
+      "report_nm": "주주총회소집결의              (임시주주총회)",
+      "rcept_dt": "20261006",
+      "flr_nm": "오스코텍",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900750"
     },
     {
       "rcept_no": "20261006900744",
@@ -301,6 +325,18 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000459",
+      "corp_name": "로보티즈",
+      "stock_code": "108490",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "표윤석",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "로봇·자동화",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000459"
     },
     {
       "rcept_no": "20261006000428",
