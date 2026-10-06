@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-06 18:52:15",
-  "total_count": 425,
+  "updated_at": "2026-10-07 08:05:59",
+  "total_count": 426,
   "disclosures": [
+    {
+      "rcept_no": "20260922100004",
+      "corp_name": "SK",
+      "stock_code": "034730",
+      "report_nm": "효력발생안내( 2026.9.22. 제출 증권신고서(채무증권) )",
+      "rcept_dt": "20261007",
+      "flr_nm": "금융감독원",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260922100004"
+    },
     {
       "rcept_no": "20261006900765",
       "corp_name": "오스코텍",
