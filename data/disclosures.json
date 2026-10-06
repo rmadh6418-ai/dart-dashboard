@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06 16:15:57",
-  "total_count": 397,
+  "updated_at": "2026-10-06 16:34:16",
+  "total_count": 405,
   "disclosures": [
     {
       "rcept_no": "20261006900386",
@@ -49,6 +49,18 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900180"
+    },
+    {
+      "rcept_no": "20261006800472",
+      "corp_name": "한국카본",
+      "stock_code": "017960",
+      "report_nm": "풍문또는보도에대한해명(미확정)              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "한국카본",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800472"
     },
     {
       "rcept_no": "20261006800464",
@@ -219,6 +231,78 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
     },
     {
+      "rcept_no": "20261006000337",
+      "corp_name": "영원무역",
+      "stock_code": "111770",
+      "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+      "rcept_dt": "20261006",
+      "flr_nm": "영원무역",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000337"
+    },
+    {
+      "rcept_no": "20261006000336",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000336"
+    },
+    {
+      "rcept_no": "20261006000332",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000332"
+    },
+    {
+      "rcept_no": "20261006000329",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "주요사항보고서(유상증자결정)",
+      "rcept_dt": "20261006",
+      "flr_nm": "알테오젠",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000329"
+    },
+    {
+      "rcept_no": "20261006000323",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "주요사항보고서(유상증자결정)",
+      "rcept_dt": "20261006",
+      "flr_nm": "알테오젠",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000323"
+    },
+    {
+      "rcept_no": "20261006000321",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "주요사항보고서(유상증자결정)",
+      "rcept_dt": "20261006",
+      "flr_nm": "알테오젠",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000321"
+    },
+    {
       "rcept_no": "20261006000319",
       "corp_name": "NH투자증권",
       "stock_code": "005940",
@@ -241,6 +325,18 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000316"
+    },
+    {
+      "rcept_no": "20261006000310",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "주요사항보고서(유상증자결정)",
+      "rcept_dt": "20261006",
+      "flr_nm": "알테오젠",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000310"
     },
     {
       "rcept_no": "20261006000302",
