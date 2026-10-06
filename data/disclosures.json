@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-06 11:07:20",
-  "total_count": 329,
+  "updated_at": "2026-10-06 11:32:28",
+  "total_count": 332,
   "disclosures": [
+    {
+      "rcept_no": "20261006800130",
+      "corp_name": "삼성전기",
+      "stock_code": "009150",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "삼성전기",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800130"
+    },
     {
       "rcept_no": "20261006800096",
       "corp_name": "삼성전기",
@@ -25,6 +37,30 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000076",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합증권-주식워런트증권)",
+      "rcept_dt": "20261006",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000076"
+    },
+    {
+      "rcept_no": "20261006000071",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261006",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000071"
     },
     {
       "rcept_no": "20261006000045",
