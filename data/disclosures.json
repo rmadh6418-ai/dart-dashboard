@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-06 14:33:06",
-  "total_count": 374,
+  "updated_at": "2026-10-06 14:50:38",
+  "total_count": 380,
   "disclosures": [
+    {
+      "rcept_no": "20261006900277",
+      "corp_name": "에스티팜",
+      "stock_code": "237690",
+      "report_nm": "투자판단관련주요경영사항(임상시험결과)              (HIV-1 치료제 STP0404 임상 2a상 임상시험결과보고서(CSR) 수령)",
+      "rcept_dt": "20261006",
+      "flr_nm": "에스티팜",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900277"
+    },
     {
       "rcept_no": "20261006900258",
       "corp_name": "올릭스",
@@ -109,6 +121,66 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023"
+    },
+    {
+      "rcept_no": "20261006000256",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000256"
+    },
+    {
+      "rcept_no": "20261006000253",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+      "rcept_dt": "20261006",
+      "flr_nm": "SK하이닉스",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000253"
+    },
+    {
+      "rcept_no": "20261006000250",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000250"
+    },
+    {
+      "rcept_no": "20261006000248",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000248"
+    },
+    {
+      "rcept_no": "20261006000246",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261006",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000246"
     },
     {
       "rcept_no": "20261006000244",
