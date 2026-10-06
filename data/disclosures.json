@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-06 17:35:07",
-  "total_count": 418,
+  "updated_at": "2026-10-06 17:52:38",
+  "total_count": 422,
   "disclosures": [
+    {
+      "rcept_no": "20261006900761",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "알테오젠",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900761"
+    },
+    {
+      "rcept_no": "20261006900744",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "회사합병결정(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "알테오젠",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006900744"
+    },
     {
       "rcept_no": "20261006900386",
       "corp_name": "코스메카코리아",
@@ -61,6 +85,18 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800697"
+    },
+    {
+      "rcept_no": "20261006800696",
+      "corp_name": "대한유화",
+      "stock_code": "006650",
+      "report_nm": "생산중단              ",
+      "rcept_dt": "20261006",
+      "flr_nm": "대한유화",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800696"
     },
     {
       "rcept_no": "20261006800676",
@@ -277,6 +313,18 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000428"
+    },
+    {
+      "rcept_no": "20261006000420",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "주요사항보고서(회사합병결정)",
+      "rcept_dt": "20261006",
+      "flr_nm": "알테오젠",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000420"
     },
     {
       "rcept_no": "20261006000413",
