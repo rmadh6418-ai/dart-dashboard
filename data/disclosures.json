@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-07 14:51:53",
-  "total_count": 453,
+  "updated_at": "2026-10-07 15:08:43",
+  "total_count": 459,
   "disclosures": [
+    {
+      "rcept_no": "20261007900302",
+      "corp_name": "실리콘투",
+      "stock_code": "257720",
+      "report_nm": "[기재정정]유형자산취득결정(자율공시)              ",
+      "rcept_dt": "20261007",
+      "flr_nm": "실리콘투",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007900302"
+    },
     {
       "rcept_no": "20261007900100",
       "corp_name": "윤성에프앤씨",
@@ -13,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007900100"
+    },
+    {
+      "rcept_no": "20261007800306",
+      "corp_name": "NAVER",
+      "stock_code": "035420",
+      "report_nm": "[기재정정]주식교환ㆍ이전결정(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261007",
+      "flr_nm": "NAVER",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800306"
     },
     {
       "rcept_no": "20261007800159",
@@ -61,6 +85,54 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000269",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000269"
+    },
+    {
+      "rcept_no": "20261007000266",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000266"
+    },
+    {
+      "rcept_no": "20261007000264",
+      "corp_name": "HPSP",
+      "stock_code": "403870",
+      "report_nm": "주주총회소집공고",
+      "rcept_dt": "20261007",
+      "flr_nm": "HPSP",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000264"
+    },
+    {
+      "rcept_no": "20261007000263",
+      "corp_name": "SK증권",
+      "stock_code": "001510",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261007",
+      "flr_nm": "SK증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000263"
     },
     {
       "rcept_no": "20261007000253",
