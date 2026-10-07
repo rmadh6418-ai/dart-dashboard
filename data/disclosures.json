@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 16:16:05",
-  "total_count": 481,
+  "updated_at": "2026-10-07 16:36:02",
+  "total_count": 484,
   "disclosures": [
     {
       "rcept_no": "20261007900302",
@@ -133,6 +133,42 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000400",
+      "corp_name": "SK증권",
+      "stock_code": "001510",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261007",
+      "flr_nm": "SK증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000400"
+    },
+    {
+      "rcept_no": "20261007000396",
+      "corp_name": "HL만도",
+      "stock_code": "204320",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "이세연",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000396"
+    },
+    {
+      "rcept_no": "20261007000385",
+      "corp_name": "HL만도",
+      "stock_code": "204320",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "남웅철",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000385"
     },
     {
       "rcept_no": "20261007000364",
