@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 17:36:15",
-  "total_count": 490,
+  "updated_at": "2026-10-07 17:53:51",
+  "total_count": 493,
   "disclosures": [
     {
       "rcept_no": "20261007900302",
@@ -25,6 +25,30 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007900100"
+    },
+    {
+      "rcept_no": "20261007800667",
+      "corp_name": "한미약품",
+      "stock_code": "128940",
+      "report_nm": "투자판단관련주요경영사항              (에페오토인젝터주(에페글레나타이드) 식품의약품안전처 품목허가 승인)",
+      "rcept_dt": "20261007",
+      "flr_nm": "한미약품",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800667"
+    },
+    {
+      "rcept_no": "20261007800651",
+      "corp_name": "금양",
+      "stock_code": "001570",
+      "report_nm": "[기재정정]회계처리기준위반에따른검찰고발등조치              ",
+      "rcept_dt": "20261007",
+      "flr_nm": "금양",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800651"
     },
     {
       "rcept_no": "20261007800645",
@@ -145,6 +169,18 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000511",
+      "corp_name": "고영",
+      "stock_code": "098460",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261007",
+      "flr_nm": "J.P.MORGANSECURITIESPLC",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000511"
     },
     {
       "rcept_no": "20261007000475",
