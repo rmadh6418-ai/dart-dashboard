@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 15:40:24",
-  "total_count": 469,
+  "updated_at": "2026-10-07 15:59:24",
+  "total_count": 476,
   "disclosures": [
     {
       "rcept_no": "20261007900302",
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007900100"
+    },
+    {
+      "rcept_no": "20261007800399",
+      "corp_name": "엘앤에프",
+      "stock_code": "066970",
+      "report_nm": "풍문또는보도에대한해명(미확정)              ",
+      "rcept_dt": "20261007",
+      "flr_nm": "엘앤에프",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800399"
     },
     {
       "rcept_no": "20261007800351",
@@ -97,6 +109,78 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000336",
+      "corp_name": "SK",
+      "stock_code": "034730",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "SK",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000336"
+    },
+    {
+      "rcept_no": "20261007000335",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "임원영",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000335"
+    },
+    {
+      "rcept_no": "20261007000313",
+      "corp_name": "주성엔지니어링",
+      "stock_code": "036930",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261007",
+      "flr_nm": "삼성자산운용",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000313"
+    },
+    {
+      "rcept_no": "20261007000310",
+      "corp_name": "이오테크닉스",
+      "stock_code": "039030",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261007",
+      "flr_nm": "삼성자산운용",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000310"
+    },
+    {
+      "rcept_no": "20261007000305",
+      "corp_name": "유진테크",
+      "stock_code": "084370",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261007",
+      "flr_nm": "삼성자산운용",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000305"
+    },
+    {
+      "rcept_no": "20261007000302",
+      "corp_name": "원익IPS",
+      "stock_code": "240810",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261007",
+      "flr_nm": "삼성자산운용",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000302"
     },
     {
       "rcept_no": "20261007000301",
