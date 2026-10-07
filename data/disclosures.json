@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 08:48:43",
-  "total_count": 427,
+  "updated_at": "2026-10-07 09:10:10",
+  "total_count": 428,
   "disclosures": [
     {
       "rcept_no": "20261007800029",
@@ -13,6 +13,18 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000013",
+      "corp_name": "SK",
+      "stock_code": "034730",
+      "report_nm": "투자설명서",
+      "rcept_dt": "20261007",
+      "flr_nm": "SK",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000013"
     },
     {
       "rcept_no": "20260922100004",
