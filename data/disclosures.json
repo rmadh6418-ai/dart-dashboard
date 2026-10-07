@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 16:36:02",
-  "total_count": 484,
+  "updated_at": "2026-10-07 16:51:55",
+  "total_count": 487,
   "disclosures": [
     {
       "rcept_no": "20261007900302",
@@ -133,6 +133,42 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000445",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "김성진",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000445"
+    },
+    {
+      "rcept_no": "20261007000443",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "선주현",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000443"
+    },
+    {
+      "rcept_no": "20261007000413",
+      "corp_name": "한화에어로스페이스",
+      "stock_code": "012450",
+      "report_nm": "특수관계인과의수익증권거래",
+      "rcept_dt": "20261007",
+      "flr_nm": "한화에어로스페이스",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000413"
     },
     {
       "rcept_no": "20261007000400",
