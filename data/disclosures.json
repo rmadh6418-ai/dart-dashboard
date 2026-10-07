@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 11:07:58",
-  "total_count": 444,
+  "updated_at": "2026-10-07 11:33:25",
+  "total_count": 446,
   "disclosures": [
     {
       "rcept_no": "20261007900100",
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007900100"
+    },
+    {
+      "rcept_no": "20261007800159",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261007",
+      "flr_nm": "한화솔루션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800159"
     },
     {
       "rcept_no": "20261007800158",
@@ -49,6 +61,18 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000138",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261007",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000138"
     },
     {
       "rcept_no": "20261007000073",
