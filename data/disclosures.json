@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-07 10:10:11",
-  "total_count": 436,
+  "updated_at": "2026-10-07 10:33:09",
+  "total_count": 442,
   "disclosures": [
+    {
+      "rcept_no": "20261007900100",
+      "corp_name": "윤성에프앤씨",
+      "stock_code": "372170",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261007",
+      "flr_nm": "윤성에프앤씨",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007900100"
+    },
     {
       "rcept_no": "20261007800029",
       "corp_name": "현대모비스",
@@ -13,6 +25,66 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000073",
+      "corp_name": "아모레퍼시픽",
+      "stock_code": "090430",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "서병휘",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000073"
+    },
+    {
+      "rcept_no": "20261007000071",
+      "corp_name": "아모레퍼시픽",
+      "stock_code": "090430",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "심혜영",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000071"
+    },
+    {
+      "rcept_no": "20261007000069",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000069"
+    },
+    {
+      "rcept_no": "20261007000068",
+      "corp_name": "아모레퍼시픽",
+      "stock_code": "090430",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "김종하",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000068"
+    },
+    {
+      "rcept_no": "20261007000064",
+      "corp_name": "아모레퍼시픽",
+      "stock_code": "090430",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261007",
+      "flr_nm": "김경연",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000064"
     },
     {
       "rcept_no": "20261007000062",
