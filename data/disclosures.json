@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 17:09:54",
-  "total_count": 489,
+  "updated_at": "2026-10-07 17:36:15",
+  "total_count": 490,
   "disclosures": [
     {
       "rcept_no": "20261007900302",
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007900100"
+    },
+    {
+      "rcept_no": "20261007800645",
+      "corp_name": "SK가스",
+      "stock_code": "018670",
+      "report_nm": "[기재정정]타법인주식및출자증권처분결정(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261007",
+      "flr_nm": "SK가스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800645"
     },
     {
       "rcept_no": "20261007800463",
