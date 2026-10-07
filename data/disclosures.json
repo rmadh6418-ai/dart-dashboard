@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 13:34:46",
-  "total_count": 447,
+  "updated_at": "2026-10-07 13:53:46",
+  "total_count": 448,
   "disclosures": [
     {
       "rcept_no": "20261007900100",
@@ -61,6 +61,18 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000187",
+      "corp_name": "농심",
+      "stock_code": "004370",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261007",
+      "flr_nm": "신동원",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000187"
     },
     {
       "rcept_no": "20261007000153",
