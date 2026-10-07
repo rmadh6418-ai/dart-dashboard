@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 16:51:55",
-  "total_count": 487,
+  "updated_at": "2026-10-07 17:09:54",
+  "total_count": 489,
   "disclosures": [
     {
       "rcept_no": "20261007900302",
@@ -133,6 +133,30 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000475",
+      "corp_name": "코리안리",
+      "stock_code": "003690",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261007",
+      "flr_nm": "장인순",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000475"
+    },
+    {
+      "rcept_no": "20261007000458",
+      "corp_name": "효성",
+      "stock_code": "004800",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261007",
+      "flr_nm": "조현준",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000458"
     },
     {
       "rcept_no": "20261007000445",
