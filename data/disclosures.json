@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07 12:34:19",
-  "total_count": 446,
+  "updated_at": "2026-10-07 12:52:15",
+  "total_count": 447,
   "disclosures": [
     {
       "rcept_no": "20261007900100",
@@ -61,6 +61,18 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007800029"
+    },
+    {
+      "rcept_no": "20261007000153",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261007",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000153"
     },
     {
       "rcept_no": "20261007000138",
