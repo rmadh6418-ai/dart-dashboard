@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 13:08:32",
+  "updated_at": "2026-10-08 13:34:26",
   "total_count": 500,
   "disclosures": [
     {
@@ -63,6 +63,18 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900116"
     },
     {
+      "rcept_no": "20261008800289",
+      "corp_name": "삼성SDI",
+      "stock_code": "006400",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "삼성SDI",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800289"
+    },
+    {
       "rcept_no": "20261008800263",
       "corp_name": "한화엔진",
       "stock_code": "082740",
@@ -121,6 +133,42 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
+    },
+    {
+      "rcept_no": "20261008000248",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000248"
+    },
+    {
+      "rcept_no": "20261008000245",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261008",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000245"
+    },
+    {
+      "rcept_no": "20261008000243",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000243"
     },
     {
       "rcept_no": "20261008000234",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000572"
-    },
-    {
-      "rcept_no": "20260930000569",
-      "corp_name": "금양",
-      "stock_code": "001570",
-      "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
-      "rcept_dt": "20260930",
-      "flr_nm": "금양",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000569"
-    },
-    {
-      "rcept_no": "20260930000546",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000546"
-    },
-    {
-      "rcept_no": "20260930000536",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000536"
-    },
-    {
-      "rcept_no": "20260930000498",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(기타파생결합사채)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000498"
     }
   ]
 }
