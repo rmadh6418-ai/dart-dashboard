@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-08 11:07:52",
+  "updated_at": "2026-10-08 11:31:41",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261008900219",
+      "corp_name": "엔켐",
+      "stock_code": "348370",
+      "report_nm": "[기재정정]타법인주식및출자증권취득결정              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "엔켐",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900219"
+    },
     {
       "rcept_no": "20261008900217",
       "corp_name": "엔켐",
@@ -73,6 +85,18 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
+    },
+    {
+      "rcept_no": "20261008000178",
+      "corp_name": "엔켐",
+      "stock_code": "348370",
+      "report_nm": "[기재정정]주요사항보고서(타법인주식및출자증권양도결정)",
+      "rcept_dt": "20261008",
+      "flr_nm": "엔켐",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000178"
     },
     {
       "rcept_no": "20261008000164",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000422"
-    },
-    {
-      "rcept_no": "20260930000407",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000407"
-    },
-    {
-      "rcept_no": "20260930000402",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000402"
     }
   ]
 }
