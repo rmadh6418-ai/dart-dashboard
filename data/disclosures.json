@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 13:34:26",
+  "updated_at": "2026-10-08 13:52:50",
   "total_count": 500,
   "disclosures": [
     {
@@ -133,6 +133,54 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
+    },
+    {
+      "rcept_no": "20261008000292",
+      "corp_name": "SK증권",
+      "stock_code": "001510",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261008",
+      "flr_nm": "SK증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000292"
+    },
+    {
+      "rcept_no": "20261008000289",
+      "corp_name": "에스티팜",
+      "stock_code": "237690",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261008",
+      "flr_nm": "동아쏘시오홀딩스",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000289"
+    },
+    {
+      "rcept_no": "20261008000282",
+      "corp_name": "한화손해보험",
+      "stock_code": "000370",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261008",
+      "flr_nm": "허재오",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000282"
+    },
+    {
+      "rcept_no": "20261008000261",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261008",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000261"
     },
     {
       "rcept_no": "20261008000248",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000655"
-    },
-    {
-      "rcept_no": "20260930000621",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "박경수",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000621"
-    },
-    {
-      "rcept_no": "20260930000591",
-      "corp_name": "한화",
-      "stock_code": "000880",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "손재일",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000591"
-    },
-    {
-      "rcept_no": "20260930000581",
-      "corp_name": "휴젤",
-      "stock_code": "145020",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "설희수",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000581"
-    },
-    {
-      "rcept_no": "20260930000572",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000572"
     }
   ]
 }
