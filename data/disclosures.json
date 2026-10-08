@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-08 16:11:36",
+  "updated_at": "2026-10-08 16:36:57",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261008900645",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "알테오젠",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900645"
+    },
     {
       "rcept_no": "20261008900574",
       "corp_name": "브이티",
@@ -133,6 +145,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900116"
+    },
+    {
+      "rcept_no": "20261008800651",
+      "corp_name": "신세계",
+      "stock_code": "004170",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "신세계",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800651"
     },
     {
       "rcept_no": "20261008800626",
@@ -325,6 +349,102 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
+    },
+    {
+      "rcept_no": "20261008000590",
+      "corp_name": "씨엠티엑스",
+      "stock_code": "388210",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한국산업은행",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000590"
+    },
+    {
+      "rcept_no": "20261008000582",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261008",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000582"
+    },
+    {
+      "rcept_no": "20261008000574",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000574"
+    },
+    {
+      "rcept_no": "20261008000573",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261008",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000573"
+    },
+    {
+      "rcept_no": "20261008000569",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000569"
+    },
+    {
+      "rcept_no": "20261008000545",
+      "corp_name": "삼양식품",
+      "stock_code": "003230",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261008",
+      "flr_nm": "삼양라운드스퀘어",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000545"
+    },
+    {
+      "rcept_no": "20261008000543",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000543"
+    },
+    {
+      "rcept_no": "20261008000536",
+      "corp_name": "한국카본",
+      "stock_code": "017960",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261008",
+      "flr_nm": "조문수",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000536"
     },
     {
       "rcept_no": "20261008000530",
@@ -5881,126 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930900724"
-    },
-    {
-      "rcept_no": "20260930900659",
-      "corp_name": "리가켐바이오",
-      "stock_code": "141080",
-      "report_nm": "투자판단관련주요경영사항              (iADC 플랫폼 공동연구 및 기술도입 계약 체결)",
-      "rcept_dt": "20260930",
-      "flr_nm": "리가켐바이오",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930900659"
-    },
-    {
-      "rcept_no": "20260930900491",
-      "corp_name": "서진시스템",
-      "stock_code": "178320",
-      "report_nm": "기타경영사항(자율공시)(종속회사의주요경영사항)              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "서진시스템",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930900491"
-    },
-    {
-      "rcept_no": "20260930801313",
-      "corp_name": "HD현대",
-      "stock_code": "267250",
-      "report_nm": "[기재정정]타인에대한채무보증결정(자회사의 주요경영사항)              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "HD현대",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801313"
-    },
-    {
-      "rcept_no": "20260930801256",
-      "corp_name": "LS",
-      "stock_code": "006260",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "LS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801256"
-    },
-    {
-      "rcept_no": "20260930801255",
-      "corp_name": "LS",
-      "stock_code": "006260",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "LS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801255"
-    },
-    {
-      "rcept_no": "20260930801254",
-      "corp_name": "LS",
-      "stock_code": "006260",
-      "report_nm": "풍문또는보도에대한해명(미확정)(자회사의 주요경영사항)              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "LS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801254"
-    },
-    {
-      "rcept_no": "20260930801200",
-      "corp_name": "한화솔루션",
-      "stock_code": "009830",
-      "report_nm": "유상증자결정(종속회사의주요경영사항)              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화솔루션",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801200"
-    },
-    {
-      "rcept_no": "20260930801181",
-      "corp_name": "한국가스공사",
-      "stock_code": "036460",
-      "report_nm": "[기재정정]타법인주식및출자증권취득결정              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "한국가스공사",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801181"
-    },
-    {
-      "rcept_no": "20260930801176",
-      "corp_name": "LS",
-      "stock_code": "006260",
-      "report_nm": "타법인주식및출자증권취득결정(자회사의 주요경영사항)              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "LS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801176"
-    },
-    {
-      "rcept_no": "20260930801140",
-      "corp_name": "HD현대중공업",
-      "stock_code": "329180",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20260930",
-      "flr_nm": "HD현대중공업",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930801140"
     }
   ]
 }
