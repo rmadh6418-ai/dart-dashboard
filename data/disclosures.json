@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-08 12:34:28",
+  "updated_at": "2026-10-08 12:53:18",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261008900272",
+      "corp_name": "스튜디오드래곤",
+      "stock_code": "253450",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "스튜디오드래곤",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900272"
+    },
+    {
+      "rcept_no": "20261008900270",
+      "corp_name": "스튜디오드래곤",
+      "stock_code": "253450",
+      "report_nm": "결산실적공시예고              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "스튜디오드래곤",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900270"
+    },
     {
       "rcept_no": "20261008900219",
       "corp_name": "엔켐",
@@ -97,6 +121,18 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
+    },
+    {
+      "rcept_no": "20261008000234",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261008",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000234"
     },
     {
       "rcept_no": "20261008000222",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000498"
-    },
-    {
-      "rcept_no": "20260930000497",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20260930",
-      "flr_nm": "에코프로",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000497"
-    },
-    {
-      "rcept_no": "20260930000496",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20260930",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000496"
-    },
-    {
-      "rcept_no": "20260930000484",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000484"
     }
   ]
 }
