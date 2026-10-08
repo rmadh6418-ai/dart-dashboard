@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 11:49:54",
+  "updated_at": "2026-10-08 12:07:53",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900116"
+    },
+    {
+      "rcept_no": "20261008800263",
+      "corp_name": "한화엔진",
+      "stock_code": "082740",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화엔진",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800263"
     },
     {
       "rcept_no": "20261008800068",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000484"
-    },
-    {
-      "rcept_no": "20260930000478",
-      "corp_name": "현대모비스",
-      "stock_code": "012330",
-      "report_nm": "주요사항보고서(회사분할결정)",
-      "rcept_dt": "20260930",
-      "flr_nm": "현대모비스",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000478"
     }
   ]
 }
