@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-08 13:52:50",
+  "updated_at": "2026-10-08 14:08:42",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261008900338",
+      "corp_name": "에스피지",
+      "stock_code": "058610",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "에스피지",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "로봇·자동화",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900338"
+    },
     {
       "rcept_no": "20261008900272",
       "corp_name": "스튜디오드래곤",
@@ -133,6 +145,54 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
+    },
+    {
+      "rcept_no": "20261008000319",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000319"
+    },
+    {
+      "rcept_no": "20261008000307",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000307"
+    },
+    {
+      "rcept_no": "20261008000302",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000302"
+    },
+    {
+      "rcept_no": "20261008000296",
+      "corp_name": "대우건설",
+      "stock_code": "047040",
+      "report_nm": "특수관계인과의내부거래",
+      "rcept_dt": "20261008",
+      "flr_nm": "대우건설",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000296"
     },
     {
       "rcept_no": "20261008000292",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000712"
-    },
-    {
-      "rcept_no": "20260930000704",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "진정혁",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000704"
-    },
-    {
-      "rcept_no": "20260930000702",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000702"
-    },
-    {
-      "rcept_no": "20260930000693",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000693"
-    },
-    {
-      "rcept_no": "20260930000686",
-      "corp_name": "삼화네트웍스",
-      "stock_code": "046390",
-      "report_nm": "[기재정정]주식매수선택권부여에관한신고",
-      "rcept_dt": "20260930",
-      "flr_nm": "삼화네트웍스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000686"
-    },
-    {
-      "rcept_no": "20260930000655",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20260930",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000655"
     }
   ]
 }
