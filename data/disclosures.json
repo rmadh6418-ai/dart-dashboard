@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 17:54:48",
+  "updated_at": "2026-10-08 18:09:11",
   "total_count": 500,
   "disclosures": [
     {
@@ -145,6 +145,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008900116"
+    },
+    {
+      "rcept_no": "20261008800916",
+      "corp_name": "종근당",
+      "stock_code": "185750",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261008",
+      "flr_nm": "종근당",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800916"
     },
     {
       "rcept_no": "20261008800790",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001000460"
-    },
-    {
-      "rcept_no": "20261001000452",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261001",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261001000452"
     }
   ]
 }
