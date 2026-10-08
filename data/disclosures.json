@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 14:51:54",
+  "updated_at": "2026-10-08 15:10:22",
   "total_count": 500,
   "disclosures": [
     {
@@ -171,6 +171,42 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
     },
     {
+      "rcept_no": "20261008000410",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000410"
+    },
+    {
+      "rcept_no": "20261008000398",
+      "corp_name": "JYP Ent.",
+      "stock_code": "035900",
+      "report_nm": "[기재정정]주요사항보고서(유형자산양수결정)",
+      "rcept_dt": "20261008",
+      "flr_nm": "JYP Ent.",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000398"
+    },
+    {
+      "rcept_no": "20261008000397",
+      "corp_name": "SK증권",
+      "stock_code": "001510",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261008",
+      "flr_nm": "SK증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000397"
+    },
+    {
       "rcept_no": "20261008000382",
       "corp_name": "한화투자증권",
       "stock_code": "003530",
@@ -181,6 +217,18 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000382"
+    },
+    {
+      "rcept_no": "20261008000381",
+      "corp_name": "JYP Ent.",
+      "stock_code": "035900",
+      "report_nm": "주요사항보고서(유형자산양수결정)",
+      "rcept_dt": "20261008",
+      "flr_nm": "JYP Ent.",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000381"
     },
     {
       "rcept_no": "20261008000377",
@@ -1806,7 +1854,7 @@
       "rcept_no": "20261006000420",
       "corp_name": "알테오젠",
       "stock_code": "196170",
-      "report_nm": "주요사항보고서(회사합병결정)",
+      "report_nm": "[첨부추가]주요사항보고서(회사합병결정)",
       "rcept_dt": "20261006",
       "flr_nm": "알테오젠",
       "rm": "",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000821"
-    },
-    {
-      "rcept_no": "20260930000806",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000806"
-    },
-    {
-      "rcept_no": "20260930000799",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000799"
-    },
-    {
-      "rcept_no": "20260930000786",
-      "corp_name": "SK증권",
-      "stock_code": "001510",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "SK증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000786"
-    },
-    {
-      "rcept_no": "20260930000785",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000785"
     }
   ]
 }
