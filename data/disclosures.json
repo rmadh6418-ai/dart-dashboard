@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 14:34:45",
+  "updated_at": "2026-10-08 14:51:54",
   "total_count": 500,
   "disclosures": [
     {
@@ -169,6 +169,42 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800004"
+    },
+    {
+      "rcept_no": "20261008000382",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261008",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000382"
+    },
+    {
+      "rcept_no": "20261008000377",
+      "corp_name": "한중엔시에스",
+      "stock_code": "107640",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261008",
+      "flr_nm": "김상균",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000377"
+    },
+    {
+      "rcept_no": "20261008000369",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261008",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008000369"
     },
     {
       "rcept_no": "20261008000354",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000785"
-    },
-    {
-      "rcept_no": "20260930000774",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000774"
-    },
-    {
-      "rcept_no": "20260930000770",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "주요사항보고서(유상증자결정)",
-      "rcept_dt": "20260930",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000770"
-    },
-    {
-      "rcept_no": "20260930000768",
-      "corp_name": "메리츠금융지주",
-      "stock_code": "138040",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20260930",
-      "flr_nm": "권동찬",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930000768"
     }
   ]
 }
