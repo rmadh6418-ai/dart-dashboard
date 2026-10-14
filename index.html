@@ -73,6 +73,17 @@
         <select id="sectorFilter" onchange="renderList()" class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-blue-500">
           <option value="ALL">전체 섹터</option>
         </select>
+
+        <!-- 공시 유형 드롭다운 (추가됨) -->
+        <select id="typeFilter" onchange="renderList()" class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-blue-500">
+          <option value="ALL">전체 공시유형</option>
+          <option value="수주/계약">수주/계약</option>
+          <option value="자본/채권">자본/채권</option>
+          <option value="실적보고">실적보고</option>
+          <option value="주총/배당">주총/배당</option>
+          <option value="지분/자사주">지분/자사주</option>
+          <option value="기타">기타 공시</option>
+        </select>
       </div>
 
       <!-- 실시간 검색창 -->
@@ -167,7 +178,9 @@
         opt.innerText = sec;
         sectorSelect.appendChild(opt);
       });
-      sectorSelect.value = currentVal;
+      if (Array.from(sectorSelect.options).some(opt => opt.value === currentVal)) {
+        sectorSelect.value = currentVal;
+      }
     }
 
     function setMarket(market) {
@@ -181,29 +194,55 @@
       renderList();
     }
 
+    // 공시 제목 기반 카테고리 판별 함수
+    function getDisclosureType(title) {
+      if (!title) return '기타';
+      if (/공급계약|수주|단일판매/i.test(title)) return '수주/계약';
+      if (/유상증자|무상증자|전환사채|신주인수권|교환사채|감자|CB|BW/i.test(title)) return '자본/채권';
+      if (/분기보고서|반기보고서|사업보고서|실적|매출액또는손익구조/i.test(title)) return '실적보고';
+      if (/주주총회|배당/i.test(title)) return '주총/배당';
+      if (/자기주식|대량보유|임원ㆍ주요주주|최대주주/i.test(title)) return '지분/자사주';
+      return '기타';
+    }
+
+    // 카테고리별 배지 렌더링
     function getHighlightBadge(title) {
-      if (/공급계약|수주|단일판매/i.test(title)) return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">수주/계약</span>`;
-      if (/유상증자|무상증자|전환사채|CB|BW/i.test(title)) return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-400 border border-amber-500/30">자본/채권</span>`;
-      if (/분기보고서|반기보고서|사업보고서|실적/i.test(title)) return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-500/20 text-indigo-400 border border-indigo-500/30">실적보고</span>`;
-      if (/주주총회|배당/i.test(title)) return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-purple-500/20 text-purple-400 border border-purple-500/30">주총/배당</span>`;
-      return '';
+      const type = getDisclosureType(title);
+      switch (type) {
+        case '수주/계약':
+          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">수주/계약</span>`;
+        case '자본/채권':
+          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-400 border border-amber-500/30">자본/채권</span>`;
+        case '실적보고':
+          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-500/20 text-indigo-400 border border-indigo-500/30">실적보고</span>`;
+        case '주총/배당':
+          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-purple-500/20 text-purple-400 border border-purple-500/30">주총/배당</span>`;
+        case '지분/자사주':
+          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-pink-500/20 text-pink-400 border border-pink-500/30">지분/자사주</span>`;
+        default:
+          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-slate-700/60 text-slate-400 border border-slate-600/50">기타</span>`;
+      }
     }
 
     function renderList() {
       const keyword = document.getElementById("searchInput").value.trim().toLowerCase();
       const selectedSector = document.getElementById("sectorFilter").value;
-      const selectedDate = document.getElementById("dateFilter").value; 
+      const selectedDate = document.getElementById("dateFilter").value;
+      const selectedType = document.getElementById("typeFilter").value;
 
       const filtered = rawDisclosures.filter(item => {
+        const itemType = getDisclosureType(item.report_nm);
+
         const matchesMarket = currentMarket === "ALL" || item.market === currentMarket;
         const matchesSector = selectedSector === "ALL" || item.sector === selectedSector;
-        const matchesDate = selectedDate === "ALL" || item.rcept_dt === selectedDate; 
+        const matchesDate = selectedDate === "ALL" || item.rcept_dt === selectedDate;
+        const matchesType = selectedType === "ALL" || itemType === selectedType;
         const matchesKeyword = !keyword || 
           item.corp_name.toLowerCase().includes(keyword) || 
           item.report_nm.toLowerCase().includes(keyword) ||
           item.stock_code.includes(keyword);
         
-        return matchesMarket && matchesSector && matchesDate && matchesKeyword; 
+        return matchesMarket && matchesSector && matchesDate && matchesType && matchesKeyword; 
       });
 
       document.getElementById("disclosureCount").innerText = `표시 중인 공시: ${filtered.length}건`;
