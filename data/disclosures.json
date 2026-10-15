@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-14 21:22:47",
+  "updated_at": "2026-10-15 10:10:04",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261015800054",
+      "corp_name": "대한전선",
+      "stock_code": "001440",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261015",
+      "flr_nm": "대한전선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800054"
+    },
+    {
+      "rcept_no": "20261015000008",
+      "corp_name": "에코프로비엠",
+      "stock_code": "247540",
+      "report_nm": "[기재정정]특수관계인의유상증자참여",
+      "rcept_dt": "20261015",
+      "flr_nm": "에코프로비엠",
+      "rm": "공",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000008"
+    },
+    {
+      "rcept_no": "20261015000005",
+      "corp_name": "현대건설",
+      "stock_code": "000720",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261015",
+      "flr_nm": "이한우",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000005"
+    },
     {
       "rcept_no": "20261014900508",
       "corp_name": "알테오젠",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000253"
-    },
-    {
-      "rcept_no": "20261006000250",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261006",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000250"
-    },
-    {
-      "rcept_no": "20261006000248",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261006",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000248"
-    },
-    {
-      "rcept_no": "20261006000246",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261006",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006000246"
     }
   ]
 }
