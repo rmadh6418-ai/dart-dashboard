@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-19 15:06:13",
+  "updated_at": "2026-10-19 16:00:59",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261019900400",
+      "corp_name": "지투지바이오",
+      "stock_code": "456160",
+      "report_nm": "투자판단관련주요경영사항              (약효지속성 주사제 개발관련 플랫폼평가 계약 체결)",
+      "rcept_dt": "20261019",
+      "flr_nm": "지투지바이오",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900400"
+    },
     {
       "rcept_no": "20261019900366",
       "corp_name": "에코프로비엠",
@@ -13,6 +25,66 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900366"
+    },
+    {
+      "rcept_no": "20261019800449",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261019",
+      "flr_nm": "대신증권",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800449"
+    },
+    {
+      "rcept_no": "20261019800444",
+      "corp_name": "HD한국조선해양",
+      "stock_code": "009540",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261019",
+      "flr_nm": "HD한국조선해양",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800444"
+    },
+    {
+      "rcept_no": "20261019800441",
+      "corp_name": "HD한국조선해양",
+      "stock_code": "009540",
+      "report_nm": "영업(잠정)실적(공정공시)(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261019",
+      "flr_nm": "HD한국조선해양",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800441"
+    },
+    {
+      "rcept_no": "20261019800435",
+      "corp_name": "HD현대중공업",
+      "stock_code": "329180",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261019",
+      "flr_nm": "HD현대중공업",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800435"
+    },
+    {
+      "rcept_no": "20261019800376",
+      "corp_name": "기업은행",
+      "stock_code": "024110",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261019",
+      "flr_nm": "기업은행",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800376"
     },
     {
       "rcept_no": "20261019800354",
@@ -193,6 +265,54 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800001"
+    },
+    {
+      "rcept_no": "20261019000234",
+      "corp_name": "웹젠",
+      "stock_code": "069080",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261019",
+      "flr_nm": "김병관",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "게임·소프트웨어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000234"
+    },
+    {
+      "rcept_no": "20261019000211",
+      "corp_name": "KB금융",
+      "stock_code": "105560",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261019",
+      "flr_nm": "김성현",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000211"
+    },
+    {
+      "rcept_no": "20261019000210",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261019",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000210"
+    },
+    {
+      "rcept_no": "20261019000207",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261019",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000207"
     },
     {
       "rcept_no": "20261019000192",
@@ -5881,126 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800753"
-    },
-    {
-      "rcept_no": "20261008800729",
-      "corp_name": "롯데쇼핑",
-      "stock_code": "023530",
-      "report_nm": "[기재정정]주주총회소집결의              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "롯데쇼핑",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800729"
-    },
-    {
-      "rcept_no": "20261008800651",
-      "corp_name": "신세계",
-      "stock_code": "004170",
-      "report_nm": "영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "신세계",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800651"
-    },
-    {
-      "rcept_no": "20261008800626",
-      "corp_name": "한화오션",
-      "stock_code": "042660",
-      "report_nm": "[기재정정]타법인주식및출자증권취득결정(자율공시)(종속회사의주요경영사항)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "한화오션",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800626"
-    },
-    {
-      "rcept_no": "20261008800617",
-      "corp_name": "한화오션",
-      "stock_code": "042660",
-      "report_nm": "[기재정정]유상증자결정(종속회사의주요경영사항)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "한화오션",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800617"
-    },
-    {
-      "rcept_no": "20261008800604",
-      "corp_name": "카카오",
-      "stock_code": "035720",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "카카오",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800604"
-    },
-    {
-      "rcept_no": "20261008800538",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "유상증자또는주식관련사채등의발행결과(자율공시)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "한화투자증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800538"
-    },
-    {
-      "rcept_no": "20261008800513",
-      "corp_name": "현대모비스",
-      "stock_code": "012330",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "현대모비스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800513"
-    },
-    {
-      "rcept_no": "20261008800499",
-      "corp_name": "OCI홀딩스",
-      "stock_code": "010060",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "OCI홀딩스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800499"
-    },
-    {
-      "rcept_no": "20261008800488",
-      "corp_name": "한화에어로스페이스",
-      "stock_code": "012450",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "한화에어로스페이스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800488"
-    },
-    {
-      "rcept_no": "20261008800486",
-      "corp_name": "한화에어로스페이스",
-      "stock_code": "012450",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261008",
-      "flr_nm": "한화에어로스페이스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008800486"
     }
   ]
 }
