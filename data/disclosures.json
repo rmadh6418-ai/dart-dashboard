@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-20 11:01:12",
+  "updated_at": "2026-10-20 11:31:11",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261020800241",
+      "corp_name": "S-Oil",
+      "stock_code": "010950",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "S-Oil",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800241"
+    },
     {
       "rcept_no": "20261020800232",
       "corp_name": "HD현대",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "방위산업·우주항공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000264"
-    },
-    {
-      "rcept_no": "20261012000262",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261012",
-      "flr_nm": "농협금융지주",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000262"
     }
   ]
 }
