@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-20 09:00:54",
+  "updated_at": "2026-10-20 09:30:51",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261020800158",
+      "corp_name": "대한전선",
+      "stock_code": "001440",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "대한전선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800158"
+    },
+    {
+      "rcept_no": "20261020800155",
+      "corp_name": "대한전선",
+      "stock_code": "001440",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "대한전선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800155"
+    },
+    {
+      "rcept_no": "20261020000018",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261020",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000018"
+    },
     {
       "rcept_no": "20261019900587",
       "corp_name": "에코프로",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000209"
-    },
-    {
-      "rcept_no": "20261012000205",
-      "corp_name": "한화오션",
-      "stock_code": "042660",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261012",
-      "flr_nm": "윤동원",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000205"
-    },
-    {
-      "rcept_no": "20261012000203",
-      "corp_name": "엘앤씨바이오",
-      "stock_code": "290650",
-      "report_nm": "[기재정정]투자설명서",
-      "rcept_dt": "20261012",
-      "flr_nm": "엘앤씨바이오",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000203"
-    },
-    {
-      "rcept_no": "20261012000202",
-      "corp_name": "엘앤씨바이오",
-      "stock_code": "290650",
-      "report_nm": "[발행조건확정]증권신고서(지분증권)",
-      "rcept_dt": "20261012",
-      "flr_nm": "엘앤씨바이오",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000202"
     }
   ]
 }
