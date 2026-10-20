@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-20 17:31:10",
+  "updated_at": "2026-10-20 18:00:57",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261020900754",
+      "corp_name": "보로노이",
+      "stock_code": "310210",
+      "report_nm": "[기재정정]투자판단관련주요경영사항(임상시험계획변경승인)              (VRN110755의 제 1/2상 임상시험)",
+      "rcept_dt": "20261020",
+      "flr_nm": "보로노이",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900754"
+    },
     {
       "rcept_no": "20261020900613",
       "corp_name": "네오위즈",
@@ -49,6 +61,42 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900344"
+    },
+    {
+      "rcept_no": "20261020800741",
+      "corp_name": "HD현대",
+      "stock_code": "267250",
+      "report_nm": "중대재해발생(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "HD현대",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800741"
+    },
+    {
+      "rcept_no": "20261020800731",
+      "corp_name": "HD현대일렉트릭",
+      "stock_code": "267260",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "HD현대일렉트릭",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800731"
+    },
+    {
+      "rcept_no": "20261020800720",
+      "corp_name": "HD현대일렉트릭",
+      "stock_code": "267260",
+      "report_nm": "중대재해발생(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "HD현대일렉트릭",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800720"
     },
     {
       "rcept_no": "20261020800624",
@@ -5953,54 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900369"
-    },
-    {
-      "rcept_no": "20261012900350",
-      "corp_name": "HLB",
-      "stock_code": "028300",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261012",
-      "flr_nm": "HLB",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900350"
-    },
-    {
-      "rcept_no": "20261012900305",
-      "corp_name": "엘앤씨바이오",
-      "stock_code": "290650",
-      "report_nm": "유상증자최종발행가액확정              ",
-      "rcept_dt": "20261012",
-      "flr_nm": "엘앤씨바이오",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900305"
-    },
-    {
-      "rcept_no": "20261012900183",
-      "corp_name": "서진시스템",
-      "stock_code": "178320",
-      "report_nm": "단일판매ㆍ공급계약체결(자율공시)              ",
-      "rcept_dt": "20261012",
-      "flr_nm": "서진시스템",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900183"
-    },
-    {
-      "rcept_no": "20261012900154",
-      "corp_name": "동국제약",
-      "stock_code": "086450",
-      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
-      "rcept_dt": "20261012",
-      "flr_nm": "동국제약",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900154"
     }
   ]
 }
