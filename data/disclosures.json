@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 10:01:00",
+  "updated_at": "2026-10-20 10:26:13",
   "total_count": 500,
   "disclosures": [
     {
@@ -85,6 +85,18 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800155"
+    },
+    {
+      "rcept_no": "20261020700202",
+      "corp_name": "엔켐",
+      "stock_code": "348370",
+      "report_nm": "상장채권관련기타주요사항              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "엔켐",
+      "rm": "채",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020700202"
     },
     {
       "rcept_no": "20261020000051",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000251"
-    },
-    {
-      "rcept_no": "20261012000247",
-      "corp_name": "한화에어로스페이스",
-      "stock_code": "012450",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261012",
-      "flr_nm": "김성민",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000247"
     }
   ]
 }
