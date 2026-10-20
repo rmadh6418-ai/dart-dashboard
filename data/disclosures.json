@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 15:32:47",
+  "updated_at": "2026-10-20 15:48:30",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,54 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900344"
+    },
+    {
+      "rcept_no": "20261020800469",
+      "corp_name": "크래프톤",
+      "stock_code": "259960",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "크래프톤",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800469"
+    },
+    {
+      "rcept_no": "20261020800466",
+      "corp_name": "크래프톤",
+      "stock_code": "259960",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "크래프톤",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800466"
+    },
+    {
+      "rcept_no": "20261020800461",
+      "corp_name": "JB금융지주",
+      "stock_code": "175330",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "JB금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800461"
+    },
+    {
+      "rcept_no": "20261020800455",
+      "corp_name": "NAVER",
+      "stock_code": "035420",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "NAVER",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800455"
     },
     {
       "rcept_no": "20261020800436",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "방위산업·우주항공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000429"
-    },
-    {
-      "rcept_no": "20261012000422",
-      "corp_name": "한화시스템",
-      "stock_code": "272210",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261012",
-      "flr_nm": "이성훈",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000422"
-    },
-    {
-      "rcept_no": "20261012000421",
-      "corp_name": "삼성전자",
-      "stock_code": "005930",
-      "report_nm": "자기주식취득결과보고서",
-      "rcept_dt": "20261012",
-      "flr_nm": "삼성전자",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000421"
-    },
-    {
-      "rcept_no": "20261012000411",
-      "corp_name": "한중엔시에스",
-      "stock_code": "107640",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261012",
-      "flr_nm": "김상균",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000411"
-    },
-    {
-      "rcept_no": "20261012000409",
-      "corp_name": "한화시스템",
-      "stock_code": "272210",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261012",
-      "flr_nm": "김호중",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000409"
     }
   ]
 }
