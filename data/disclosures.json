@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 15:48:30",
+  "updated_at": "2026-10-20 15:59:50",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,42 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900344"
+    },
+    {
+      "rcept_no": "20261020800484",
+      "corp_name": "LG생활건강",
+      "stock_code": "051900",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "LG생활건강",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800484"
+    },
+    {
+      "rcept_no": "20261020800482",
+      "corp_name": "우리금융지주",
+      "stock_code": "316140",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "우리금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800482"
+    },
+    {
+      "rcept_no": "20261020800477",
+      "corp_name": "LG생활건강",
+      "stock_code": "051900",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "LG생활건강",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800477"
     },
     {
       "rcept_no": "20261020800469",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000479"
-    },
-    {
-      "rcept_no": "20261012000469",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "[발행조건확정]증권신고서(채무증권)",
-      "rcept_dt": "20261012",
-      "flr_nm": "고려아연",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000469"
-    },
-    {
-      "rcept_no": "20261012000440",
-      "corp_name": "기아",
-      "stock_code": "000270",
-      "report_nm": "특수관계인으로부터기타유가증권매수",
-      "rcept_dt": "20261012",
-      "flr_nm": "기아",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000440"
-    },
-    {
-      "rcept_no": "20261012000429",
-      "corp_name": "한화시스템",
-      "stock_code": "272210",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261012",
-      "flr_nm": "지상민",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000429"
     }
   ]
 }
