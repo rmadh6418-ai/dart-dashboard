@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 15:59:50",
+  "updated_at": "2026-10-20 16:01:19",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020900344"
+    },
+    {
+      "rcept_no": "20261020800513",
+      "corp_name": "포스코인터내셔널",
+      "stock_code": "047050",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "포스코인터내셔널",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800513"
     },
     {
       "rcept_no": "20261020800484",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012800004"
-    },
-    {
-      "rcept_no": "20261012000479",
-      "corp_name": "한국금융지주",
-      "stock_code": "071050",
-      "report_nm": "[발행조건확정]증권신고서(채무증권)",
-      "rcept_dt": "20261012",
-      "flr_nm": "한국금융지주",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000479"
     }
   ]
 }
