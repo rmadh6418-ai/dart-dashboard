@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 17:01:20",
+  "updated_at": "2026-10-20 17:31:10",
   "total_count": 500,
   "disclosures": [
     {
@@ -397,6 +397,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020700202"
+    },
+    {
+      "rcept_no": "20261020000374",
+      "corp_name": "GS",
+      "stock_code": "078930",
+      "report_nm": "[발행조건확정]증권신고서(채무증권)",
+      "rcept_dt": "20261020",
+      "flr_nm": "GS",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000374"
     },
     {
       "rcept_no": "20261020000330",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900154"
-    },
-    {
-      "rcept_no": "20261012900140",
-      "corp_name": "동국제약",
-      "stock_code": "086450",
-      "report_nm": "주주총회소집결의              (임시주주총회)",
-      "rcept_dt": "20261012",
-      "flr_nm": "동국제약",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900140"
     }
   ]
 }
