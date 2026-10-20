@@ -2,18 +2,24 @@
 <html lang="ko" class="dark">
 <head>
   <meta charset="UTF-8">
-  <!-- 모바일 뷰포트 최적화 (확대 방지) -->
+  <!-- 모바일 앱처럼 화면 확대/축소 방지 추가 -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>DART 핵심 종목 공시 모니터링 대시보드</title>
 
-  <!-- PWA 앱 설정 -->
-  <link rel="manifest" href="./manifest.json">
+  <!-- 웹앱(PWA) 기본 설정 -->
   <meta name="theme-color" content="#0f172a">
+  <meta name="mobile-web-app-capable" content="yes">
+  
+  <!-- iOS (아이폰) 전용 앱 설정 -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="DART레이더">
-  <link rel="apple-touch-icon" href="./icon-192x192.png">
+  <meta name="apple-mobile-web-app-title" content="DART 레이더">
+  <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/1076/1076323.png">
 
+  <!-- Android (갤럭시 등) 전용 앱 설정 (별도 파일 없이 인라인 적용) -->
+  <link rel="manifest" href='data:application/manifest+json;utf-8,{"name":"DART 공시 레이더","short_name":"DART 레이더","display":"standalone","background_color":"#0f172a","theme_color":"#0f172a","icons":[{"src":"https://cdn-icons-png.flaticon.com/512/1076/1076323.png","sizes":"512x512","type":"image/png"}]}'>
+
+  <script src="https://cdn-icons-png.flaticon.com/512/1076/1076323.png"></script> <!-- 아이콘 프리패치 -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -283,15 +289,6 @@
           </div>
         `;
       }).join('');
-    }
-
-    // PWA 서비스 워커 등록
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js')
-          .then(registration => console.log('ServiceWorker 등록 성공'))
-          .catch(error => console.log('ServiceWorker 등록 실패:', error));
-      });
     }
   </script>
 </body>
