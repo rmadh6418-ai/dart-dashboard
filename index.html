@@ -2,8 +2,18 @@
 <html lang="ko" class="dark">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- 모바일 뷰포트 최적화 (확대 방지) -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>DART 핵심 종목 공시 모니터링 대시보드</title>
+
+  <!-- PWA 앱 설정 -->
+  <link rel="manifest" href="./manifest.json">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="DART레이더">
+  <link rel="apple-touch-icon" href="./icon-192x192.png">
+
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -74,7 +84,7 @@
           <option value="ALL">전체 섹터</option>
         </select>
 
-        <!-- 공시 유형 드롭다운 (추가됨) -->
+        <!-- 공시 유형 드롭다운 -->
         <select id="typeFilter" onchange="renderList()" class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-blue-500">
           <option value="ALL">전체 공시유형</option>
           <option value="수주/계약">수주/계약</option>
@@ -107,17 +117,14 @@
     let currentMarket = "ALL";
     let isUnlocked = false;
 
-    // 잠금 해제 로직 (비트 연산 적용)
     function unlockDashboard() {
       const inputVal = parseInt(document.getElementById('pwdInput').value, 10);
       
-      // 입력값에 0x3F(63)을 XOR 연산하여 0x1054(4180)이 나오는지 확인
-      // 이 조건을 충족하는 유일한 정수값은 4203 입니다. (4203 ^ 63 = 4180)
       if (!isNaN(inputVal) && (inputVal ^ 0x3F) === 0x1054) {
         document.getElementById('authOverlay').style.display = 'none';
         isUnlocked = true;
         fetchData();
-        setInterval(fetchData, 300000); // 잠금 해제 후에만 5분 타이머 작동
+        setInterval(fetchData, 300000);
       } else {
         alert("비밀번호가 일치하지 않습니다.");
         document.getElementById('pwdInput').value = '';
@@ -126,7 +133,7 @@
     }
 
     async function fetchData() {
-      if (!isUnlocked) return; // 잠겨있을 때는 데이터 호출 차단
+      if (!isUnlocked) return;
 
       try {
         const res = await fetch(`./data/disclosures.json?t=${Date.now()}`);
@@ -194,7 +201,6 @@
       renderList();
     }
 
-    // 공시 제목 기반 카테고리 판별 함수
     function getDisclosureType(title) {
       if (!title) return '기타';
       if (/공급계약|수주|단일판매/i.test(title)) return '수주/계약';
@@ -205,22 +211,15 @@
       return '기타';
     }
 
-    // 카테고리별 배지 렌더링
     function getHighlightBadge(title) {
       const type = getDisclosureType(title);
       switch (type) {
-        case '수주/계약':
-          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">수주/계약</span>`;
-        case '자본/채권':
-          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-400 border border-amber-500/30">자본/채권</span>`;
-        case '실적보고':
-          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-500/20 text-indigo-400 border border-indigo-500/30">실적보고</span>`;
-        case '주총/배당':
-          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-purple-500/20 text-purple-400 border border-purple-500/30">주총/배당</span>`;
-        case '지분/자사주':
-          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-pink-500/20 text-pink-400 border border-pink-500/30">지분/자사주</span>`;
-        default:
-          return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-slate-700/60 text-slate-400 border border-slate-600/50">기타</span>`;
+        case '수주/계약': return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">수주/계약</span>`;
+        case '자본/채권': return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-amber-500/20 text-amber-400 border border-amber-500/30">자본/채권</span>`;
+        case '실적보고': return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-500/20 text-indigo-400 border border-indigo-500/30">실적보고</span>`;
+        case '주총/배당': return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-purple-500/20 text-purple-400 border border-purple-500/30">주총/배당</span>`;
+        case '지분/자사주': return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-pink-500/20 text-pink-400 border border-pink-500/30">지분/자사주</span>`;
+        default: return `<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-slate-700/60 text-slate-400 border border-slate-600/50">기타</span>`;
       }
     }
 
@@ -232,7 +231,6 @@
 
       const filtered = rawDisclosures.filter(item => {
         const itemType = getDisclosureType(item.report_nm);
-
         const matchesMarket = currentMarket === "ALL" || item.market === currentMarket;
         const matchesSector = selectedSector === "ALL" || item.sector === selectedSector;
         const matchesDate = selectedDate === "ALL" || item.rcept_dt === selectedDate;
@@ -285,6 +283,15 @@
           </div>
         `;
       }).join('');
+    }
+
+    // PWA 서비스 워커 등록
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(registration => console.log('ServiceWorker 등록 성공'))
+          .catch(error => console.log('ServiceWorker 등록 실패:', error));
+      });
     }
   </script>
 </body>
