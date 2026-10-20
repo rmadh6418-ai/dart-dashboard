@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-20 13:00:51",
+  "updated_at": "2026-10-20 13:31:05",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261020800302",
+      "corp_name": "현대오토에버",
+      "stock_code": "307950",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261020",
+      "flr_nm": "현대오토에버",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800302"
+    },
     {
       "rcept_no": "20261020800241",
       "corp_name": "S-Oil",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000280"
-    },
-    {
-      "rcept_no": "20261012000279",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261012",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012000279"
     }
   ]
 }
