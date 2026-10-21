@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 13:01:14",
+  "updated_at": "2026-10-21 13:31:06",
   "total_count": 500,
   "disclosures": [
     {
@@ -85,6 +85,42 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800102"
+    },
+    {
+      "rcept_no": "20261021000149",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261021",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000149"
+    },
+    {
+      "rcept_no": "20261021000144",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261021",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000144"
+    },
+    {
+      "rcept_no": "20261021000140",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261021",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000140"
     },
     {
       "rcept_no": "20261021000126",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000234"
-    },
-    {
-      "rcept_no": "20261013000217",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "[기재정정]투자설명서",
-      "rcept_dt": "20261013",
-      "flr_nm": "에코프로비엠",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000217"
-    },
-    {
-      "rcept_no": "20261013000214",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "[발행조건확정]증권신고서(지분증권)",
-      "rcept_dt": "20261013",
-      "flr_nm": "에코프로비엠",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000214"
-    },
-    {
-      "rcept_no": "20261013000198",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
-      "rcept_dt": "20261013",
-      "flr_nm": "에코프로비엠",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000198"
     }
   ]
 }
