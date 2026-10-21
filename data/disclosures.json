@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-20 21:05:08",
+  "updated_at": "2026-10-21 09:01:23",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261021000002",
+      "corp_name": "GS",
+      "stock_code": "078930",
+      "report_nm": "투자설명서",
+      "rcept_dt": "20261021",
+      "flr_nm": "GS",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000002"
+    },
+    {
+      "rcept_no": "20261008100025",
+      "corp_name": "GS",
+      "stock_code": "078930",
+      "report_nm": "효력발생안내( 2026.10.8. 제출 증권신고서(채무증권) )",
+      "rcept_dt": "20261021",
+      "flr_nm": "금융감독원",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261008100025"
+    },
     {
       "rcept_no": "20261020900754",
       "corp_name": "보로노이",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900492"
-    },
-    {
-      "rcept_no": "20261012900388",
-      "corp_name": "올릭스",
-      "stock_code": "226950",
-      "report_nm": "투자판단관련주요경영사항              (임상시험계획 승인 신청 반려)",
-      "rcept_dt": "20261012",
-      "flr_nm": "올릭스",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900388"
-    },
-    {
-      "rcept_no": "20261012900369",
-      "corp_name": "서진시스템",
-      "stock_code": "178320",
-      "report_nm": "[기재정정]최대주주변경을수반하는주식담보제공계약체결              ",
-      "rcept_dt": "20261012",
-      "flr_nm": "서진시스템",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900369"
     }
   ]
 }
