@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 10:10:53",
+  "updated_at": "2026-10-21 10:31:02",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800102"
+    },
+    {
+      "rcept_no": "20261021000075",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261021",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000075"
     },
     {
       "rcept_no": "20261021000065",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000008"
-    },
-    {
-      "rcept_no": "20261013000006",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "투자설명서",
-      "rcept_dt": "20261013",
-      "flr_nm": "고려아연",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000006"
     }
   ]
 }
