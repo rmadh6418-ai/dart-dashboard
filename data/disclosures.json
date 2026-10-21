@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-21 09:31:07",
+  "updated_at": "2026-10-21 10:00:53",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261021800102",
+      "corp_name": "POSCO홀딩스",
+      "stock_code": "005490",
+      "report_nm": "풍문또는보도에대한해명(미확정)(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261021",
+      "flr_nm": "POSCO홀딩스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800102"
+    },
+    {
+      "rcept_no": "20261021000041",
+      "corp_name": "에코프로",
+      "stock_code": "086520",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261021",
+      "flr_nm": "이동채",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000041"
+    },
     {
       "rcept_no": "20261021000002",
       "corp_name": "GS",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900660"
-    },
-    {
-      "rcept_no": "20261012900551",
-      "corp_name": "솔브레인",
-      "stock_code": "357780",
-      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
-      "rcept_dt": "20261012",
-      "flr_nm": "솔브레인",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900551"
-    },
-    {
-      "rcept_no": "20261012900492",
-      "corp_name": "솔브레인",
-      "stock_code": "357780",
-      "report_nm": "주주총회소집결의              (임시주주총회)",
-      "rcept_dt": "20261012",
-      "flr_nm": "솔브레인",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900492"
     }
   ]
 }
