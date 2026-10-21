@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 14:01:13",
+  "updated_at": "2026-10-21 14:30:47",
   "total_count": 500,
   "disclosures": [
     {
@@ -85,6 +85,18 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800102"
+    },
+    {
+      "rcept_no": "20261021000163",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "특수관계인으로부터유가증권차입",
+      "rcept_dt": "20261021",
+      "flr_nm": "삼성증권",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000163"
     },
     {
       "rcept_no": "20261021000155",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000258"
-    },
-    {
-      "rcept_no": "20261013000253",
-      "corp_name": "JB금융지주",
-      "stock_code": "175330",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261013",
-      "flr_nm": "JB금융지주",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000253"
     }
   ]
 }
