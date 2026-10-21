@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-21 11:30:45",
+  "updated_at": "2026-10-21 12:00:58",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261021800180",
+      "corp_name": "대한전선",
+      "stock_code": "001440",
+      "report_nm": "공정거래자율준수프로그램운영현황(안내공시)              ",
+      "rcept_dt": "20261021",
+      "flr_nm": "대한전선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800180"
+    },
     {
       "rcept_no": "20261021800158",
       "corp_name": "대한전선",
@@ -73,6 +85,54 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800102"
+    },
+    {
+      "rcept_no": "20261021000126",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261021",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000126"
+    },
+    {
+      "rcept_no": "20261021000125",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261021",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000125"
+    },
+    {
+      "rcept_no": "20261021000120",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261021",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000120"
+    },
+    {
+      "rcept_no": "20261021000112",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261021",
+      "flr_nm": "티로우프라이스어소시에이트,인크.",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000112"
     },
     {
       "rcept_no": "20261021000094",
@@ -5941,66 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000198"
-    },
-    {
-      "rcept_no": "20261013000137",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261013",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000137"
-    },
-    {
-      "rcept_no": "20261013000126",
-      "corp_name": "현대건설",
-      "stock_code": "000720",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261013",
-      "flr_nm": "조혁준",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000126"
-    },
-    {
-      "rcept_no": "20261013000103",
-      "corp_name": "SK증권",
-      "stock_code": "001510",
-      "report_nm": "일괄신고서(기타파생결합사채)",
-      "rcept_dt": "20261013",
-      "flr_nm": "SK증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000103"
-    },
-    {
-      "rcept_no": "20261013000100",
-      "corp_name": "SK증권",
-      "stock_code": "001510",
-      "report_nm": "일괄신고서(기타파생결합증권)",
-      "rcept_dt": "20261013",
-      "flr_nm": "SK증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000100"
-    },
-    {
-      "rcept_no": "20261013000097",
-      "corp_name": "SK증권",
-      "stock_code": "001510",
-      "report_nm": "일괄신고서(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20261013",
-      "flr_nm": "SK증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000097"
     }
   ]
 }
