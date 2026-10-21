@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-21 14:30:47",
+  "updated_at": "2026-10-21 15:01:11",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261021800270",
+      "corp_name": "한화손해보험",
+      "stock_code": "000370",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261021",
+      "flr_nm": "한화손해보험",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800270"
+    },
     {
       "rcept_no": "20261021800180",
       "corp_name": "대한전선",
@@ -85,6 +97,30 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800102"
+    },
+    {
+      "rcept_no": "20261021000182",
+      "corp_name": "한화손해보험",
+      "stock_code": "000370",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261021",
+      "flr_nm": "나채범",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000182"
+    },
+    {
+      "rcept_no": "20261021000180",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "특수관계인과의수익증권거래",
+      "rcept_dt": "20261021",
+      "flr_nm": "삼성증권",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000180"
     },
     {
       "rcept_no": "20261021000163",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000279"
-    },
-    {
-      "rcept_no": "20261013000277",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "일괄신고추가서류(파생결합증권-주식워런트증권)",
-      "rcept_dt": "20261013",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000277"
-    },
-    {
-      "rcept_no": "20261013000275",
-      "corp_name": "심텍",
-      "stock_code": "222800",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261013",
-      "flr_nm": "심텍홀딩스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000275"
-    },
-    {
-      "rcept_no": "20261013000258",
-      "corp_name": "하나머티리얼즈",
-      "stock_code": "166090",
-      "report_nm": "주주총회소집공고",
-      "rcept_dt": "20261013",
-      "flr_nm": "하나머티리얼즈",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000258"
     }
   ]
 }
