@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-21 11:00:54",
+  "updated_at": "2026-10-21 11:30:45",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261021800158",
+      "corp_name": "대한전선",
+      "stock_code": "001440",
+      "report_nm": "대표이사(대표집행임원)변경(안내공시)              ",
+      "rcept_dt": "20261021",
+      "flr_nm": "대한전선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800158"
+    },
     {
       "rcept_no": "20261021800142",
       "corp_name": "삼성에피스홀딩스",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000097"
-    },
-    {
-      "rcept_no": "20261013000079",
-      "corp_name": "SK증권",
-      "stock_code": "001510",
-      "report_nm": "일괄신고서(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261013",
-      "flr_nm": "SK증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000079"
     }
   ]
 }
