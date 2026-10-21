@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-21 10:00:53",
+  "updated_at": "2026-10-21 10:10:53",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261021800110",
+      "corp_name": "대우건설",
+      "stock_code": "047040",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261021",
+      "flr_nm": "대우건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800110"
+    },
     {
       "rcept_no": "20261021800102",
       "corp_name": "POSCO홀딩스",
@@ -13,6 +25,42 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800102"
+    },
+    {
+      "rcept_no": "20261021000065",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261021",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000065"
+    },
+    {
+      "rcept_no": "20261021000062",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261021",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000062"
+    },
+    {
+      "rcept_no": "20261021000061",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261021",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000061"
     },
     {
       "rcept_no": "20261021000041",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013000006"
-    },
-    {
-      "rcept_no": "20260929100024",
-      "corp_name": "한국금융지주",
-      "stock_code": "071050",
-      "report_nm": "효력발생안내( 2026.9.29. 제출 증권신고서(채무증권) )",
-      "rcept_dt": "20261013",
-      "flr_nm": "금융감독원",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929100024"
-    },
-    {
-      "rcept_no": "20260929100023",
-      "corp_name": "JB금융지주",
-      "stock_code": "175330",
-      "report_nm": "효력발생안내( 2026.9.29. 제출 증권신고서(채무증권) )",
-      "rcept_dt": "20261013",
-      "flr_nm": "금융감독원",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929100023"
-    },
-    {
-      "rcept_no": "20260929100021",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "효력발생안내( 2026.9.29. 제출 증권신고서(채무증권) )",
-      "rcept_dt": "20261013",
-      "flr_nm": "금융감독원",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260929100021"
-    },
-    {
-      "rcept_no": "20261012900660",
-      "corp_name": "에코프로에이치엔",
-      "stock_code": "383310",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261012",
-      "flr_nm": "에코프로에이치엔",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261012900660"
     }
   ]
 }
