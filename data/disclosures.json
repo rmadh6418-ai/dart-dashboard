@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-22 13:31:10",
+  "updated_at": "2026-10-22 14:00:56",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261022800219",
+      "corp_name": "현대건설",
+      "stock_code": "000720",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261022",
+      "flr_nm": "현대건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800219"
+    },
     {
       "rcept_no": "20261022800204",
       "corp_name": "현대글로비스",
@@ -73,6 +85,18 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800111"
+    },
+    {
+      "rcept_no": "20261022000126",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261022",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000126"
     },
     {
       "rcept_no": "20261022000062",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000267"
-    },
-    {
-      "rcept_no": "20261014000259",
-      "corp_name": "에코프로",
-      "stock_code": "086520",
-      "report_nm": "[기재정정]특수관계인에대한출자",
-      "rcept_dt": "20261014",
-      "flr_nm": "에코프로",
-      "rm": "공",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000259"
-    },
-    {
-      "rcept_no": "20261014000252",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261014",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000252"
     }
   ]
 }
