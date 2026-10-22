@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-22 15:01:21",
+  "updated_at": "2026-10-22 15:09:06",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261022900320",
+      "corp_name": "대주전자재료",
+      "stock_code": "078600",
+      "report_nm": "증권발행결과(자율공시)              ",
+      "rcept_dt": "20261022",
+      "flr_nm": "대주전자재료",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022900320"
+    },
     {
       "rcept_no": "20261022900253",
       "corp_name": "HPSP",
@@ -145,6 +157,18 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800111"
+    },
+    {
+      "rcept_no": "20261022000246",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261022",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000246"
     },
     {
       "rcept_no": "20261022000224",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000361"
-    },
-    {
-      "rcept_no": "20261014000355",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20261014",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000355"
-    },
-    {
-      "rcept_no": "20261014000351",
-      "corp_name": "포스코퓨처엠",
-      "stock_code": "003670",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261014",
-      "flr_nm": "김대인",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000351"
     }
   ]
 }
