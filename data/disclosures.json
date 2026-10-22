@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 17:00:56",
+  "updated_at": "2026-10-22 17:30:50",
   "total_count": 500,
   "disclosures": [
     {
@@ -97,6 +97,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022900248"
+    },
+    {
+      "rcept_no": "20261022800652",
+      "corp_name": "LG이노텍",
+      "stock_code": "011070",
+      "report_nm": "주식소각결정              ",
+      "rcept_dt": "20261022",
+      "flr_nm": "LG이노텍",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800652"
+    },
+    {
+      "rcept_no": "20261022800648",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
+      "rcept_dt": "20261022",
+      "flr_nm": "현대차증권",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800648"
     },
     {
       "rcept_no": "20261022800622",
@@ -303,6 +327,42 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800111"
     },
     {
+      "rcept_no": "20261022000477",
+      "corp_name": "종근당",
+      "stock_code": "185750",
+      "report_nm": "[기재정정]반기보고서 (2026.06)",
+      "rcept_dt": "20261022",
+      "flr_nm": "종근당",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000477"
+    },
+    {
+      "rcept_no": "20261022000475",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "[기재정정]투자설명서",
+      "rcept_dt": "20261022",
+      "flr_nm": "삼성바이오로직스",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000475"
+    },
+    {
+      "rcept_no": "20261022000473",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "[기재정정]증권신고서(지분증권)",
+      "rcept_dt": "20261022",
+      "flr_nm": "삼성바이오로직스",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000473"
+    },
+    {
       "rcept_no": "20261022000434",
       "corp_name": "현대모비스",
       "stock_code": "012330",
@@ -477,7 +537,7 @@
       "report_nm": "[기재정정]반기보고서 (2026.06)",
       "rcept_dt": "20261022",
       "flr_nm": "종근당",
-      "rm": "",
+      "rm": "정",
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000303"
@@ -5941,66 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900085"
-    },
-    {
-      "rcept_no": "20261014800646",
-      "corp_name": "셀트리온",
-      "stock_code": "068270",
-      "report_nm": "투자판단관련주요경영사항              (CTP13 SC(짐펜트라) 한국 임상 3상 시험계획 승인)",
-      "rcept_dt": "20261014",
-      "flr_nm": "셀트리온",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800646"
-    },
-    {
-      "rcept_no": "20261014800643",
-      "corp_name": "LG디스플레이",
-      "stock_code": "034220",
-      "report_nm": "횡령ㆍ배임혐의발생              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "LG디스플레이",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800643"
-    },
-    {
-      "rcept_no": "20261014800640",
-      "corp_name": "두산에너빌리티",
-      "stock_code": "034020",
-      "report_nm": "기타경영사항(종속회사의주요경영사항)              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "두산에너빌리티",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800640"
-    },
-    {
-      "rcept_no": "20261014800638",
-      "corp_name": "두산에너빌리티",
-      "stock_code": "034020",
-      "report_nm": "기타경영사항(종속회사의주요경영사항)              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "두산에너빌리티",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800638"
-    },
-    {
-      "rcept_no": "20261014800616",
-      "corp_name": "LG에너지솔루션",
-      "stock_code": "373220",
-      "report_nm": "횡령ㆍ배임혐의발생              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "LG에너지솔루션",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014800616"
     }
   ]
 }
