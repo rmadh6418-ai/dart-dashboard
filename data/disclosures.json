@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-22 11:01:13",
+  "updated_at": "2026-10-22 11:31:10",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261022800167",
+      "corp_name": "셀트리온",
+      "stock_code": "068270",
+      "report_nm": "투자판단관련주요경영사항              (반감기 연장 기술이 적용된 장기 지속형 항APRIL 항체 Licensein 계약 체결)",
+      "rcept_dt": "20261022",
+      "flr_nm": "셀트리온",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800167"
+    },
     {
       "rcept_no": "20261022800141",
       "corp_name": "HD현대마린엔진",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000237"
-    },
-    {
-      "rcept_no": "20261014000208",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261014",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000208"
     }
   ]
 }
