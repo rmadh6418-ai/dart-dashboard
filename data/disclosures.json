@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-22 14:00:56",
+  "updated_at": "2026-10-22 14:31:11",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261022900253",
+      "corp_name": "HPSP",
+      "stock_code": "403870",
+      "report_nm": "대표이사변경              ",
+      "rcept_dt": "20261022",
+      "flr_nm": "HPSP",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022900253"
+    },
+    {
+      "rcept_no": "20261022900251",
+      "corp_name": "HPSP",
+      "stock_code": "403870",
+      "report_nm": "임시주주총회결과              ",
+      "rcept_dt": "20261022",
+      "flr_nm": "HPSP",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022900251"
+    },
+    {
+      "rcept_no": "20261022900248",
+      "corp_name": "HK이노엔",
+      "stock_code": "195940",
+      "report_nm": "결산실적공시예고              ",
+      "rcept_dt": "20261022",
+      "flr_nm": "HK이노엔",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022900248"
+    },
     {
       "rcept_no": "20261022800219",
       "corp_name": "현대건설",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000299"
-    },
-    {
-      "rcept_no": "20261014000296",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "계열금융회사의약관에의한금융거래-[파생금융상품]",
-      "rcept_dt": "20261014",
-      "flr_nm": "대신증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000296"
-    },
-    {
-      "rcept_no": "20261014000272",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261014",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000272"
-    },
-    {
-      "rcept_no": "20261014000267",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261014",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014000267"
     }
   ]
 }
