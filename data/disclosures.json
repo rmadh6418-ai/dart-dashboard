@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 17:31:08",
+  "updated_at": "2026-10-23 18:01:02",
   "total_count": 500,
   "disclosures": [
     {
@@ -73,6 +73,30 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900438"
+    },
+    {
+      "rcept_no": "20261023800971",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261023",
+      "flr_nm": "DL이앤씨",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800971"
+    },
+    {
+      "rcept_no": "20261023800970",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261023",
+      "flr_nm": "DL이앤씨",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800970"
     },
     {
       "rcept_no": "20261023800867",
@@ -433,6 +457,42 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023700855"
+    },
+    {
+      "rcept_no": "20261023000484",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261023",
+      "flr_nm": "삼성물산",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000484"
+    },
+    {
+      "rcept_no": "20261023000481",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261023",
+      "flr_nm": "삼성물산",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000481"
+    },
+    {
+      "rcept_no": "20261023000478",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261023",
+      "flr_nm": "서경헌",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000478"
     },
     {
       "rcept_no": "20261023000469",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000279"
-    },
-    {
-      "rcept_no": "20261016000271",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261016",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000271"
-    },
-    {
-      "rcept_no": "20261016000262",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261016",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000262"
-    },
-    {
-      "rcept_no": "20261016000256",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261016",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000256"
-    },
-    {
-      "rcept_no": "20261016000252",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261016",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000252"
-    },
-    {
-      "rcept_no": "20261016000249",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261016",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000249"
     }
   ]
 }
