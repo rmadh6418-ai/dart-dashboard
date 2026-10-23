@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 18:01:02",
+  "updated_at": "2026-10-23 18:30:49",
   "total_count": 500,
   "disclosures": [
     {
@@ -73,6 +73,18 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900438"
+    },
+    {
+      "rcept_no": "20261023801005",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "report_nm": "소송등의판결ㆍ결정              ",
+      "rcept_dt": "20261023",
+      "flr_nm": "고려아연",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "철강·금속",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023801005"
     },
     {
       "rcept_no": "20261023800971",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000283"
-    },
-    {
-      "rcept_no": "20261016000279",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "계열금융회사의약관에의한금융거래-[파생금융상품]",
-      "rcept_dt": "20261016",
-      "flr_nm": "키움증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000279"
     }
   ]
 }
