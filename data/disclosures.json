@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-10-22 20:58:58",
+  "updated_at": "2026-10-23 09:01:27",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261023800086",
+      "corp_name": "LG디스플레이",
+      "stock_code": "034220",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261023",
+      "flr_nm": "LG디스플레이",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800086"
+    },
+    {
+      "rcept_no": "20261023800002",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "report_nm": "풍문또는보도에대한해명              ",
+      "rcept_dt": "20261023",
+      "flr_nm": "SK하이닉스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800002"
+    },
+    {
+      "rcept_no": "20261023000015",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261023",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000015"
+    },
+    {
+      "rcept_no": "20261023000012",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261023",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000012"
+    },
+    {
+      "rcept_no": "20261023000004",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261023",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000004"
+    },
+    {
+      "rcept_no": "20261023000002",
+      "corp_name": "아이패밀리에스씨",
+      "stock_code": "114840",
+      "report_nm": "공개매수설명서",
+      "rcept_dt": "20261023",
+      "flr_nm": "웰라이언트",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000002"
+    },
+    {
+      "rcept_no": "20261023000001",
+      "corp_name": "아이패밀리에스씨",
+      "stock_code": "114840",
+      "report_nm": "공개매수신고서",
+      "rcept_dt": "20261023",
+      "flr_nm": "웰라이언트",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000001"
+    },
     {
       "rcept_no": "20261022900534",
       "corp_name": "엘앤씨바이오",
@@ -5917,90 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000064"
-    },
-    {
-      "rcept_no": "20261015000008",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "[기재정정]특수관계인의유상증자참여",
-      "rcept_dt": "20261015",
-      "flr_nm": "에코프로비엠",
-      "rm": "공",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000008"
-    },
-    {
-      "rcept_no": "20261015000005",
-      "corp_name": "현대건설",
-      "stock_code": "000720",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261015",
-      "flr_nm": "이한우",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015000005"
-    },
-    {
-      "rcept_no": "20261014900508",
-      "corp_name": "알테오젠",
-      "stock_code": "196170",
-      "report_nm": "증권발행결과(자율공시)              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "알테오젠",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900508"
-    },
-    {
-      "rcept_no": "20261014900506",
-      "corp_name": "알테오젠",
-      "stock_code": "196170",
-      "report_nm": "증권발행결과(자율공시)              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "알테오젠",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900506"
-    },
-    {
-      "rcept_no": "20261014900505",
-      "corp_name": "카카오게임즈",
-      "stock_code": "293490",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "카카오게임즈",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900505"
-    },
-    {
-      "rcept_no": "20261014900504",
-      "corp_name": "카카오게임즈",
-      "stock_code": "293490",
-      "report_nm": "결산실적공시예고              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "카카오게임즈",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900504"
-    },
-    {
-      "rcept_no": "20261014900226",
-      "corp_name": "대주전자재료",
-      "stock_code": "078600",
-      "report_nm": "전환가액의조정              ",
-      "rcept_dt": "20261014",
-      "flr_nm": "대주전자재료",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261014900226"
     }
   ]
 }
