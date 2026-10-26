@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-26 18:01:24",
+  "updated_at": "2026-10-26 18:30:51",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261026900743",
+      "corp_name": "지투지바이오",
+      "stock_code": "456160",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "지투지바이오",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026900743"
+    },
     {
       "rcept_no": "20261026900398",
       "corp_name": "에코프로비엠",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000130"
-    },
-    {
-      "rcept_no": "20261019000115",
-      "corp_name": "에코프로에이치엔",
-      "stock_code": "383310",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261019",
-      "flr_nm": "에코프로",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000115"
     }
   ]
 }
