@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 13:31:08",
+  "updated_at": "2026-10-26 14:00:53",
   "total_count": 500,
   "disclosures": [
     {
@@ -85,6 +85,18 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800112"
+    },
+    {
+      "rcept_no": "20261026000101",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261026",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000101"
     },
     {
       "rcept_no": "20261026000091",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000356"
-    },
-    {
-      "rcept_no": "20261016000355",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "계열금융회사의약관에의한금융거래-[보험]",
-      "rcept_dt": "20261016",
-      "flr_nm": "한화투자증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000355"
     }
   ]
 }
