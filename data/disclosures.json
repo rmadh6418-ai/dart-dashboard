@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-10-26 09:56:21",
+  "updated_at": "2026-10-26 10:01:14",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261026800118",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "report_nm": "풍문또는보도에대한해명(미확정)              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "SK하이닉스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800118"
+    },
+    {
+      "rcept_no": "20261026800116",
+      "corp_name": "LS에코에너지",
+      "stock_code": "229640",
+      "report_nm": "타법인주식및출자증권취득결정              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "LS에코에너지",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800116"
+    },
+    {
+      "rcept_no": "20261026800114",
+      "corp_name": "LS에코에너지",
+      "stock_code": "229640",
+      "report_nm": "유상증자결정(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "LS에코에너지",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800114"
+    },
+    {
+      "rcept_no": "20261026800112",
+      "corp_name": "LS에코에너지",
+      "stock_code": "229640",
+      "report_nm": "신규시설투자등(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "LS에코에너지",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800112"
+    },
     {
       "rcept_no": "20261026000017",
       "corp_name": "삼성전자",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000319"
-    },
-    {
-      "rcept_no": "20261016000318",
-      "corp_name": "NAVER",
-      "stock_code": "035420",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261016",
-      "flr_nm": "김성호",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000318"
-    },
-    {
-      "rcept_no": "20261016000305",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "계열금융회사의약관에의한금융거래-[유가증권-채권]",
-      "rcept_dt": "20261016",
-      "flr_nm": "키움증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000305"
-    },
-    {
-      "rcept_no": "20261016000295",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "계열금융회사의약관에의한금융거래-[유가증권-수익증권]",
-      "rcept_dt": "20261016",
-      "flr_nm": "키움증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000295"
-    },
-    {
-      "rcept_no": "20261016000288",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "계열금융회사의약관에의한금융거래-[장단기차입]",
-      "rcept_dt": "20261016",
-      "flr_nm": "키움증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000288"
     }
   ]
 }
