@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-26 13:01:14",
+  "updated_at": "2026-10-26 13:31:08",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261026800212",
+      "corp_name": "HD현대마린솔루션",
+      "stock_code": "443060",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "HD현대마린솔루션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800212"
+    },
     {
       "rcept_no": "20261026800199",
       "corp_name": "HD현대마린엔진",
@@ -73,6 +85,30 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800112"
+    },
+    {
+      "rcept_no": "20261026000091",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261026",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000091"
+    },
+    {
+      "rcept_no": "20261026000084",
+      "corp_name": "셀트리온",
+      "stock_code": "068270",
+      "report_nm": "주요사항보고서(자기주식취득결정)",
+      "rcept_dt": "20261026",
+      "flr_nm": "셀트리온",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000084"
     },
     {
       "rcept_no": "20261026000067",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000355"
-    },
-    {
-      "rcept_no": "20261016000345",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "계열금융회사의약관에의한금융거래-[기타유가증권]",
-      "rcept_dt": "20261016",
-      "flr_nm": "한화투자증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000345"
-    },
-    {
-      "rcept_no": "20261016000341",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261016",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000341"
-    },
-    {
-      "rcept_no": "20261016000340",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261016",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000340"
     }
   ]
 }
