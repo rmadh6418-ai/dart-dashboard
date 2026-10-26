@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-10-26 14:43:31",
+  "updated_at": "2026-10-26 15:00:56",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261026800315",
+      "corp_name": "한화엔진",
+      "stock_code": "082740",
+      "report_nm": "주주총회소집결의              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "한화엔진",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800315"
+    },
+    {
+      "rcept_no": "20261026800310",
+      "corp_name": "HD현대마린솔루션",
+      "stock_code": "443060",
+      "report_nm": "현금ㆍ현물배당결정              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "HD현대마린솔루션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800310"
+    },
+    {
+      "rcept_no": "20261026800302",
+      "corp_name": "한화엔진",
+      "stock_code": "082740",
+      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "한화엔진",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800302"
+    },
+    {
+      "rcept_no": "20261026800285",
+      "corp_name": "HD현대마린솔루션",
+      "stock_code": "443060",
+      "report_nm": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "HD현대마린솔루션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800285"
+    },
     {
       "rcept_no": "20261026800268",
       "corp_name": "현대건설",
@@ -97,6 +145,30 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800112"
+    },
+    {
+      "rcept_no": "20261026000143",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261026",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000143"
+    },
+    {
+      "rcept_no": "20261026000142",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261026",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000142"
     },
     {
       "rcept_no": "20261026000136",
@@ -5929,78 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000406"
-    },
-    {
-      "rcept_no": "20261016000394",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "계열금융회사의약관에의한금융거래-[보험]",
-      "rcept_dt": "20261016",
-      "flr_nm": "현대차증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000394"
-    },
-    {
-      "rcept_no": "20261016000384",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261016",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000384"
-    },
-    {
-      "rcept_no": "20261016000382",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "계열금융회사의약관에의한금융거래-[유가증권-채권]",
-      "rcept_dt": "20261016",
-      "flr_nm": "현대차증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000382"
-    },
-    {
-      "rcept_no": "20261016000378",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "계열금융회사의약관에의한금융거래-[유가증권-채권]",
-      "rcept_dt": "20261016",
-      "flr_nm": "한화투자증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000378"
-    },
-    {
-      "rcept_no": "20261016000369",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "계열금융회사의약관에의한금융거래-[장단기대여]",
-      "rcept_dt": "20261016",
-      "flr_nm": "한화투자증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000369"
-    },
-    {
-      "rcept_no": "20261016000364",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "계열금융회사의약관에의한금융거래-[예ㆍ적금]",
-      "rcept_dt": "20261016",
-      "flr_nm": "한화투자증권",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016000364"
     }
   ]
 }
