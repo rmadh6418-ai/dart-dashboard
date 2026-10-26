@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 17:30:52",
+  "updated_at": "2026-10-26 18:01:24",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026900398"
+    },
+    {
+      "rcept_no": "20261026800711",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261026",
+      "flr_nm": "삼성물산",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800711"
     },
     {
       "rcept_no": "20261026800705",
@@ -349,6 +361,42 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800112"
+    },
+    {
+      "rcept_no": "20261026000370",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261026",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000370"
+    },
+    {
+      "rcept_no": "20261026000368",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261026",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000368"
+    },
+    {
+      "rcept_no": "20261026000364",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261026",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000364"
     },
     {
       "rcept_no": "20261026000354",
@@ -5953,54 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000115"
-    },
-    {
-      "rcept_no": "20261019000080",
-      "corp_name": "현대위아",
-      "stock_code": "011210",
-      "report_nm": "특수관계인에대한부동산임대",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대위아",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000080"
-    },
-    {
-      "rcept_no": "20261019000077",
-      "corp_name": "현대위아",
-      "stock_code": "011210",
-      "report_nm": "특수관계인에대한영업양도",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대위아",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000077"
-    },
-    {
-      "rcept_no": "20261019000068",
-      "corp_name": "실리콘투",
-      "stock_code": "257720",
-      "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
-      "rcept_dt": "20261019",
-      "flr_nm": "실리콘투",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000068"
-    },
-    {
-      "rcept_no": "20261019000052",
-      "corp_name": "HD한국조선해양",
-      "stock_code": "009540",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261019",
-      "flr_nm": "전승호",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000052"
     }
   ]
 }
