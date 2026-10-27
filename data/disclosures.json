@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 12:01:21",
+  "updated_at": "2026-10-27 12:30:46",
   "total_count": 500,
   "disclosures": [
     {
@@ -61,6 +61,18 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900052"
+    },
+    {
+      "rcept_no": "20261027800198",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "유한양행",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800198"
     },
     {
       "rcept_no": "20261027800048",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000171"
-    },
-    {
-      "rcept_no": "20261019000168",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261019",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000168"
     }
   ]
 }
