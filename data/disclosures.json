@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-27 11:00:53",
+  "updated_at": "2026-10-27 11:30:55",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261027900160",
+      "corp_name": "에스티팜",
+      "stock_code": "237690",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "에스티팜",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900160"
+    },
+    {
+      "rcept_no": "20261027900155",
+      "corp_name": "지노믹트리",
+      "stock_code": "228760",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "지노믹트리",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900155"
+    },
     {
       "rcept_no": "20261027900090",
       "corp_name": "엔켐",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000164"
-    },
-    {
-      "rcept_no": "20261019000161",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261019",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000161"
-    },
-    {
-      "rcept_no": "20261019000157",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261019",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000157"
     }
   ]
 }
