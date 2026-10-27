@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 15:00:57",
+  "updated_at": "2026-10-27 15:31:16",
   "total_count": 500,
   "disclosures": [
     {
@@ -85,6 +85,30 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900052"
+    },
+    {
+      "rcept_no": "20261027800373",
+      "corp_name": "현대위아",
+      "stock_code": "011210",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "현대위아",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800373"
+    },
+    {
+      "rcept_no": "20261027800359",
+      "corp_name": "현대위아",
+      "stock_code": "011210",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "현대위아",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800359"
     },
     {
       "rcept_no": "20261027800320",
@@ -325,6 +349,18 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800037"
+    },
+    {
+      "rcept_no": "20261027000217",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "report_nm": "특수관계인과의보험거래",
+      "rcept_dt": "20261027",
+      "flr_nm": "한화시스템",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000217"
     },
     {
       "rcept_no": "20261027000216",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000360"
-    },
-    {
-      "rcept_no": "20261019000355",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261019",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000355"
-    },
-    {
-      "rcept_no": "20261019000350",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261019",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000350"
-    },
-    {
-      "rcept_no": "20261019000349",
-      "corp_name": "롯데손해보험",
-      "stock_code": "000400",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261019",
-      "flr_nm": "빅튜라",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000349"
     }
   ]
 }
