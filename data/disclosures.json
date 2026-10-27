@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 17:00:56",
+  "updated_at": "2026-10-27 17:31:07",
   "total_count": 500,
   "disclosures": [
     {
@@ -709,6 +709,54 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027700435"
+    },
+    {
+      "rcept_no": "20261027000365",
+      "corp_name": "셀트리온",
+      "stock_code": "068270",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261027",
+      "flr_nm": "셀트리온홀딩스",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000365"
+    },
+    {
+      "rcept_no": "20261027000359",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261027",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000359"
+    },
+    {
+      "rcept_no": "20261027000352",
+      "corp_name": "대주전자재료",
+      "stock_code": "078600",
+      "report_nm": "[기재정정]주식매수선택권부여에관한신고",
+      "rcept_dt": "20261027",
+      "flr_nm": "대주전자재료",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000352"
+    },
+    {
+      "rcept_no": "20261027000350",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261027",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000350"
     },
     {
       "rcept_no": "20261027000328",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000090"
-    },
-    {
-      "rcept_no": "20261020000051",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261020",
-      "flr_nm": "국민연금공단",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000051"
-    },
-    {
-      "rcept_no": "20261020000045",
-      "corp_name": "팬오션",
-      "stock_code": "028670",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261020",
-      "flr_nm": "국민연금공단",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000045"
-    },
-    {
-      "rcept_no": "20261020000018",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261020",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000018"
-    },
-    {
-      "rcept_no": "20261019900587",
-      "corp_name": "에코프로",
-      "stock_code": "086520",
-      "report_nm": "대표이사변경              ",
-      "rcept_dt": "20261019",
-      "flr_nm": "에코프로",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019900587"
     }
   ]
 }
