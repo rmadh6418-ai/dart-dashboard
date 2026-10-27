@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 16:00:58",
+  "updated_at": "2026-10-27 16:10:34",
   "total_count": 500,
   "disclosures": [
     {
@@ -85,6 +85,78 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900052"
+    },
+    {
+      "rcept_no": "20261027800461",
+      "corp_name": "한미약품",
+      "stock_code": "128940",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "한미약품",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800461"
+    },
+    {
+      "rcept_no": "20261027800455",
+      "corp_name": "삼성에스디에스",
+      "stock_code": "018260",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "삼성에스디에스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800455"
+    },
+    {
+      "rcept_no": "20261027800450",
+      "corp_name": "삼성에스디에스",
+      "stock_code": "018260",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "삼성에스디에스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800450"
+    },
+    {
+      "rcept_no": "20261027800439",
+      "corp_name": "엘앤에프",
+      "stock_code": "066970",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "엘앤에프",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800439"
+    },
+    {
+      "rcept_no": "20261027800436",
+      "corp_name": "JB금융지주",
+      "stock_code": "175330",
+      "report_nm": "타법인주식및출자증권취득결정              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "JB금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800436"
+    },
+    {
+      "rcept_no": "20261027800433",
+      "corp_name": "HD현대",
+      "stock_code": "267250",
+      "report_nm": "현금ㆍ현물배당결정              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "HD현대",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800433"
     },
     {
       "rcept_no": "20261027800430",
@@ -5929,78 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800203"
-    },
-    {
-      "rcept_no": "20261019800199",
-      "corp_name": "현대위아",
-      "stock_code": "011210",
-      "report_nm": "장래사업ㆍ경영계획(공정공시)              ",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대위아",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800199"
-    },
-    {
-      "rcept_no": "20261019800197",
-      "corp_name": "현대건설",
-      "stock_code": "000720",
-      "report_nm": "투자판단관련주요경영사항              ",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800197"
-    },
-    {
-      "rcept_no": "20261019800162",
-      "corp_name": "현대위아",
-      "stock_code": "011210",
-      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대위아",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800162"
-    },
-    {
-      "rcept_no": "20261019800160",
-      "corp_name": "현대위아",
-      "stock_code": "011210",
-      "report_nm": "주주총회소집결의              ",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대위아",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800160"
-    },
-    {
-      "rcept_no": "20261019800141",
-      "corp_name": "현대위아",
-      "stock_code": "011210",
-      "report_nm": "매매거래정지및정지해제(중요내용공시)              ",
-      "rcept_dt": "20261019",
-      "flr_nm": "유가증권시장본부",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800141"
-    },
-    {
-      "rcept_no": "20261019800139",
-      "corp_name": "현대로템",
-      "stock_code": "064350",
-      "report_nm": "기타경영사항(자율공시)              ",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대로템",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019800139"
     }
   ]
 }
