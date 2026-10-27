@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 18:00:56",
+  "updated_at": "2026-10-27 18:31:11",
   "total_count": 500,
   "disclosures": [
     {
@@ -121,6 +121,18 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900052"
+    },
+    {
+      "rcept_no": "20261027800712",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "DL이앤씨",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800712"
     },
     {
       "rcept_no": "20261027800662",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000138"
-    },
-    {
-      "rcept_no": "20261020000128",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261020",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000128"
     }
   ]
 }
