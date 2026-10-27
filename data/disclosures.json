@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 14:00:55",
+  "updated_at": "2026-10-27 14:30:49",
   "total_count": 500,
   "disclosures": [
     {
@@ -289,6 +289,30 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800037"
+    },
+    {
+      "rcept_no": "20261027000162",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261027",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000162"
+    },
+    {
+      "rcept_no": "20261027000155",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261027",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000155"
     },
     {
       "rcept_no": "20261027000117",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000321"
-    },
-    {
-      "rcept_no": "20261019000318",
-      "corp_name": "삼성전자",
-      "stock_code": "005930",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261019",
-      "flr_nm": "최고은",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000318"
-    },
-    {
-      "rcept_no": "20261019000305",
-      "corp_name": "현대로템",
-      "stock_code": "064350",
-      "report_nm": "주요사항보고서(자기주식취득결정)",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대로템",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000305"
     }
   ]
 }
