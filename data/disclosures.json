@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-10-26 21:03:24",
+  "updated_at": "2026-10-27 09:01:03",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261027800048",
+      "corp_name": "대우건설",
+      "stock_code": "047040",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "대우건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800048"
+    },
+    {
+      "rcept_no": "20261027800037",
+      "corp_name": "대한전선",
+      "stock_code": "001440",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261027",
+      "flr_nm": "대한전선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800037"
+    },
+    {
+      "rcept_no": "20261027000012",
+      "corp_name": "삼성생명",
+      "stock_code": "032830",
+      "report_nm": "[기재정정]주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "rcept_dt": "20261027",
+      "flr_nm": "삼성생명",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000012"
+    },
+    {
+      "rcept_no": "20261027000008",
+      "corp_name": "삼성중공업",
+      "stock_code": "010140",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261027",
+      "flr_nm": "권혁수",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000008"
+    },
+    {
+      "rcept_no": "20261026000387",
+      "corp_name": "오리온",
+      "stock_code": "271560",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261027",
+      "flr_nm": "SilchesterInternationalInvestorsLLP",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000387"
+    },
     {
       "rcept_no": "20261026900743",
       "corp_name": "지투지바이오",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000145"
-    },
-    {
-      "rcept_no": "20261019000143",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261019",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000143"
-    },
-    {
-      "rcept_no": "20261019000136",
-      "corp_name": "현대로템",
-      "stock_code": "064350",
-      "report_nm": "특수관계인으로부터부동산임차",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대로템",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000136"
-    },
-    {
-      "rcept_no": "20261019000134",
-      "corp_name": "현대로템",
-      "stock_code": "064350",
-      "report_nm": "특수관계인으로부터영업양수",
-      "rcept_dt": "20261019",
-      "flr_nm": "현대로템",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000134"
-    },
-    {
-      "rcept_no": "20261019000131",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20261019",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000131"
-    },
-    {
-      "rcept_no": "20261019000130",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261019",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019000130"
     }
   ]
 }
