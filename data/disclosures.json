@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-28 17:31:11",
+  "updated_at": "2026-10-28 18:00:59",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261028900744",
+      "corp_name": "고영",
+      "stock_code": "098460",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261028",
+      "flr_nm": "고영",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900744"
+    },
+    {
+      "rcept_no": "20261028900739",
+      "corp_name": "고영",
+      "stock_code": "098460",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261028",
+      "flr_nm": "고영",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900739"
+    },
+    {
+      "rcept_no": "20261028900699",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "타인에대한채무보증결정              ",
+      "rcept_dt": "20261028",
+      "flr_nm": "서진시스템",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900699"
+    },
     {
       "rcept_no": "20261028900684",
       "corp_name": "로보티즈",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800343"
-    },
-    {
-      "rcept_no": "20261021800314",
-      "corp_name": "KB금융",
-      "stock_code": "105560",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261021",
-      "flr_nm": "KB금융",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800314"
-    },
-    {
-      "rcept_no": "20261021800303",
-      "corp_name": "동국제강",
-      "stock_code": "460860",
-      "report_nm": "기업가치제고계획(자율공시)              (PBR 개선 계획 제출 기업)",
-      "rcept_dt": "20261021",
-      "flr_nm": "동국제강",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800303"
-    },
-    {
-      "rcept_no": "20261021800270",
-      "corp_name": "한화손해보험",
-      "stock_code": "000370",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261021",
-      "flr_nm": "한화손해보험",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800270"
     }
   ]
 }
