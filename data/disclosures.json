@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 12:31:06",
+  "updated_at": "2026-10-28 13:01:20",
   "total_count": 500,
   "disclosures": [
     {
@@ -205,6 +205,42 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800036"
+    },
+    {
+      "rcept_no": "20261028000165",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261028",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000165"
+    },
+    {
+      "rcept_no": "20261028000162",
+      "corp_name": "현대모비스",
+      "stock_code": "012330",
+      "report_nm": "의결권대리행사권유참고서류",
+      "rcept_dt": "20261028",
+      "flr_nm": "현대모비스",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000162"
+    },
+    {
+      "rcept_no": "20261028000161",
+      "corp_name": "현대모비스",
+      "stock_code": "012330",
+      "report_nm": "주주총회소집공고",
+      "rcept_dt": "20261028",
+      "flr_nm": "현대모비스",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000161"
     },
     {
       "rcept_no": "20261028000155",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800455"
-    },
-    {
-      "rcept_no": "20261020800436",
-      "corp_name": "아모레퍼시픽",
-      "stock_code": "090430",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261020",
-      "flr_nm": "아모레퍼시픽",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800436"
-    },
-    {
-      "rcept_no": "20261020800419",
-      "corp_name": "신한지주",
-      "stock_code": "055550",
-      "report_nm": "[기재정정]주식소각결정              ",
-      "rcept_dt": "20261020",
-      "flr_nm": "신한지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800419"
-    },
-    {
-      "rcept_no": "20261020800305",
-      "corp_name": "현대오토에버",
-      "stock_code": "307950",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261020",
-      "flr_nm": "현대오토에버",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020800305"
     }
   ]
 }
