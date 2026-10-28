@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-28 09:01:02",
+  "updated_at": "2026-10-28 09:30:48",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261028900061",
+      "corp_name": "안랩",
+      "stock_code": "053800",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261028",
+      "flr_nm": "안랩",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "게임·소프트웨어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900061"
+    },
+    {
+      "rcept_no": "20261028900060",
+      "corp_name": "안랩",
+      "stock_code": "053800",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261028",
+      "flr_nm": "안랩",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "게임·소프트웨어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900060"
+    },
+    {
+      "rcept_no": "20261028800065",
+      "corp_name": "현대글로비스",
+      "stock_code": "086280",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261028",
+      "flr_nm": "현대글로비스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800065"
+    },
     {
       "rcept_no": "20261028800052",
       "corp_name": "SK하이닉스",
@@ -61,6 +97,18 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800036"
+    },
+    {
+      "rcept_no": "20261028000045",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261028",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000045"
     },
     {
       "rcept_no": "20261028000014",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000221"
-    },
-    {
-      "rcept_no": "20261020000217",
-      "corp_name": "신한지주",
-      "stock_code": "055550",
-      "report_nm": "자기주식취득결과보고서",
-      "rcept_dt": "20261020",
-      "flr_nm": "신한지주",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000217"
-    },
-    {
-      "rcept_no": "20261020000214",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261020",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000214"
-    },
-    {
-      "rcept_no": "20261020000208",
-      "corp_name": "아모레퍼시픽",
-      "stock_code": "090430",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261020",
-      "flr_nm": "아모레퍼시픽홀딩스",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000208"
-    },
-    {
-      "rcept_no": "20261020000204",
-      "corp_name": "롯데손해보험",
-      "stock_code": "000400",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261020",
-      "flr_nm": "신한지주",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261020000204"
     }
   ]
 }
