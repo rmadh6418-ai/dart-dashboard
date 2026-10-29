@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 14:01:11",
+  "updated_at": "2026-10-29 14:31:08",
   "total_count": 500,
   "disclosures": [
     {
@@ -193,6 +193,30 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800011"
+    },
+    {
+      "rcept_no": "20261029000297",
+      "corp_name": "HD한국조선해양",
+      "stock_code": "009540",
+      "report_nm": "[기재정정]대규모기업집단현황공시[연1회공시및1/4분기용(대표회사)]",
+      "rcept_dt": "20261029",
+      "flr_nm": "HD한국조선해양",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000297"
+    },
+    {
+      "rcept_no": "20261029000272",
+      "corp_name": "현대글로비스",
+      "stock_code": "086280",
+      "report_nm": "약관에의한금융거래시계열금융회사의거래상대방의공시",
+      "rcept_dt": "20261029",
+      "flr_nm": "현대글로비스",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000272"
     },
     {
       "rcept_no": "20261029000263",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000224"
-    },
-    {
-      "rcept_no": "20261022000222",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "일괄신고추가서류(기타파생결합사채)",
-      "rcept_dt": "20261022",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000222"
-    },
-    {
-      "rcept_no": "20261022000212",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261022",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000212"
     }
   ]
 }
