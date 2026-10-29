@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 09:01:22",
+  "updated_at": "2026-10-29 09:30:51",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,30 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800011"
+    },
+    {
+      "rcept_no": "20261029000049",
+      "corp_name": "솔브레인",
+      "stock_code": "357780",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261029",
+      "flr_nm": "정지완",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000049"
+    },
+    {
+      "rcept_no": "20261029000023",
+      "corp_name": "하나금융지주",
+      "stock_code": "086790",
+      "report_nm": "투자설명서",
+      "rcept_dt": "20261029",
+      "flr_nm": "하나금융지주",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000023"
     },
     {
       "rcept_no": "20261019100049",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800403"
-    },
-    {
-      "rcept_no": "20261021800395",
-      "corp_name": "삼성바이오로직스",
-      "stock_code": "207940",
-      "report_nm": "[기재정정]연결재무제표기준영업실적등에대한전망(공정공시)              ",
-      "rcept_dt": "20261021",
-      "flr_nm": "삼성바이오로직스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800395"
-    },
-    {
-      "rcept_no": "20261021800394",
-      "corp_name": "HD한국조선해양",
-      "stock_code": "009540",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261021",
-      "flr_nm": "HD한국조선해양",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800394"
     }
   ]
 }
