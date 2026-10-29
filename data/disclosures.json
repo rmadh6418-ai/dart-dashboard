@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-29 10:30:49",
+  "updated_at": "2026-10-29 11:01:23",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261029800138",
+      "corp_name": "SK이노베이션",
+      "stock_code": "096770",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261029",
+      "flr_nm": "SK이노베이션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800138"
+    },
     {
       "rcept_no": "20261029800130",
       "corp_name": "SK하이닉스",
@@ -121,6 +133,54 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800011"
+    },
+    {
+      "rcept_no": "20261029000144",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261029",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000144"
+    },
+    {
+      "rcept_no": "20261029000127",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261029",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000127"
+    },
+    {
+      "rcept_no": "20261029000120",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261029",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000120"
+    },
+    {
+      "rcept_no": "20261029000118",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261029",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000118"
     },
     {
       "rcept_no": "20261029000069",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000042"
-    },
-    {
-      "rcept_no": "20261022000036",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261022",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000036"
-    },
-    {
-      "rcept_no": "20261022000017",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261022",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000017"
-    },
-    {
-      "rcept_no": "20261022000013",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20261022",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000013"
-    },
-    {
-      "rcept_no": "20261021900571",
-      "corp_name": "새빗켐",
-      "stock_code": "107600",
-      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
-      "rcept_dt": "20261021",
-      "flr_nm": "새빗켐",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021900571"
-    },
-    {
-      "rcept_no": "20261021900429",
-      "corp_name": "새빗켐",
-      "stock_code": "107600",
-      "report_nm": "주주총회소집결의              (임시주주총회)",
-      "rcept_dt": "20261021",
-      "flr_nm": "새빗켐",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021900429"
     }
   ]
 }
