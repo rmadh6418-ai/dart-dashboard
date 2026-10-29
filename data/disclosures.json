@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-29 10:01:23",
+  "updated_at": "2026-10-29 10:30:49",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261029800130",
+      "corp_name": "SK하이닉스",
+      "stock_code": "000660",
+      "report_nm": "풍문또는보도에대한해명(미확정)              ",
+      "rcept_dt": "20261029",
+      "flr_nm": "SK하이닉스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800130"
+    },
+    {
+      "rcept_no": "20261029800120",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "풍문또는보도에대한해명              ",
+      "rcept_dt": "20261029",
+      "flr_nm": "미래에셋증권",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800120"
+    },
+    {
+      "rcept_no": "20261029800102",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "장래사업ㆍ경영계획(공정공시)              ",
+      "rcept_dt": "20261029",
+      "flr_nm": "삼성전자",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800102"
+    },
     {
       "rcept_no": "20261029800101",
       "corp_name": "삼성전자",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021900429"
-    },
-    {
-      "rcept_no": "20261021800641",
-      "corp_name": "삼성물산",
-      "stock_code": "028260",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261021",
-      "flr_nm": "삼성물산",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800641"
-    },
-    {
-      "rcept_no": "20261021800567",
-      "corp_name": "한전기술",
-      "stock_code": "052690",
-      "report_nm": "주주총회소집결의              ",
-      "rcept_dt": "20261021",
-      "flr_nm": "한전기술",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800567"
-    },
-    {
-      "rcept_no": "20261021800550",
-      "corp_name": "한전기술",
-      "stock_code": "052690",
-      "report_nm": "[기재정정]주주명부폐쇄기간또는기준일설정              ",
-      "rcept_dt": "20261021",
-      "flr_nm": "한전기술",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800550"
     }
   ]
 }
