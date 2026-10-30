@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 13:31:18",
+  "updated_at": "2026-10-30 14:01:18",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,42 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900391"
+    },
+    {
+      "rcept_no": "20261030800558",
+      "corp_name": "기아",
+      "stock_code": "000270",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "기아",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800558"
+    },
+    {
+      "rcept_no": "20261030800545",
+      "corp_name": "현대제철",
+      "stock_code": "004020",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "현대제철",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "철강·금속",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800545"
+    },
+    {
+      "rcept_no": "20261030800538",
+      "corp_name": "현대제철",
+      "stock_code": "004020",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "현대제철",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "철강·금속",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800538"
     },
     {
       "rcept_no": "20261030800503",
@@ -301,6 +337,78 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800002"
+    },
+    {
+      "rcept_no": "20261030000232",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000232"
+    },
+    {
+      "rcept_no": "20261030000226",
+      "corp_name": "엘앤씨바이오",
+      "stock_code": "290650",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "김기민",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000226"
+    },
+    {
+      "rcept_no": "20261030000220",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261030",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000220"
+    },
+    {
+      "rcept_no": "20261030000219",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261030",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000219"
+    },
+    {
+      "rcept_no": "20261030000209",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261030",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000209"
+    },
+    {
+      "rcept_no": "20261030000185",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000185"
     },
     {
       "rcept_no": "20261030000176",
@@ -5893,114 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900739"
-    },
-    {
-      "rcept_no": "20261023900714",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "증권발행결과(자율공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "에코프로비엠",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900714"
-    },
-    {
-      "rcept_no": "20261023900628",
-      "corp_name": "컴투스",
-      "stock_code": "078340",
-      "report_nm": "결산실적공시예고              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "컴투스",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900628"
-    },
-    {
-      "rcept_no": "20261023900438",
-      "corp_name": "안랩",
-      "stock_code": "053800",
-      "report_nm": "결산실적공시예고              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "안랩",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900438"
-    },
-    {
-      "rcept_no": "20261023801005",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "소송등의판결ㆍ결정              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023801005"
-    },
-    {
-      "rcept_no": "20261023800971",
-      "corp_name": "DL이앤씨",
-      "stock_code": "375500",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "DL이앤씨",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800971"
-    },
-    {
-      "rcept_no": "20261023800970",
-      "corp_name": "DL이앤씨",
-      "stock_code": "375500",
-      "report_nm": "결산실적공시예고(안내공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "DL이앤씨",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800970"
-    },
-    {
-      "rcept_no": "20261023800867",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "소송등의판결ㆍ결정              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800867"
-    },
-    {
-      "rcept_no": "20261023800847",
-      "corp_name": "삼성물산",
-      "stock_code": "028260",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "삼성물산",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800847"
-    },
-    {
-      "rcept_no": "20261023800826",
-      "corp_name": "대덕전자",
-      "stock_code": "353200",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "대덕전자",
-      "rm": "유",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800826"
     }
   ]
 }
