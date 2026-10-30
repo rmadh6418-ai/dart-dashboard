@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-30 14:01:18",
+  "updated_at": "2026-10-30 14:30:50",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261030900537",
+      "corp_name": "태광",
+      "stock_code": "023160",
+      "report_nm": "현금ㆍ현물배당결정              (분기배당)",
+      "rcept_dt": "20261030",
+      "flr_nm": "태광",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "피팅·배관기자재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900537"
+    },
     {
       "rcept_no": "20261030900471",
       "corp_name": "태광",
@@ -37,6 +49,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900391"
+    },
+    {
+      "rcept_no": "20261030800645",
+      "corp_name": "현대모비스",
+      "stock_code": "012330",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "현대모비스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800645"
+    },
+    {
+      "rcept_no": "20261030800604",
+      "corp_name": "삼성전기",
+      "stock_code": "009150",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "삼성전기",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800604"
     },
     {
       "rcept_no": "20261030800558",
@@ -337,6 +373,90 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800002"
+    },
+    {
+      "rcept_no": "20261030000304",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261030",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000304"
+    },
+    {
+      "rcept_no": "20261030000303",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000303"
+    },
+    {
+      "rcept_no": "20261030000299",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261030",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000299"
+    },
+    {
+      "rcept_no": "20261030000292",
+      "corp_name": "로보티즈",
+      "stock_code": "108490",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "표윤석",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "로봇·자동화",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000292"
+    },
+    {
+      "rcept_no": "20261030000262",
+      "corp_name": "엘앤씨바이오",
+      "stock_code": "290650",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "신성훈",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000262"
+    },
+    {
+      "rcept_no": "20261030000257",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261030",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000257"
+    },
+    {
+      "rcept_no": "20261030000235",
+      "corp_name": "엘앤씨바이오",
+      "stock_code": "290650",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "손석우",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000235"
     },
     {
       "rcept_no": "20261030000232",
@@ -5881,126 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000119"
-    },
-    {
-      "rcept_no": "20261026000117",
-      "corp_name": "뉴로메카",
-      "stock_code": "348340",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261026",
-      "flr_nm": "박종훈",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "로봇·자동화",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000117"
-    },
-    {
-      "rcept_no": "20261026000101",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261026",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000101"
-    },
-    {
-      "rcept_no": "20261026000091",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261026",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000091"
-    },
-    {
-      "rcept_no": "20261026000084",
-      "corp_name": "셀트리온",
-      "stock_code": "068270",
-      "report_nm": "주요사항보고서(자기주식취득결정)",
-      "rcept_dt": "20261026",
-      "flr_nm": "셀트리온",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000084"
-    },
-    {
-      "rcept_no": "20261026000067",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261026",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000067"
-    },
-    {
-      "rcept_no": "20261026000041",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261026",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000041"
-    },
-    {
-      "rcept_no": "20261026000017",
-      "corp_name": "삼성전자",
-      "stock_code": "005930",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261026",
-      "flr_nm": "이헌",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000017"
-    },
-    {
-      "rcept_no": "20261023900853",
-      "corp_name": "엘앤씨바이오",
-      "stock_code": "290650",
-      "report_nm": "권리락              (무상증자)",
-      "rcept_dt": "20261023",
-      "flr_nm": "코스닥시장본부",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900853"
-    },
-    {
-      "rcept_no": "20261023900755",
-      "corp_name": "하나머티리얼즈",
-      "stock_code": "166090",
-      "report_nm": "[기재정정]최대주주변경을수반하는주식담보제공계약체결              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "하나머티리얼즈",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900755"
-    },
-    {
-      "rcept_no": "20261023900739",
-      "corp_name": "에코프로",
-      "stock_code": "086520",
-      "report_nm": "교환사채(해외교환사채포함)발행후만기전사채취득              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "에코프로",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023900739"
     }
   ]
 }
