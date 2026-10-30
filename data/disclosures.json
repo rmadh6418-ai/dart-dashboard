@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-30 09:31:05",
+  "updated_at": "2026-10-30 10:01:24",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261030800228",
+      "corp_name": "한화오션",
+      "stock_code": "042660",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "한화오션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800228"
+    },
+    {
+      "rcept_no": "20261030800221",
+      "corp_name": "현대모비스",
+      "stock_code": "012330",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "현대모비스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800221"
+    },
     {
       "rcept_no": "20261030800192",
       "corp_name": "GS건설",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023700855"
-    },
-    {
-      "rcept_no": "20261023000484",
-      "corp_name": "삼성전자",
-      "stock_code": "005930",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261023",
-      "flr_nm": "삼성물산",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000484"
-    },
-    {
-      "rcept_no": "20261023000481",
-      "corp_name": "삼성바이오로직스",
-      "stock_code": "207940",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261023",
-      "flr_nm": "삼성물산",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023000481"
     }
   ]
 }
