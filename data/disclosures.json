@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-30 11:01:12",
+  "updated_at": "2026-10-30 11:19:14",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261030900396",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "증권발행결과(자율공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "알테오젠",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900396"
+    },
+    {
+      "rcept_no": "20261030900391",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "증권발행결과(자율공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "알테오젠",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900391"
+    },
+    {
+      "rcept_no": "20261030800384",
+      "corp_name": "대우건설",
+      "stock_code": "047040",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "대우건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800384"
+    },
     {
       "rcept_no": "20261030800346",
       "corp_name": "삼성증권",
@@ -205,6 +241,54 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800002"
+    },
+    {
+      "rcept_no": "20261030000123",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000123"
+    },
+    {
+      "rcept_no": "20261030000119",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000119"
+    },
+    {
+      "rcept_no": "20261030000118",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "report_nm": "약관에의한금융거래시계열금융회사의거래상대방의공시",
+      "rcept_dt": "20261030",
+      "flr_nm": "한화솔루션",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000118"
+    },
+    {
+      "rcept_no": "20261030000115",
+      "corp_name": "원익QnC",
+      "stock_code": "074600",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "백홍주",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000115"
     },
     {
       "rcept_no": "20261030000110",
@@ -5917,90 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800593"
-    },
-    {
-      "rcept_no": "20261023800567",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "현금ㆍ현물배당결정              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "하나금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800567"
-    },
-    {
-      "rcept_no": "20261023800558",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)(자회사의 주요경영사항)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "하나금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800558"
-    },
-    {
-      "rcept_no": "20261023800555",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)(자회사의 주요경영사항)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "하나금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800555"
-    },
-    {
-      "rcept_no": "20261023800553",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "하나금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800553"
-    },
-    {
-      "rcept_no": "20261023800545",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "하나금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800545"
-    },
-    {
-      "rcept_no": "20261023800526",
-      "corp_name": "한전KPS",
-      "stock_code": "051600",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "한전KPS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800526"
-    },
-    {
-      "rcept_no": "20261023800449",
-      "corp_name": "현대제철",
-      "stock_code": "004020",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "현대제철",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800449"
     }
   ]
 }
