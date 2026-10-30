@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-10-30 10:01:24",
+  "updated_at": "2026-10-30 10:30:51",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261030800288",
+      "corp_name": "한국콜마",
+      "stock_code": "161890",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "한국콜마",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800288"
+    },
+    {
+      "rcept_no": "20261030800265",
+      "corp_name": "현대오토에버",
+      "stock_code": "307950",
+      "report_nm": "타법인주식및출자증권취득결정              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "현대오토에버",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800265"
+    },
+    {
+      "rcept_no": "20261030800260",
+      "corp_name": "유한양행",
+      "stock_code": "000100",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "유한양행",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800260"
+    },
+    {
+      "rcept_no": "20261030800255",
+      "corp_name": "대우건설",
+      "stock_code": "047040",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "대우건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800255"
+    },
+    {
+      "rcept_no": "20261030800253",
+      "corp_name": "현대모비스",
+      "stock_code": "012330",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "현대모비스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800253"
+    },
     {
       "rcept_no": "20261030800228",
       "corp_name": "한화오션",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800257"
-    },
-    {
-      "rcept_no": "20261023800255",
-      "corp_name": "GS건설",
-      "stock_code": "006360",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "GS건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800255"
-    },
-    {
-      "rcept_no": "20261023800253",
-      "corp_name": "GS건설",
-      "stock_code": "006360",
-      "report_nm": "결산실적공시예고(안내공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "GS건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800253"
-    },
-    {
-      "rcept_no": "20261023800086",
-      "corp_name": "LG디스플레이",
-      "stock_code": "034220",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "LG디스플레이",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800086"
-    },
-    {
-      "rcept_no": "20261023800002",
-      "corp_name": "SK하이닉스",
-      "stock_code": "000660",
-      "report_nm": "풍문또는보도에대한해명              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "SK하이닉스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800002"
-    },
-    {
-      "rcept_no": "20261023700855",
-      "corp_name": "SK가스",
-      "stock_code": "018670",
-      "report_nm": "상장채권관련기타주요사항              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "SK가스",
-      "rm": "채",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023700855"
     }
   ]
 }
