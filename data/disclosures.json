@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-30 10:30:51",
+  "updated_at": "2026-10-30 11:01:12",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261030800346",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "지속가능경영보고서등관련사항(자율공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "삼성증권",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800346"
+    },
+    {
+      "rcept_no": "20261030800303",
+      "corp_name": "현대글로비스",
+      "stock_code": "086280",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261030",
+      "flr_nm": "현대글로비스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800303"
+    },
     {
       "rcept_no": "20261030800288",
       "corp_name": "한국콜마",
@@ -181,6 +205,30 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800002"
+    },
+    {
+      "rcept_no": "20261030000110",
+      "corp_name": "에코프로비엠",
+      "stock_code": "247540",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261030",
+      "flr_nm": "에코프로",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000110"
+    },
+    {
+      "rcept_no": "20261030000103",
+      "corp_name": "에코프로",
+      "stock_code": "086520",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261030",
+      "flr_nm": "이동채",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000103"
     },
     {
       "rcept_no": "20261030000043",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800449"
-    },
-    {
-      "rcept_no": "20261023800445",
-      "corp_name": "현대제철",
-      "stock_code": "004020",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "현대제철",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800445"
-    },
-    {
-      "rcept_no": "20261023800443",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "[기재정정]주주총회소집결의              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "현대차증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800443"
-    },
-    {
-      "rcept_no": "20261023800304",
-      "corp_name": "HD한국조선해양",
-      "stock_code": "009540",
-      "report_nm": "풍문또는보도에대한해명(미확정)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "HD한국조선해양",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800304"
-    },
-    {
-      "rcept_no": "20261023800257",
-      "corp_name": "GS건설",
-      "stock_code": "006360",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261023",
-      "flr_nm": "GS건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261023800257"
     }
   ]
 }
