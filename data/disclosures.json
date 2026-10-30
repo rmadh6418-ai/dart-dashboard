@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-30 16:31:12",
+  "updated_at": "2026-10-30 17:00:59",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261030901154",
+      "corp_name": "삼현",
+      "stock_code": "437730",
+      "report_nm": "전환청구권행사              (제1회차)",
+      "rcept_dt": "20261030",
+      "flr_nm": "삼현",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "로봇·자동화",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030901154"
+    },
     {
       "rcept_no": "20261030901020",
       "corp_name": "올릭스",
@@ -145,6 +157,18 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030801116"
+    },
+    {
+      "rcept_no": "20261030801097",
+      "corp_name": "삼성에피스홀딩스",
+      "stock_code": "0126Z0",
+      "report_nm": "투자판단관련주요경영사항(자회사의 주요경영사항)              (SB27(Keytruda 바이오시밀러) 미국 품목허가 신청)",
+      "rcept_dt": "20261030",
+      "flr_nm": "삼성에피스홀딩스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030801097"
     },
     {
       "rcept_no": "20261030800962",
@@ -721,6 +745,54 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030800002"
+    },
+    {
+      "rcept_no": "20261030000657",
+      "corp_name": "HPSP",
+      "stock_code": "403870",
+      "report_nm": "자기주식처분결과보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "HPSP",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000657"
+    },
+    {
+      "rcept_no": "20261030000613",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000613"
+    },
+    {
+      "rcept_no": "20261030000608",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261030",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000608"
+    },
+    {
+      "rcept_no": "20261030000605",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261030",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000605"
     },
     {
       "rcept_no": "20261030000600",
@@ -5929,78 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000369"
-    },
-    {
-      "rcept_no": "20261027000365",
-      "corp_name": "셀트리온",
-      "stock_code": "068270",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261027",
-      "flr_nm": "셀트리온홀딩스",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000365"
-    },
-    {
-      "rcept_no": "20261027000359",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261027",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000359"
-    },
-    {
-      "rcept_no": "20261027000352",
-      "corp_name": "대주전자재료",
-      "stock_code": "078600",
-      "report_nm": "[기재정정]주식매수선택권부여에관한신고",
-      "rcept_dt": "20261027",
-      "flr_nm": "대주전자재료",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000352"
-    },
-    {
-      "rcept_no": "20261027000350",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261027",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000350"
-    },
-    {
-      "rcept_no": "20261027000328",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(기타파생결합사채)",
-      "rcept_dt": "20261027",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000328"
-    },
-    {
-      "rcept_no": "20261027000314",
-      "corp_name": "DB손해보험",
-      "stock_code": "005830",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261027",
-      "flr_nm": "김준기",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000314"
     }
   ]
 }
