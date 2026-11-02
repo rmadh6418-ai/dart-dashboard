@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 14:31:08",
+  "updated_at": "2026-11-02 15:01:30",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900257"
+    },
+    {
+      "rcept_no": "20261102800478",
+      "corp_name": "한국금융지주",
+      "stock_code": "071050",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261102",
+      "flr_nm": "한국금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800478"
     },
     {
       "rcept_no": "20261102800419",
@@ -229,6 +241,54 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800004"
+    },
+    {
+      "rcept_no": "20261102000143",
+      "corp_name": "한화손해보험",
+      "stock_code": "000370",
+      "report_nm": "특수관계인과의보험거래",
+      "rcept_dt": "20261102",
+      "flr_nm": "한화손해보험",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000143"
+    },
+    {
+      "rcept_no": "20261102000141",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261102",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000141"
+    },
+    {
+      "rcept_no": "20261102000137",
+      "corp_name": "한화손해보험",
+      "stock_code": "000370",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261102",
+      "flr_nm": "홍상기",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000137"
+    },
+    {
+      "rcept_no": "20261102000136",
+      "corp_name": "고영",
+      "stock_code": "098460",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261102",
+      "flr_nm": "J.P.MORGANSECURITIESPLC",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000136"
     },
     {
       "rcept_no": "20261102000132",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000045"
-    },
-    {
-      "rcept_no": "20261028000014",
-      "corp_name": "SK하이닉스",
-      "stock_code": "000660",
-      "report_nm": "주요사항보고서(자기주식취득결정)",
-      "rcept_dt": "20261028",
-      "flr_nm": "SK하이닉스",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000014"
-    },
-    {
-      "rcept_no": "20261028000011",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "투자설명서",
-      "rcept_dt": "20261028",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000011"
-    },
-    {
-      "rcept_no": "20261016100014",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "효력발생안내( 2026.10.16. 제출 증권신고서(채무증권) )",
-      "rcept_dt": "20261028",
-      "flr_nm": "금융감독원",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261016100014"
-    },
-    {
-      "rcept_no": "20261027900570",
-      "corp_name": "메디톡스",
-      "stock_code": "086900",
-      "report_nm": "중간(분기)배당락              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "코스닥시장본부",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900570"
-    },
-    {
-      "rcept_no": "20261027900548",
-      "corp_name": "위메이드",
-      "stock_code": "112040",
-      "report_nm": "소송등의판결ㆍ결정(일정금액이상의청구)              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "위메이드",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900548"
     }
   ]
 }
