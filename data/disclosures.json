@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 14:01:15",
+  "updated_at": "2026-11-02 14:20:47",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900257"
+    },
+    {
+      "rcept_no": "20261102800419",
+      "corp_name": "POSCO홀딩스",
+      "stock_code": "005490",
+      "report_nm": "영업(잠정)실적(공정공시)(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261102",
+      "flr_nm": "POSCO홀딩스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800419"
     },
     {
       "rcept_no": "20261102800417",
@@ -217,6 +229,18 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800004"
+    },
+    {
+      "rcept_no": "20261102000119",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261102",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000119"
     },
     {
       "rcept_no": "20261102000100",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900160"
-    },
-    {
-      "rcept_no": "20261027900155",
-      "corp_name": "지노믹트리",
-      "stock_code": "228760",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "지노믹트리",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900155"
-    },
-    {
-      "rcept_no": "20261027900090",
-      "corp_name": "엔켐",
-      "stock_code": "348370",
-      "report_nm": "본점소재지변경              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "엔켐",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900090"
     }
   ]
 }
