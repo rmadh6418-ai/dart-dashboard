@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 18:15:24",
+  "updated_at": "2026-11-02 18:31:04",
   "total_count": 500,
   "disclosures": [
     {
@@ -85,6 +85,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900257"
+    },
+    {
+      "rcept_no": "20261102800892",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "report_nm": "단일판매ㆍ공급계약해지              ",
+      "rcept_dt": "20261102",
+      "flr_nm": "대웅제약",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800892"
     },
     {
       "rcept_no": "20261102800856",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000400"
-    },
-    {
-      "rcept_no": "20261028000396",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261028",
-      "flr_nm": "양홍석",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000396"
     }
   ]
 }
