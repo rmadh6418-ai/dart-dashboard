@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 11:00:43",
+  "updated_at": "2026-11-02 11:30:49",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900257"
+    },
+    {
+      "rcept_no": "20261102800311",
+      "corp_name": "코스모신소재",
+      "stock_code": "005070",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261102",
+      "flr_nm": "코스모신소재",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800311"
     },
     {
       "rcept_no": "20261102800306",
@@ -169,6 +181,30 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800004"
+    },
+    {
+      "rcept_no": "20261102000063",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261102",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000063"
+    },
+    {
+      "rcept_no": "20261102000062",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261102",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000062"
     },
     {
       "rcept_no": "20261102000043",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800530"
-    },
-    {
-      "rcept_no": "20261027800529",
-      "corp_name": "효성",
-      "stock_code": "004800",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "효성",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800529"
-    },
-    {
-      "rcept_no": "20261027800518",
-      "corp_name": "효성중공업",
-      "stock_code": "298040",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "효성중공업",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800518"
-    },
-    {
-      "rcept_no": "20261027800510",
-      "corp_name": "NAVER",
-      "stock_code": "035420",
-      "report_nm": "타인에대한채무보증결정              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "NAVER",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800510"
     }
   ]
 }
