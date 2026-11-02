@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 12:01:18",
+  "updated_at": "2026-11-02 13:00:57",
   "total_count": 500,
   "disclosures": [
     {
@@ -181,6 +181,30 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800004"
+    },
+    {
+      "rcept_no": "20261102000080",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261102",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000080"
+    },
+    {
+      "rcept_no": "20261102000079",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261102",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000079"
     },
     {
       "rcept_no": "20261102000063",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "원전·전력인프라",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800540"
-    },
-    {
-      "rcept_no": "20261027800534",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "주권관련사채권의취득결정              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "키움증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800534"
-    },
-    {
-      "rcept_no": "20261027800530",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "풍문또는보도에대한해명(미확정)              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "키움증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800530"
     }
   ]
 }
