@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 10:01:11",
+  "updated_at": "2026-11-02 10:31:10",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,42 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900259"
+    },
+    {
+      "rcept_no": "20261102900257",
+      "corp_name": "올릭스",
+      "stock_code": "226950",
+      "report_nm": "[기재정정]투자판단관련주요경영사항(임상시험계획승인신청)              ",
+      "rcept_dt": "20261102",
+      "flr_nm": "올릭스",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900257"
+    },
+    {
+      "rcept_no": "20261102800270",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261102",
+      "flr_nm": "포스코퓨처엠",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800270"
+    },
+    {
+      "rcept_no": "20261102800268",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261102",
+      "flr_nm": "포스코퓨처엠",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800268"
     },
     {
       "rcept_no": "20261102800247",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800446"
-    },
-    {
-      "rcept_no": "20261027800439",
-      "corp_name": "엘앤에프",
-      "stock_code": "066970",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "엘앤에프",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800439"
-    },
-    {
-      "rcept_no": "20261027800436",
-      "corp_name": "JB금융지주",
-      "stock_code": "175330",
-      "report_nm": "타법인주식및출자증권취득결정              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "JB금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800436"
-    },
-    {
-      "rcept_no": "20261027800433",
-      "corp_name": "HD현대",
-      "stock_code": "267250",
-      "report_nm": "현금ㆍ현물배당결정              ",
-      "rcept_dt": "20261027",
-      "flr_nm": "HD현대",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800433"
     }
   ]
 }
