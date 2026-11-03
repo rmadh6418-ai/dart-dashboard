@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-03 09:31:07",
+  "updated_at": "2026-11-03 10:01:35",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261103800115",
+      "corp_name": "풍산",
+      "stock_code": "103140",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "풍산",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800115"
+    },
+    {
+      "rcept_no": "20261103800111",
+      "corp_name": "LG에너지솔루션",
+      "stock_code": "373220",
+      "report_nm": "[기재정정]장래사업ㆍ경영계획(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "LG에너지솔루션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800111"
+    },
     {
       "rcept_no": "20261103800095",
       "corp_name": "풍산",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000426"
-    },
-    {
-      "rcept_no": "20261028000425",
-      "corp_name": "삼성바이오로직스",
-      "stock_code": "207940",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261028",
-      "flr_nm": "임희균",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000425"
-    },
-    {
-      "rcept_no": "20261028000424",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261028",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000424"
     }
   ]
 }
