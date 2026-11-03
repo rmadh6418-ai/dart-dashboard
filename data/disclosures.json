@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-03 17:01:20",
+  "updated_at": "2026-11-03 17:31:02",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261103900663",
+      "corp_name": "심텍",
+      "stock_code": "222800",
+      "report_nm": "신규시설투자등              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "심텍",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900663"
+    },
     {
       "rcept_no": "20261103900449",
       "corp_name": "심텍",
@@ -135,6 +147,42 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900196"
     },
     {
+      "rcept_no": "20261103800643",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "에코프로머티",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800643"
+    },
+    {
+      "rcept_no": "20261103800631",
+      "corp_name": "한국항공우주",
+      "stock_code": "047810",
+      "report_nm": "[기재정정]연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "한국항공우주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800631"
+    },
+    {
+      "rcept_no": "20261103800603",
+      "corp_name": "NAVER",
+      "stock_code": "035420",
+      "report_nm": "[기재정정]장래사업ㆍ경영계획(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "NAVER",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800603"
+    },
+    {
       "rcept_no": "20261103800583",
       "corp_name": "삼성에피스홀딩스",
       "stock_code": "0126Z0",
@@ -213,7 +261,7 @@
       "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
       "rcept_dt": "20261103",
       "flr_nm": "한국항공우주",
-      "rm": "유",
+      "rm": "유정",
       "market": "KOSPI 200",
       "sector": "방위산업·우주항공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800386"
@@ -399,6 +447,18 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800043"
     },
     {
+      "rcept_no": "20261103000330",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261103",
+      "flr_nm": "에코프로",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000330"
+    },
+    {
       "rcept_no": "20261103000323",
       "corp_name": "한중엔시에스",
       "stock_code": "107640",
@@ -409,6 +469,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000323"
+    },
+    {
+      "rcept_no": "20261103000311",
+      "corp_name": "NAVER",
+      "stock_code": "035420",
+      "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+      "rcept_dt": "20261103",
+      "flr_nm": "NAVER",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000311"
     },
     {
       "rcept_no": "20261103000298",
@@ -5929,78 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900699"
-    },
-    {
-      "rcept_no": "20261028900684",
-      "corp_name": "로보티즈",
-      "stock_code": "108490",
-      "report_nm": "풍문또는보도에대한해명(미확정)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "로보티즈",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "로봇·자동화",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900684"
-    },
-    {
-      "rcept_no": "20261028900444",
-      "corp_name": "휴젤",
-      "stock_code": "145020",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "휴젤",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900444"
-    },
-    {
-      "rcept_no": "20261028900436",
-      "corp_name": "휴젤",
-      "stock_code": "145020",
-      "report_nm": "결산실적공시예고              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "휴젤",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900436"
-    },
-    {
-      "rcept_no": "20261028900428",
-      "corp_name": "하나머티리얼즈",
-      "stock_code": "166090",
-      "report_nm": "임시주주총회결과              (제20기)",
-      "rcept_dt": "20261028",
-      "flr_nm": "하나머티리얼즈",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900428"
-    },
-    {
-      "rcept_no": "20261028900427",
-      "corp_name": "웹젠",
-      "stock_code": "069080",
-      "report_nm": "결산실적공시예고              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "웹젠",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900427"
-    },
-    {
-      "rcept_no": "20261028900421",
-      "corp_name": "파마리서치",
-      "stock_code": "214450",
-      "report_nm": "결산실적공시예고              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "파마리서치",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900421"
     }
   ]
 }
