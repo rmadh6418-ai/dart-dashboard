@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-03 14:01:01",
+  "updated_at": "2026-11-03 14:31:03",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261103900296",
+      "corp_name": "동진쎄미켐",
+      "stock_code": "005290",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "동진쎄미켐",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900296"
+    },
     {
       "rcept_no": "20261103900251",
       "corp_name": "테크윙",
@@ -25,6 +37,42 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900196"
+    },
+    {
+      "rcept_no": "20261103800289",
+      "corp_name": "LS에코에너지",
+      "stock_code": "229640",
+      "report_nm": "유상증자또는주식관련사채등의발행결과(자율공시)(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "LS에코에너지",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800289"
+    },
+    {
+      "rcept_no": "20261103800279",
+      "corp_name": "카카오페이",
+      "stock_code": "377300",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "카카오페이",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800279"
+    },
+    {
+      "rcept_no": "20261103800277",
+      "corp_name": "카카오페이",
+      "stock_code": "377300",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "카카오페이",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800277"
     },
     {
       "rcept_no": "20261103800250",
@@ -145,6 +193,66 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800043"
+    },
+    {
+      "rcept_no": "20261103000167",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261103",
+      "flr_nm": "오정환",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000167"
+    },
+    {
+      "rcept_no": "20261103000164",
+      "corp_name": "HD한국조선해양",
+      "stock_code": "009540",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261103",
+      "flr_nm": "이철헌",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000164"
+    },
+    {
+      "rcept_no": "20261103000157",
+      "corp_name": "DB하이텍",
+      "stock_code": "000990",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261103",
+      "flr_nm": "DB",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000157"
+    },
+    {
+      "rcept_no": "20261103000154",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261103",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000154"
+    },
+    {
+      "rcept_no": "20261103000150",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261103",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000150"
     },
     {
       "rcept_no": "20261103000139",
@@ -5893,114 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800200"
-    },
-    {
-      "rcept_no": "20261028800199",
-      "corp_name": "HD현대중공업",
-      "stock_code": "329180",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "HD현대중공업",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800199"
-    },
-    {
-      "rcept_no": "20261028800169",
-      "corp_name": "삼성전기",
-      "stock_code": "009150",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "삼성전기",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800169"
-    },
-    {
-      "rcept_no": "20261028800152",
-      "corp_name": "DL이앤씨",
-      "stock_code": "375500",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "DL이앤씨",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800152"
-    },
-    {
-      "rcept_no": "20261028800141",
-      "corp_name": "GS",
-      "stock_code": "078930",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "GS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800141"
-    },
-    {
-      "rcept_no": "20261028800140",
-      "corp_name": "GS",
-      "stock_code": "078930",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "GS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800140"
-    },
-    {
-      "rcept_no": "20261028800138",
-      "corp_name": "GS",
-      "stock_code": "078930",
-      "report_nm": "결산실적공시예고(안내공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "GS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800138"
-    },
-    {
-      "rcept_no": "20261028800065",
-      "corp_name": "현대글로비스",
-      "stock_code": "086280",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "현대글로비스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800065"
-    },
-    {
-      "rcept_no": "20261028800052",
-      "corp_name": "SK하이닉스",
-      "stock_code": "000660",
-      "report_nm": "[기재정정]기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "SK하이닉스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800052"
-    },
-    {
-      "rcept_no": "20261028800048",
-      "corp_name": "SK하이닉스",
-      "stock_code": "000660",
-      "report_nm": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "SK하이닉스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800048"
     }
   ]
 }
