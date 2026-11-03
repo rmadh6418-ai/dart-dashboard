@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-03 13:31:04",
+  "updated_at": "2026-11-03 14:01:01",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261103900251",
+      "corp_name": "테크윙",
+      "stock_code": "089030",
+      "report_nm": "신규시설투자등              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "테크윙",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900251"
+    },
     {
       "rcept_no": "20261103900196",
       "corp_name": "알테오젠",
@@ -13,6 +25,42 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900196"
+    },
+    {
+      "rcept_no": "20261103800250",
+      "corp_name": "카카오",
+      "stock_code": "035720",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "카카오",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800250"
+    },
+    {
+      "rcept_no": "20261103800241",
+      "corp_name": "서울보증보험",
+      "stock_code": "031210",
+      "report_nm": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "서울보증보험",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800241"
+    },
+    {
+      "rcept_no": "20261103800229",
+      "corp_name": "서울보증보험",
+      "stock_code": "031210",
+      "report_nm": "현금ㆍ현물배당결정              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "서울보증보험",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800229"
     },
     {
       "rcept_no": "20261103800145",
@@ -97,6 +145,30 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800043"
+    },
+    {
+      "rcept_no": "20261103000139",
+      "corp_name": "고영",
+      "stock_code": "098460",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261103",
+      "flr_nm": "J.P.MORGANSECURITIESPLC",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000139"
+    },
+    {
+      "rcept_no": "20261103000131",
+      "corp_name": "HD현대마린솔루션",
+      "stock_code": "443060",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261103",
+      "flr_nm": "HD현대",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000131"
     },
     {
       "rcept_no": "20261103000077",
@@ -5929,78 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800048"
-    },
-    {
-      "rcept_no": "20261028800045",
-      "corp_name": "SK하이닉스",
-      "stock_code": "000660",
-      "report_nm": "현금ㆍ현물배당결정              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "SK하이닉스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800045"
-    },
-    {
-      "rcept_no": "20261028800040",
-      "corp_name": "SK하이닉스",
-      "stock_code": "000660",
-      "report_nm": "수시공시의무관련사항(공정공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "SK하이닉스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800040"
-    },
-    {
-      "rcept_no": "20261028800036",
-      "corp_name": "SK하이닉스",
-      "stock_code": "000660",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "SK하이닉스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800036"
-    },
-    {
-      "rcept_no": "20261028100055",
-      "corp_name": "알테오젠",
-      "stock_code": "196170",
-      "report_nm": "정정신고서제출요구( 2026.10.19. 제출 증권신고서(합병) )",
-      "rcept_dt": "20261028",
-      "flr_nm": "금융감독원",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028100055"
-    },
-    {
-      "rcept_no": "20261028000453",
-      "corp_name": "KB금융",
-      "stock_code": "105560",
-      "report_nm": "의결권대리행사권유참고서류",
-      "rcept_dt": "20261028",
-      "flr_nm": "KB금융",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000453"
-    },
-    {
-      "rcept_no": "20261028000450",
-      "corp_name": "카카오뱅크",
-      "stock_code": "323410",
-      "report_nm": "[기재정정]주식매수선택권부여에관한신고",
-      "rcept_dt": "20261028",
-      "flr_nm": "카카오뱅크",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000450"
     }
   ]
 }
