@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 17:31:02",
+  "updated_at": "2026-11-03 18:01:22",
   "total_count": 500,
   "disclosures": [
     {
@@ -445,6 +445,18 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800043"
+    },
+    {
+      "rcept_no": "20261103000365",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "report_nm": "신탁계약에의한취득상황보고서",
+      "rcept_dt": "20261103",
+      "flr_nm": "DL이앤씨",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000365"
     },
     {
       "rcept_no": "20261103000330",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900739"
-    },
-    {
-      "rcept_no": "20261028900699",
-      "corp_name": "서진시스템",
-      "stock_code": "178320",
-      "report_nm": "타인에대한채무보증결정              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "서진시스템",
-      "rm": "코정",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900699"
     }
   ]
 }
