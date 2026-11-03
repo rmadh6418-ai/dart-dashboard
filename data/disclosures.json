@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-03 09:01:03",
+  "updated_at": "2026-11-03 09:31:07",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261103800095",
+      "corp_name": "풍산",
+      "stock_code": "103140",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "풍산",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800095"
+    },
+    {
+      "rcept_no": "20261103800087",
+      "corp_name": "LG에너지솔루션",
+      "stock_code": "373220",
+      "report_nm": "[기재정정]연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "LG에너지솔루션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800087"
+    },
     {
       "rcept_no": "20261103800043",
       "corp_name": "삼성바이오로직스",
@@ -13,6 +37,18 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800043"
+    },
+    {
+      "rcept_no": "20261103000027",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261103",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000027"
     },
     {
       "rcept_no": "20261102900841",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000424"
-    },
-    {
-      "rcept_no": "20261028000416",
-      "corp_name": "LG에너지솔루션",
-      "stock_code": "373220",
-      "report_nm": "임원ㆍ주요주주특정증권등거래계획보고서",
-      "rcept_dt": "20261028",
-      "flr_nm": "LG화학",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000416"
-    },
-    {
-      "rcept_no": "20261028000408",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261028",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000408"
-    },
-    {
-      "rcept_no": "20261028000406",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261028",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000406"
     }
   ]
 }
