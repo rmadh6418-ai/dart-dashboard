@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-03 04:32:13",
+  "updated_at": "2026-11-03 09:01:03",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261103800043",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "삼성바이오로직스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800043"
+    },
     {
       "rcept_no": "20261102900841",
       "corp_name": "씨엠티엑스",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000406"
-    },
-    {
-      "rcept_no": "20261028000401",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261028",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000401"
     }
   ]
 }
