@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 16:30:54",
+  "updated_at": "2026-11-03 17:01:20",
   "total_count": 500,
   "disclosures": [
     {
@@ -133,6 +133,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900196"
+    },
+    {
+      "rcept_no": "20261103800583",
+      "corp_name": "삼성에피스홀딩스",
+      "stock_code": "0126Z0",
+      "report_nm": "투자판단관련주요경영사항(자회사의 주요경영사항)              (크론병, 궤양성 대장염, 류마티스 관절염 치료제 SB2(Remicade 바이오시밀러) 및 류마티스 관절염, 건선성 관절염, 건선 치료제 SB4(Enbrel 바이오시밀러) 파트너십 계약 체결)",
+      "rcept_dt": "20261103",
+      "flr_nm": "삼성에피스홀딩스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800583"
     },
     {
       "rcept_no": "20261103800447",
@@ -385,6 +397,42 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800043"
+    },
+    {
+      "rcept_no": "20261103000323",
+      "corp_name": "한중엔시에스",
+      "stock_code": "107640",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261103",
+      "flr_nm": "김상균",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000323"
+    },
+    {
+      "rcept_no": "20261103000298",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261103",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000298"
+    },
+    {
+      "rcept_no": "20261103000296",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261103",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000296"
     },
     {
       "rcept_no": "20261103000289",
@@ -5953,54 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900421"
-    },
-    {
-      "rcept_no": "20261028900224",
-      "corp_name": "테크윙",
-      "stock_code": "089030",
-      "report_nm": "단일판매ㆍ공급계약체결(자율공시)              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "테크윙",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900224"
-    },
-    {
-      "rcept_no": "20261028900196",
-      "corp_name": "디어유",
-      "stock_code": "376300",
-      "report_nm": "주주총회소집결의              (임시주주총회)",
-      "rcept_dt": "20261028",
-      "flr_nm": "디어유",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900196"
-    },
-    {
-      "rcept_no": "20261028900195",
-      "corp_name": "디어유",
-      "stock_code": "376300",
-      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "디어유",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900195"
-    },
-    {
-      "rcept_no": "20261028900161",
-      "corp_name": "HK이노엔",
-      "stock_code": "195940",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "HK이노엔",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900161"
     }
   ]
 }
