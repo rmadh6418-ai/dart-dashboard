@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-03 10:01:35",
+  "updated_at": "2026-11-03 10:31:11",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261103800128",
+      "corp_name": "엘앤에프",
+      "stock_code": "066970",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "엘앤에프",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800128"
+    },
     {
       "rcept_no": "20261103800115",
       "corp_name": "풍산",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000429"
-    },
-    {
-      "rcept_no": "20261028000426",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(기타파생결합증권)",
-      "rcept_dt": "20261028",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000426"
     }
   ]
 }
