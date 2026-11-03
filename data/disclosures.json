@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-03 18:01:22",
+  "updated_at": "2026-11-03 18:31:14",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261103900703",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "타인에대한채무보증결정              ",
+      "rcept_dt": "20261103",
+      "flr_nm": "서진시스템",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900703"
+    },
     {
       "rcept_no": "20261103900663",
       "corp_name": "심텍",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900744"
-    },
-    {
-      "rcept_no": "20261028900739",
-      "corp_name": "고영",
-      "stock_code": "098460",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "고영",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900739"
     }
   ]
 }
