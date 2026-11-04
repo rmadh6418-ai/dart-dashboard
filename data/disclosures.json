@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 09:31:09",
+  "updated_at": "2026-11-04 10:01:03",
   "total_count": 500,
   "disclosures": [
     {
@@ -49,6 +49,30 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800002"
+    },
+    {
+      "rcept_no": "20261104000037",
+      "corp_name": "HD현대중공업",
+      "stock_code": "329180",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261104",
+      "flr_nm": "손은종",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000037"
+    },
+    {
+      "rcept_no": "20261104000020",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "일괄신고서(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261104",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000020"
     },
     {
       "rcept_no": "20261104000017",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000193"
-    },
-    {
-      "rcept_no": "20261029000144",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261029",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000144"
-    },
-    {
-      "rcept_no": "20261029000127",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261029",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000127"
     }
   ]
 }
