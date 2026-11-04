@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-04 13:30:53",
+  "updated_at": "2026-11-04 14:00:59",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261104900247",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "에스엠",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900247"
+    },
+    {
+      "rcept_no": "20261104900246",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "에스엠",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900246"
+    },
     {
       "rcept_no": "20261104900160",
       "corp_name": "비엠티",
@@ -25,6 +49,18 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900036"
+    },
+    {
+      "rcept_no": "20261104800266",
+      "corp_name": "이마트",
+      "stock_code": "139480",
+      "report_nm": "결산실적공시예고(안내공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "이마트",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800266"
     },
     {
       "rcept_no": "20261104800213",
@@ -73,6 +109,18 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800002"
+    },
+    {
+      "rcept_no": "20261104000136",
+      "corp_name": "유진테크",
+      "stock_code": "084370",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261104",
+      "flr_nm": "JPMorganAssetManagement(AsiaPacific)Limited",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000136"
     },
     {
       "rcept_no": "20261104000130",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000459"
-    },
-    {
-      "rcept_no": "20261029000444",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261029",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000444"
-    },
-    {
-      "rcept_no": "20261029000407",
-      "corp_name": "KB금융",
-      "stock_code": "105560",
-      "report_nm": "주요사항보고서(상각형조건부자본증권발행결정)",
-      "rcept_dt": "20261029",
-      "flr_nm": "KB금융",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000407"
-    },
-    {
-      "rcept_no": "20261029000389",
-      "corp_name": "LG디스플레이",
-      "stock_code": "034220",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261029",
-      "flr_nm": "김성희",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000389"
-    },
-    {
-      "rcept_no": "20261029000388",
-      "corp_name": "SK증권",
-      "stock_code": "001510",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261029",
-      "flr_nm": "SK증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000388"
     }
   ]
 }
