@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-03 20:31:49",
+  "updated_at": "2026-11-04 09:01:23",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261104900036",
+      "corp_name": "카카오게임즈",
+      "stock_code": "293490",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "카카오게임즈",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "게임·소프트웨어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900036"
+    },
+    {
+      "rcept_no": "20261104800041",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "대웅제약",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800041"
+    },
+    {
+      "rcept_no": "20261104800016",
+      "corp_name": "카카오뱅크",
+      "stock_code": "323410",
+      "report_nm": "기업가치제고계획(자율공시)              (이행현황)",
+      "rcept_dt": "20261104",
+      "flr_nm": "카카오뱅크",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800016"
+    },
+    {
+      "rcept_no": "20261104800002",
+      "corp_name": "카카오뱅크",
+      "stock_code": "323410",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "카카오뱅크",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800002"
+    },
+    {
+      "rcept_no": "20261104000002",
+      "corp_name": "한미반도체",
+      "stock_code": "042700",
+      "report_nm": "임원ㆍ주요주주특정증권등거래계획보고서",
+      "rcept_dt": "20261104",
+      "flr_nm": "곽동신",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000002"
+    },
     {
       "rcept_no": "20261103900703",
       "corp_name": "서진시스템",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000118"
-    },
-    {
-      "rcept_no": "20261029000069",
-      "corp_name": "고영",
-      "stock_code": "098460",
-      "report_nm": "주식등의대량보유상황보고서(약식)",
-      "rcept_dt": "20261029",
-      "flr_nm": "AllianzGlobalInvestorsGmbH",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000069"
-    },
-    {
-      "rcept_no": "20261029000049",
-      "corp_name": "솔브레인",
-      "stock_code": "357780",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261029",
-      "flr_nm": "정지완",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000049"
-    },
-    {
-      "rcept_no": "20261029000023",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "투자설명서",
-      "rcept_dt": "20261029",
-      "flr_nm": "하나금융지주",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000023"
-    },
-    {
-      "rcept_no": "20261019100049",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "효력발생안내( 2026.10.19. 제출 증권신고서(채무증권) )",
-      "rcept_dt": "20261029",
-      "flr_nm": "금융감독원",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261019100049"
-    },
-    {
-      "rcept_no": "20261028900744",
-      "corp_name": "고영",
-      "stock_code": "098460",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261028",
-      "flr_nm": "고영",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028900744"
     }
   ]
 }
