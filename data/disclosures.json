@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 17:31:17",
+  "updated_at": "2026-11-04 18:01:13",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "엔터·미디어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900670"
+    },
+    {
+      "rcept_no": "20261104900666",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "[기재정정]타인에대한채무보증결정              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "서진시스템",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900666"
     },
     {
       "rcept_no": "20261104900639",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800102"
-    },
-    {
-      "rcept_no": "20261029800101",
-      "corp_name": "삼성전자",
-      "stock_code": "005930",
-      "report_nm": "현금ㆍ현물배당결정              ",
-      "rcept_dt": "20261029",
-      "flr_nm": "삼성전자",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800101"
     }
   ]
 }
