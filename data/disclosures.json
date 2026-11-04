@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 12:31:03",
+  "updated_at": "2026-11-04 13:01:14",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900036"
+    },
+    {
+      "rcept_no": "20261104800213",
+      "corp_name": "한화",
+      "stock_code": "000880",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "한화",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800213"
     },
     {
       "rcept_no": "20261104800041",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "방위산업·우주항공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000366"
-    },
-    {
-      "rcept_no": "20261029000365",
-      "corp_name": "한화솔루션",
-      "stock_code": "009830",
-      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
-      "rcept_dt": "20261029",
-      "flr_nm": "한화솔루션",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000365"
     }
   ]
 }
