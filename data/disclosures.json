@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 15:01:01",
+  "updated_at": "2026-11-04 15:30:59",
   "total_count": 500,
   "disclosures": [
     {
@@ -87,6 +87,42 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900036"
     },
     {
+      "rcept_no": "20261104800393",
+      "corp_name": "산일전기",
+      "stock_code": "062040",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "산일전기",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800393"
+    },
+    {
+      "rcept_no": "20261104800392",
+      "corp_name": "산일전기",
+      "stock_code": "062040",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "산일전기",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800392"
+    },
+    {
+      "rcept_no": "20261104800373",
+      "corp_name": "하나금융지주",
+      "stock_code": "086790",
+      "report_nm": "[기재정정]주식소각결정              ",
+      "rcept_dt": "20261104",
+      "flr_nm": "하나금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800373"
+    },
+    {
       "rcept_no": "20261104800266",
       "corp_name": "이마트",
       "stock_code": "139480",
@@ -157,6 +193,18 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800002"
+    },
+    {
+      "rcept_no": "20261104000216",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261104",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000216"
     },
     {
       "rcept_no": "20261104000200",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000525"
-    },
-    {
-      "rcept_no": "20261029000523",
-      "corp_name": "고영",
-      "stock_code": "098460",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261029",
-      "flr_nm": "고유리",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000523"
-    },
-    {
-      "rcept_no": "20261029000510",
-      "corp_name": "이마트",
-      "stock_code": "139480",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261029",
-      "flr_nm": "최재순",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000510"
-    },
-    {
-      "rcept_no": "20261029000509",
-      "corp_name": "차바이오텍",
-      "stock_code": "085660",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261029",
-      "flr_nm": "차광렬",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000509"
-    },
-    {
-      "rcept_no": "20261029000501",
-      "corp_name": "삼성전자",
-      "stock_code": "005930",
-      "report_nm": "특수관계인에대한출자",
-      "rcept_dt": "20261029",
-      "flr_nm": "삼성전자",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000501"
     }
   ]
 }
