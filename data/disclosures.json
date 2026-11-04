@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 10:01:03",
+  "updated_at": "2026-11-04 10:31:05",
   "total_count": 500,
   "disclosures": [
     {
@@ -49,6 +49,42 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800002"
+    },
+    {
+      "rcept_no": "20261104000058",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261104",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000058"
+    },
+    {
+      "rcept_no": "20261104000051",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261104",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000051"
+    },
+    {
+      "rcept_no": "20261104000046",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261104",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000046"
     },
     {
       "rcept_no": "20261104000037",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000263"
-    },
-    {
-      "rcept_no": "20261029000196",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261029",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000196"
-    },
-    {
-      "rcept_no": "20261029000194",
-      "corp_name": "고영",
-      "stock_code": "098460",
-      "report_nm": "주식등의대량보유상황보고서(약식)",
-      "rcept_dt": "20261029",
-      "flr_nm": "J.P.MORGANSECURITIESPLC",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000194"
-    },
-    {
-      "rcept_no": "20261029000193",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(기타파생결합사채)",
-      "rcept_dt": "20261029",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029000193"
     }
   ]
 }
