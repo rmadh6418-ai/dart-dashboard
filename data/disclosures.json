@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 14:31:18",
+  "updated_at": "2026-11-05 15:01:00",
   "total_count": 500,
   "disclosures": [
     {
@@ -97,6 +97,30 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900114"
+    },
+    {
+      "rcept_no": "20261105800405",
+      "corp_name": "BGF리테일",
+      "stock_code": "282330",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261105",
+      "flr_nm": "BGF리테일",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800405"
+    },
+    {
+      "rcept_no": "20261105800383",
+      "corp_name": "삼성전기",
+      "stock_code": "009150",
+      "report_nm": "[기재정정]타법인주식및출자증권취득결정              ",
+      "rcept_dt": "20261105",
+      "flr_nm": "삼성전기",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800383"
     },
     {
       "rcept_no": "20261105800378",
@@ -229,6 +253,18 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800007"
+    },
+    {
+      "rcept_no": "20261105000217",
+      "corp_name": "SK가스",
+      "stock_code": "018670",
+      "report_nm": "합병등종료보고서(합병)",
+      "rcept_dt": "20261105",
+      "flr_nm": "SK가스",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000217"
     },
     {
       "rcept_no": "20261105000216",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "엔터·미디어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029900588"
-    },
-    {
-      "rcept_no": "20261029900211",
-      "corp_name": "티씨케이",
-      "stock_code": "064760",
-      "report_nm": "영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261029",
-      "flr_nm": "티씨케이",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029900211"
-    },
-    {
-      "rcept_no": "20261029800837",
-      "corp_name": "SK",
-      "stock_code": "034730",
-      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
-      "rcept_dt": "20261029",
-      "flr_nm": "SK",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800837"
-    },
-    {
-      "rcept_no": "20261029800803",
-      "corp_name": "SK",
-      "stock_code": "034730",
-      "report_nm": "현금ㆍ현물배당결정(자회사의 주요경영사항)              ",
-      "rcept_dt": "20261029",
-      "flr_nm": "SK",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800803"
     }
   ]
 }
