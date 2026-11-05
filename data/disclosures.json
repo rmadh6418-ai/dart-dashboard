@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-05 12:30:47",
+  "updated_at": "2026-11-05 13:00:55",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261105900281",
+      "corp_name": "스튜디오드래곤",
+      "stock_code": "253450",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261105",
+      "flr_nm": "스튜디오드래곤",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900281"
+    },
     {
       "rcept_no": "20261105900135",
       "corp_name": "에코프로비엠",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800346"
-    },
-    {
-      "rcept_no": "20261029800345",
-      "corp_name": "KB금융",
-      "stock_code": "105560",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261029",
-      "flr_nm": "KB금융",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800345"
     }
   ]
 }
