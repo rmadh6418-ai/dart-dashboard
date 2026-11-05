@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-04 20:31:08",
+  "updated_at": "2026-11-05 09:01:15",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261105800008",
+      "corp_name": "카카오",
+      "stock_code": "035720",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261105",
+      "flr_nm": "카카오",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800008"
+    },
+    {
+      "rcept_no": "20261105800007",
+      "corp_name": "카카오",
+      "stock_code": "035720",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261105",
+      "flr_nm": "카카오",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800007"
+    },
+    {
+      "rcept_no": "20261105000008",
+      "corp_name": "카카오",
+      "stock_code": "035720",
+      "report_nm": "주요사항보고서(자기주식취득결정)",
+      "rcept_dt": "20261105",
+      "flr_nm": "카카오",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000008"
+    },
     {
       "rcept_no": "20261104900674",
       "corp_name": "JYP Ent.",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800138"
-    },
-    {
-      "rcept_no": "20261029800130",
-      "corp_name": "SK하이닉스",
-      "stock_code": "000660",
-      "report_nm": "풍문또는보도에대한해명(미확정)              ",
-      "rcept_dt": "20261029",
-      "flr_nm": "SK하이닉스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800130"
-    },
-    {
-      "rcept_no": "20261029800120",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "풍문또는보도에대한해명              ",
-      "rcept_dt": "20261029",
-      "flr_nm": "미래에셋증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800120"
-    },
-    {
-      "rcept_no": "20261029800102",
-      "corp_name": "삼성전자",
-      "stock_code": "005930",
-      "report_nm": "장래사업ㆍ경영계획(공정공시)              ",
-      "rcept_dt": "20261029",
-      "flr_nm": "삼성전자",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800102"
     }
   ]
 }
