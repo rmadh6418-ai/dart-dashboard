@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 17:01:45",
+  "updated_at": "2026-11-05 17:30:52",
   "total_count": 500,
   "disclosures": [
     {
@@ -157,6 +157,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900114"
+    },
+    {
+      "rcept_no": "20261105800867",
+      "corp_name": "현대오토에버",
+      "stock_code": "307950",
+      "report_nm": "[기재정정]타법인주식및출자증권취득결정              ",
+      "rcept_dt": "20261105",
+      "flr_nm": "현대오토에버",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800867"
     },
     {
       "rcept_no": "20261105800826",
@@ -493,6 +505,30 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800007"
+    },
+    {
+      "rcept_no": "20261105000544",
+      "corp_name": "지투지바이오",
+      "stock_code": "456160",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261105",
+      "flr_nm": "이용진",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000544"
+    },
+    {
+      "rcept_no": "20261105000535",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261105",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000535"
     },
     {
       "rcept_no": "20261105000513",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000479"
-    },
-    {
-      "rcept_no": "20261030000478",
-      "corp_name": "엘앤씨바이오",
-      "stock_code": "290650",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261030",
-      "flr_nm": "이환철",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000478"
-    },
-    {
-      "rcept_no": "20261030000475",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261030",
-      "flr_nm": "하주용",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000475"
-    },
-    {
-      "rcept_no": "20261030000465",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261030",
-      "flr_nm": "서준원",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000465"
     }
   ]
 }
