@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 13:30:53",
+  "updated_at": "2026-11-06 14:00:59",
   "total_count": 500,
   "disclosures": [
     {
@@ -181,6 +181,30 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106800008"
+    },
+    {
+      "rcept_no": "20261106000139",
+      "corp_name": "한화에어로스페이스",
+      "stock_code": "012450",
+      "report_nm": "주요사항보고서(자기주식취득결정)",
+      "rcept_dt": "20261106",
+      "flr_nm": "한화에어로스페이스",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000139"
+    },
+    {
+      "rcept_no": "20261106000134",
+      "corp_name": "HL만도",
+      "stock_code": "204320",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261106",
+      "flr_nm": "박영문",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000134"
     },
     {
       "rcept_no": "20261106000127",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "손해보험",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000688"
-    },
-    {
-      "rcept_no": "20261030000685",
-      "corp_name": "삼성바이오로직스",
-      "stock_code": "207940",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261030",
-      "flr_nm": "김기중",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000685"
-    },
-    {
-      "rcept_no": "20261030000674",
-      "corp_name": "삼성바이오로직스",
-      "stock_code": "207940",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261030",
-      "flr_nm": "이규호",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000674"
     }
   ]
 }
