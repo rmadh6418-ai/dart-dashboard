@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 20:01:17",
+  "updated_at": "2026-11-06 20:30:51",
   "total_count": 500,
   "disclosures": [
     {
@@ -433,6 +433,18 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106800008"
+    },
+    {
+      "rcept_no": "20261106100004",
+      "corp_name": "SK이노베이션",
+      "stock_code": "096770",
+      "report_nm": "정정신고서제출요구( 2026.10.28. 제출 증권신고서(합병) )",
+      "rcept_dt": "20261106",
+      "flr_nm": "금융감독원",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106100004"
     },
     {
       "rcept_no": "20261106000471",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030801354"
-    },
-    {
-      "rcept_no": "20261030801330",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030801330"
     }
   ]
 }
