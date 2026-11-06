@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 12:02:21",
+  "updated_at": "2026-11-06 12:30:52",
   "total_count": 500,
   "disclosures": [
     {
@@ -181,6 +181,18 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106800008"
+    },
+    {
+      "rcept_no": "20261106000093",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261106",
+      "flr_nm": "이병현",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000093"
     },
     {
       "rcept_no": "20261106000075",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000582"
-    },
-    {
-      "rcept_no": "20261030000581",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261030",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000581"
     }
   ]
 }
