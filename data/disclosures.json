@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 12:30:52",
+  "updated_at": "2026-11-06 13:00:54",
   "total_count": 500,
   "disclosures": [
     {
@@ -181,6 +181,30 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106800008"
+    },
+    {
+      "rcept_no": "20261106000100",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261106",
+      "flr_nm": "우준명",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000100"
+    },
+    {
+      "rcept_no": "20261106000098",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261106",
+      "flr_nm": "손왕익",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000098"
     },
     {
       "rcept_no": "20261106000093",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000586"
-    },
-    {
-      "rcept_no": "20261030000584",
-      "corp_name": "기아",
-      "stock_code": "000270",
-      "report_nm": "약관에의한금융거래시계열금융회사의거래상대방의공시",
-      "rcept_dt": "20261030",
-      "flr_nm": "기아",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000584"
-    },
-    {
-      "rcept_no": "20261030000582",
-      "corp_name": "기아",
-      "stock_code": "000270",
-      "report_nm": "특수관계인에대한증여",
-      "rcept_dt": "20261030",
-      "flr_nm": "기아",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000582"
     }
   ]
 }
