@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-06 10:01:17",
+  "updated_at": "2026-11-06 10:31:10",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261106900261",
+      "corp_name": "성광벤드",
+      "stock_code": "014620",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261106",
+      "flr_nm": "성광벤드",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "피팅·배관기자재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106900261"
+    },
     {
       "rcept_no": "20261106900196",
       "corp_name": "파마리서치",
@@ -133,6 +145,18 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106800008"
+    },
+    {
+      "rcept_no": "20261106000043",
+      "corp_name": "아이패밀리에스씨",
+      "stock_code": "114840",
+      "report_nm": "공개매수에관한의견표명서",
+      "rcept_dt": "20261106",
+      "flr_nm": "아이패밀리에스씨",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000043"
     },
     {
       "rcept_no": "20261106000034",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000568"
-    },
-    {
-      "rcept_no": "20261030000565",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261030",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000565"
-    },
-    {
-      "rcept_no": "20261030000563",
-      "corp_name": "효성중공업",
-      "stock_code": "298040",
-      "report_nm": "특수관계인에대한자금대여",
-      "rcept_dt": "20261030",
-      "flr_nm": "효성중공업",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030000563"
     }
   ]
 }
