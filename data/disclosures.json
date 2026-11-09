@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-11-08 19:58:15",
+  "updated_at": "2026-11-09 09:01:23",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261109800003",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "report_nm": "투자판단관련주요경영사항              ",
+      "rcept_dt": "20261109",
+      "flr_nm": "삼성물산",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800003"
+    },
+    {
+      "rcept_no": "20261109000008",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261109",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000008"
+    },
+    {
+      "rcept_no": "20261109000007",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261109",
+      "flr_nm": "채교석",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000007"
+    },
+    {
+      "rcept_no": "20261109000003",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+      "rcept_dt": "20261109",
+      "flr_nm": "서진시스템",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000003"
+    },
+    {
+      "rcept_no": "20261106000483",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "rcept_dt": "20261109",
+      "flr_nm": "서진시스템",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000483"
+    },
+    {
+      "rcept_no": "20261106000482",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "주요사항보고서(전환사채권발행결정)",
+      "rcept_dt": "20261109",
+      "flr_nm": "서진시스템",
+      "rm": "정",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000482"
+    },
+    {
+      "rcept_no": "20261106000481",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "주요사항보고서(전환사채권발행결정)",
+      "rcept_dt": "20261109",
+      "flr_nm": "서진시스템",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000481"
+    },
     {
       "rcept_no": "20261106900847",
       "corp_name": "휴젤",
@@ -5917,90 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900713"
-    },
-    {
-      "rcept_no": "20261030900537",
-      "corp_name": "태광",
-      "stock_code": "023160",
-      "report_nm": "현금ㆍ현물배당결정              (분기배당)",
-      "rcept_dt": "20261030",
-      "flr_nm": "태광",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "피팅·배관기자재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900537"
-    },
-    {
-      "rcept_no": "20261030900534",
-      "corp_name": "티씨케이",
-      "stock_code": "064760",
-      "report_nm": "[기재정정]신규시설투자등(자율공시)              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "티씨케이",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900534"
-    },
-    {
-      "rcept_no": "20261030900471",
-      "corp_name": "태광",
-      "stock_code": "023160",
-      "report_nm": "중간(분기)배당을위한주주명부폐쇄(기준일)결정              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "태광",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "피팅·배관기자재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900471"
-    },
-    {
-      "rcept_no": "20261030900396",
-      "corp_name": "알테오젠",
-      "stock_code": "196170",
-      "report_nm": "증권발행결과(자율공시)              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "알테오젠",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900396"
-    },
-    {
-      "rcept_no": "20261030900391",
-      "corp_name": "알테오젠",
-      "stock_code": "196170",
-      "report_nm": "증권발행결과(자율공시)              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "알테오젠",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900391"
-    },
-    {
-      "rcept_no": "20261030801362",
-      "corp_name": "한화시스템",
-      "stock_code": "272210",
-      "report_nm": "투자판단관련주요경영사항              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "한화시스템",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030801362"
-    },
-    {
-      "rcept_no": "20261030801354",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "소송등의제기ㆍ신청(경영권분쟁소송)              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030801354"
     }
   ]
 }
