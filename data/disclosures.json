@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 11:18:26",
+  "updated_at": "2026-11-09 11:31:13",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "피팅·배관기자재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900145"
+    },
+    {
+      "rcept_no": "20261109800201",
+      "corp_name": "고려아연",
+      "stock_code": "010130",
+      "report_nm": "[기재정정]소송등의제기ㆍ신청(경영권분쟁소송)              ",
+      "rcept_dt": "20261109",
+      "flr_nm": "고려아연",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "철강·금속",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800201"
     },
     {
       "rcept_no": "20261109800197",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000043"
-    },
-    {
-      "rcept_no": "20261102000017",
-      "corp_name": "한화오션",
-      "stock_code": "042660",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261102",
-      "flr_nm": "최영환",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000017"
     }
   ]
 }
