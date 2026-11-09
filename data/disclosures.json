@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 17:01:13",
+  "updated_at": "2026-11-09 17:30:53",
   "total_count": 500,
   "disclosures": [
     {
@@ -169,6 +169,30 @@
       "market": "KOSDAQ 150",
       "sector": "피팅·배관기자재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900145"
+    },
+    {
+      "rcept_no": "20261109800785",
+      "corp_name": "LG이노텍",
+      "stock_code": "011070",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261109",
+      "flr_nm": "LG이노텍",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800785"
+    },
+    {
+      "rcept_no": "20261109800751",
+      "corp_name": "산일전기",
+      "stock_code": "062040",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261109",
+      "flr_nm": "산일전기",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800751"
     },
     {
       "rcept_no": "20261109800711",
@@ -469,6 +493,114 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800003"
+    },
+    {
+      "rcept_no": "20261109000374",
+      "corp_name": "DB손해보험",
+      "stock_code": "005830",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261109",
+      "flr_nm": "김준기",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000374"
+    },
+    {
+      "rcept_no": "20261109000371",
+      "corp_name": "CJ제일제당",
+      "stock_code": "097950",
+      "report_nm": "특수관계인과의내부거래",
+      "rcept_dt": "20261109",
+      "flr_nm": "CJ제일제당",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000371"
+    },
+    {
+      "rcept_no": "20261109000368",
+      "corp_name": "CJ제일제당",
+      "stock_code": "097950",
+      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+      "rcept_dt": "20261109",
+      "flr_nm": "CJ제일제당",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000368"
+    },
+    {
+      "rcept_no": "20261109000361",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261109",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000361"
+    },
+    {
+      "rcept_no": "20261109000355",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261109",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000355"
+    },
+    {
+      "rcept_no": "20261109000353",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261109",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000353"
+    },
+    {
+      "rcept_no": "20261109000350",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261109",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000350"
+    },
+    {
+      "rcept_no": "20261109000345",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261109",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000345"
+    },
+    {
+      "rcept_no": "20261109000344",
+      "corp_name": "현대해상",
+      "stock_code": "001450",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261109",
+      "flr_nm": "정몽윤",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000344"
     },
     {
       "rcept_no": "20261109000340",
@@ -5869,138 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800404"
-    },
-    {
-      "rcept_no": "20261102800311",
-      "corp_name": "코스모신소재",
-      "stock_code": "005070",
-      "report_nm": "영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "코스모신소재",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800311"
-    },
-    {
-      "rcept_no": "20261102800306",
-      "corp_name": "대우건설",
-      "stock_code": "047040",
-      "report_nm": "투자판단관련주요경영사항              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "대우건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800306"
-    },
-    {
-      "rcept_no": "20261102800302",
-      "corp_name": "셀트리온",
-      "stock_code": "068270",
-      "report_nm": "투자판단관련주요경영사항              (CTP13 SC(짐펜트라) 유럽 임상 3상 시험계획 승인(Part1&2) (류마티스 관절염 환자))",
-      "rcept_dt": "20261102",
-      "flr_nm": "셀트리온",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800302"
-    },
-    {
-      "rcept_no": "20261102800297",
-      "corp_name": "녹십자",
-      "stock_code": "006280",
-      "report_nm": "단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "녹십자",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800297"
-    },
-    {
-      "rcept_no": "20261102800295",
-      "corp_name": "대우건설",
-      "stock_code": "047040",
-      "report_nm": "투자판단관련주요경영사항              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "대우건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800295"
-    },
-    {
-      "rcept_no": "20261102800281",
-      "corp_name": "녹십자",
-      "stock_code": "006280",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "녹십자",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800281"
-    },
-    {
-      "rcept_no": "20261102800270",
-      "corp_name": "포스코퓨처엠",
-      "stock_code": "003670",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "포스코퓨처엠",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800270"
-    },
-    {
-      "rcept_no": "20261102800268",
-      "corp_name": "포스코퓨처엠",
-      "stock_code": "003670",
-      "report_nm": "영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "포스코퓨처엠",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800268"
-    },
-    {
-      "rcept_no": "20261102800247",
-      "corp_name": "팬오션",
-      "stock_code": "028670",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "팬오션",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800247"
-    },
-    {
-      "rcept_no": "20261102800220",
-      "corp_name": "포스코인터내셔널",
-      "stock_code": "047050",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "포스코인터내셔널",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800220"
-    },
-    {
-      "rcept_no": "20261102800193",
-      "corp_name": "녹십자",
-      "stock_code": "006280",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "녹십자",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800193"
     }
   ]
 }
