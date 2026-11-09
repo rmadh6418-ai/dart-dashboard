@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 17:30:53",
+  "updated_at": "2026-11-09 18:02:55",
   "total_count": 500,
   "disclosures": [
     {
@@ -169,6 +169,30 @@
       "market": "KOSDAQ 150",
       "sector": "피팅·배관기자재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900145"
+    },
+    {
+      "rcept_no": "20261109800809",
+      "corp_name": "현대건설",
+      "stock_code": "000720",
+      "report_nm": "중대재해발생(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261109",
+      "flr_nm": "현대건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800809"
+    },
+    {
+      "rcept_no": "20261109800795",
+      "corp_name": "DB손해보험",
+      "stock_code": "005830",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261109",
+      "flr_nm": "DB손해보험",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800795"
     },
     {
       "rcept_no": "20261109800785",
@@ -493,6 +517,18 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800003"
+    },
+    {
+      "rcept_no": "20261109000386",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261109",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000386"
     },
     {
       "rcept_no": "20261109000374",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800419"
-    },
-    {
-      "rcept_no": "20261102800417",
-      "corp_name": "POSCO홀딩스",
-      "stock_code": "005490",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "POSCO홀딩스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800417"
-    },
-    {
-      "rcept_no": "20261102800408",
-      "corp_name": "삼성전기",
-      "stock_code": "009150",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "삼성전기",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800408"
-    },
-    {
-      "rcept_no": "20261102800404",
-      "corp_name": "S-Oil",
-      "stock_code": "010950",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "S-Oil",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800404"
     }
   ]
 }
