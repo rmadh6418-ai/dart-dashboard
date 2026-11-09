@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 10:01:13",
+  "updated_at": "2026-11-09 10:30:49",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,18 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800003"
+    },
+    {
+      "rcept_no": "20261109000037",
+      "corp_name": "고영",
+      "stock_code": "098460",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261109",
+      "flr_nm": "J.P.MORGANSECURITIESPLC",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000037"
     },
     {
       "rcept_no": "20261109000028",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030901020"
-    },
-    {
-      "rcept_no": "20261030901014",
-      "corp_name": "원익IPS",
-      "stock_code": "240810",
-      "report_nm": "결산실적공시예고              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "원익IPS",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030901014"
     }
   ]
 }
