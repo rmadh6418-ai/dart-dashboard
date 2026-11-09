@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-09 09:01:23",
+  "updated_at": "2026-11-09 09:31:06",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261109800116",
+      "corp_name": "한국콜마",
+      "stock_code": "161890",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261109",
+      "flr_nm": "한국콜마",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800116"
+    },
     {
       "rcept_no": "20261109800003",
       "corp_name": "삼성물산",
@@ -13,6 +25,18 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800003"
+    },
+    {
+      "rcept_no": "20261109000011",
+      "corp_name": "LG이노텍",
+      "stock_code": "011070",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261109",
+      "flr_nm": "장승우",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000011"
     },
     {
       "rcept_no": "20261109000008",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900900"
-    },
-    {
-      "rcept_no": "20261030900895",
-      "corp_name": "에코프로에이치엔",
-      "stock_code": "383310",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "에코프로에이치엔",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900895"
-    },
-    {
-      "rcept_no": "20261030900713",
-      "corp_name": "올릭스",
-      "stock_code": "226950",
-      "report_nm": "투자판단관련주요경영사항(임상시험계획승인신청등결정)              ",
-      "rcept_dt": "20261030",
-      "flr_nm": "올릭스",
-      "rm": "코정",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261030900713"
     }
   ]
 }
