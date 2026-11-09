@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-09 13:00:52",
+  "updated_at": "2026-11-09 13:30:51",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261109900258",
+      "corp_name": "와이지엔터테인먼트",
+      "stock_code": "122870",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261109",
+      "flr_nm": "와이지엔터테인먼트",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109900258"
+    },
     {
       "rcept_no": "20261109900187",
       "corp_name": "비엠티",
@@ -85,6 +97,18 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800003"
+    },
+    {
+      "rcept_no": "20261109000076",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261109",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000076"
     },
     {
       "rcept_no": "20261109000046",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000063"
-    },
-    {
-      "rcept_no": "20261102000062",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261102",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000062"
-    },
-    {
-      "rcept_no": "20261102000043",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261102",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000043"
     }
   ]
 }
