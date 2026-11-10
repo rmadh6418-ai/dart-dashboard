@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 17:01:06",
+  "updated_at": "2026-11-10 17:31:10",
   "total_count": 500,
   "disclosures": [
     {
@@ -73,6 +73,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900215"
+    },
+    {
+      "rcept_no": "20261110800782",
+      "corp_name": "신세계",
+      "stock_code": "004170",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "신세계",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800782"
+    },
+    {
+      "rcept_no": "20261110800781",
+      "corp_name": "LS",
+      "stock_code": "006260",
+      "report_nm": "풍문또는보도에대한해명(미확정)(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "LS",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800781"
     },
     {
       "rcept_no": "20261110800761",
@@ -313,6 +337,30 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000424",
+      "corp_name": "한화에어로스페이스",
+      "stock_code": "012450",
+      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+      "rcept_dt": "20261110",
+      "flr_nm": "한화에어로스페이스",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000424"
+    },
+    {
+      "rcept_no": "20261110000420",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261110",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000420"
     },
     {
       "rcept_no": "20261110000415",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000365"
-    },
-    {
-      "rcept_no": "20261103000330",
-      "corp_name": "에코프로머티",
-      "stock_code": "450080",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261103",
-      "flr_nm": "에코프로",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000330"
-    },
-    {
-      "rcept_no": "20261103000323",
-      "corp_name": "한중엔시에스",
-      "stock_code": "107640",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261103",
-      "flr_nm": "김상균",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000323"
-    },
-    {
-      "rcept_no": "20261103000311",
-      "corp_name": "NAVER",
-      "stock_code": "035420",
-      "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
-      "rcept_dt": "20261103",
-      "flr_nm": "NAVER",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000311"
-    },
-    {
-      "rcept_no": "20261103000298",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261103",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103000298"
     }
   ]
 }
