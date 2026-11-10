@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 13:00:57",
+  "updated_at": "2026-11-10 13:27:24",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900215"
+    },
+    {
+      "rcept_no": "20261110800287",
+      "corp_name": "신세계",
+      "stock_code": "004170",
+      "report_nm": "현금ㆍ현물배당결정              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "신세계",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800287"
+    },
+    {
+      "rcept_no": "20261110800284",
+      "corp_name": "신세계",
+      "stock_code": "004170",
+      "report_nm": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "신세계",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800284"
     },
     {
       "rcept_no": "20261110800165",
@@ -37,6 +61,30 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000171",
+      "corp_name": "하이록코리아",
+      "stock_code": "013030",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261110",
+      "flr_nm": "문휴건",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "피팅·배관기자재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000171"
+    },
+    {
+      "rcept_no": "20261110000169",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합증권-주식워런트증권)",
+      "rcept_dt": "20261110",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000169"
     },
     {
       "rcept_no": "20261110000154",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800774"
-    },
-    {
-      "rcept_no": "20261102800768",
-      "corp_name": "삼양식품",
-      "stock_code": "003230",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "삼양식품",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800768"
-    },
-    {
-      "rcept_no": "20261102800763",
-      "corp_name": "삼양식품",
-      "stock_code": "003230",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "삼양식품",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800763"
-    },
-    {
-      "rcept_no": "20261102800704",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "NH투자증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800704"
-    },
-    {
-      "rcept_no": "20261102800660",
-      "corp_name": "삼성중공업",
-      "stock_code": "010140",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "삼성중공업",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800660"
     }
   ]
 }
