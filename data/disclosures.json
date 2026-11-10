@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 14:00:58",
+  "updated_at": "2026-11-10 14:31:11",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900215"
+    },
+    {
+      "rcept_no": "20261110800370",
+      "corp_name": "LS에코에너지",
+      "stock_code": "229640",
+      "report_nm": "지주회사의자회사편입              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "LS에코에너지",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800370"
+    },
+    {
+      "rcept_no": "20261110800355",
+      "corp_name": "대한조선",
+      "stock_code": "439260",
+      "report_nm": "수시공시의무관련사항(공정공시)              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "대한조선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800355"
     },
     {
       "rcept_no": "20261110800301",
@@ -97,6 +121,42 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000213",
+      "corp_name": "대한조선",
+      "stock_code": "439260",
+      "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+      "rcept_dt": "20261110",
+      "flr_nm": "대한조선",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000213"
+    },
+    {
+      "rcept_no": "20261110000212",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261110",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000212"
+    },
+    {
+      "rcept_no": "20261110000207",
+      "corp_name": "현대로템",
+      "stock_code": "064350",
+      "report_nm": "자기주식취득결과보고서",
+      "rcept_dt": "20261110",
+      "flr_nm": "현대로템",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000207"
     },
     {
       "rcept_no": "20261110000185",
@@ -5941,66 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900259"
-    },
-    {
-      "rcept_no": "20261102900257",
-      "corp_name": "올릭스",
-      "stock_code": "226950",
-      "report_nm": "[기재정정]투자판단관련주요경영사항(임상시험계획승인신청)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "올릭스",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900257"
-    },
-    {
-      "rcept_no": "20261102800894",
-      "corp_name": "대웅제약",
-      "stock_code": "069620",
-      "report_nm": "불성실공시법인지정예고              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "유가증권시장본부",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800894"
-    },
-    {
-      "rcept_no": "20261102800892",
-      "corp_name": "대웅제약",
-      "stock_code": "069620",
-      "report_nm": "단일판매ㆍ공급계약해지              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "대웅제약",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800892"
-    },
-    {
-      "rcept_no": "20261102800856",
-      "corp_name": "대우건설",
-      "stock_code": "047040",
-      "report_nm": "풍문또는보도에대한해명              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "대우건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800856"
-    },
-    {
-      "rcept_no": "20261102800824",
-      "corp_name": "LG에너지솔루션",
-      "stock_code": "373220",
-      "report_nm": "불성실공시법인지정              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "유가증권시장본부",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800824"
     }
   ]
 }
