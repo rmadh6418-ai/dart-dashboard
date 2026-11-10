@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 09:30:54",
+  "updated_at": "2026-11-10 10:00:58",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000069",
+      "corp_name": "팬오션",
+      "stock_code": "028670",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261110",
+      "flr_nm": "국민연금공단",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000069"
     },
     {
       "rcept_no": "20261110000045",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800546"
-    },
-    {
-      "rcept_no": "20261102800544",
-      "corp_name": "코스맥스",
-      "stock_code": "192820",
-      "report_nm": "[기재정정]신규시설투자등              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "코스맥스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800544"
     }
   ]
 }
