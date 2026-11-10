@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-10 10:00:58",
+  "updated_at": "2026-11-10 10:30:54",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261110800165",
+      "corp_name": "GS건설",
+      "stock_code": "006360",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "GS건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800165"
+    },
     {
       "rcept_no": "20261110800079",
       "corp_name": "CJ제일제당",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800547"
-    },
-    {
-      "rcept_no": "20261102800546",
-      "corp_name": "삼성에피스홀딩스",
-      "stock_code": "0126Z0",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "삼성에피스홀딩스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800546"
     }
   ]
 }
