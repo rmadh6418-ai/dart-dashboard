@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-10 09:01:19",
+  "updated_at": "2026-11-10 09:30:54",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261110800079",
+      "corp_name": "CJ제일제당",
+      "stock_code": "097950",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "CJ제일제당",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000045",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261110",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000045"
+    },
+    {
+      "rcept_no": "20261110000040",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261110",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000040"
+    },
+    {
+      "rcept_no": "20261110000038",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261110",
+      "flr_nm": "김평진",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000038"
+    },
+    {
+      "rcept_no": "20261110000036",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261110",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000036"
+    },
     {
       "rcept_no": "20261109900583",
       "corp_name": "심텍",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800544"
-    },
-    {
-      "rcept_no": "20261102800493",
-      "corp_name": "기아",
-      "stock_code": "000270",
-      "report_nm": "영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "기아",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800493"
-    },
-    {
-      "rcept_no": "20261102800489",
-      "corp_name": "롯데케미칼",
-      "stock_code": "011170",
-      "report_nm": "결산실적공시예고(안내공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "롯데케미칼",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800489"
-    },
-    {
-      "rcept_no": "20261102800488",
-      "corp_name": "롯데케미칼",
-      "stock_code": "011170",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "롯데케미칼",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800488"
-    },
-    {
-      "rcept_no": "20261102800478",
-      "corp_name": "한국금융지주",
-      "stock_code": "071050",
-      "report_nm": "결산실적공시예고(안내공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "한국금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800478"
-    },
-    {
-      "rcept_no": "20261102800419",
-      "corp_name": "POSCO홀딩스",
-      "stock_code": "005490",
-      "report_nm": "영업(잠정)실적(공정공시)(자회사의 주요경영사항)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "POSCO홀딩스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800419"
     }
   ]
 }
