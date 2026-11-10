@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-10 14:31:11",
+  "updated_at": "2026-11-10 15:01:01",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261110900420",
+      "corp_name": "리노공업",
+      "stock_code": "058470",
+      "report_nm": "[기재정정]신규시설투자등              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "리노공업",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900420"
+    },
     {
       "rcept_no": "20261110900215",
       "corp_name": "메디톡스",
@@ -13,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900215"
+    },
+    {
+      "rcept_no": "20261110800419",
+      "corp_name": "하나금융지주",
+      "stock_code": "086790",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "하나금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800419"
     },
     {
       "rcept_no": "20261110800370",
@@ -121,6 +145,18 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000240",
+      "corp_name": "대신증권",
+      "stock_code": "003540",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261110",
+      "flr_nm": "대신증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000240"
     },
     {
       "rcept_no": "20261110000213",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900803"
-    },
-    {
-      "rcept_no": "20261102900634",
-      "corp_name": "삼천당제약",
-      "stock_code": "000250",
-      "report_nm": "투자판단관련주요경영사항              (황반변성치료제(주성분: Aflibercept) 바이오시밀러 SCD411의 일본 독점판매권 및 공급계약 체결)",
-      "rcept_dt": "20261102",
-      "flr_nm": "삼천당제약",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900634"
-    },
-    {
-      "rcept_no": "20261102900593",
-      "corp_name": "삼천당제약",
-      "stock_code": "000250",
-      "report_nm": "투자판단관련주요경영사항              (황반변성치료제(주성분: Aflibercept) 바이오시밀러 SCD411의 일본 독점판매권 및 공급계약 해지)",
-      "rcept_dt": "20261102",
-      "flr_nm": "삼천당제약",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900593"
-    },
-    {
-      "rcept_no": "20261102900259",
-      "corp_name": "테크윙",
-      "stock_code": "089030",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "테크윙",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102900259"
     }
   ]
 }
