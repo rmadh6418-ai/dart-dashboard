@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 13:31:08",
+  "updated_at": "2026-11-10 14:00:58",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,42 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110900215"
+    },
+    {
+      "rcept_no": "20261110800301",
+      "corp_name": "신세계",
+      "stock_code": "004170",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "신세계",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800301"
+    },
+    {
+      "rcept_no": "20261110800296",
+      "corp_name": "신세계",
+      "stock_code": "004170",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "신세계",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800296"
+    },
+    {
+      "rcept_no": "20261110800292",
+      "corp_name": "신세계",
+      "stock_code": "004170",
+      "report_nm": "주식소각결정              ",
+      "rcept_dt": "20261110",
+      "flr_nm": "신세계",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800292"
     },
     {
       "rcept_no": "20261110800287",
@@ -61,6 +97,18 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000185",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261110",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000185"
     },
     {
       "rcept_no": "20261110000171",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800824"
-    },
-    {
-      "rcept_no": "20261102800823",
-      "corp_name": "한미약품",
-      "stock_code": "128940",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "한미약품",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800823"
-    },
-    {
-      "rcept_no": "20261102800821",
-      "corp_name": "LG디스플레이",
-      "stock_code": "034220",
-      "report_nm": "불성실공시법인지정              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "유가증권시장본부",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800821"
-    },
-    {
-      "rcept_no": "20261102800819",
-      "corp_name": "이수페타시스",
-      "stock_code": "007660",
-      "report_nm": "풍문또는보도에대한해명(미확정)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "이수페타시스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800819"
-    },
-    {
-      "rcept_no": "20261102800774",
-      "corp_name": "NAVER",
-      "stock_code": "035420",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "NAVER",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800774"
     }
   ]
 }
