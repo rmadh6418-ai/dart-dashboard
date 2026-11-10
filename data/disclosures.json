@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 10:30:54",
+  "updated_at": "2026-11-10 11:01:01",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000108",
+      "corp_name": "더블유씨피",
+      "stock_code": "393890",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261110",
+      "flr_nm": "한화자산운용",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000108"
     },
     {
       "rcept_no": "20261110000069",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800571"
-    },
-    {
-      "rcept_no": "20261102800547",
-      "corp_name": "삼성바이오로직스",
-      "stock_code": "207940",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "삼성바이오로직스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800547"
     }
   ]
 }
