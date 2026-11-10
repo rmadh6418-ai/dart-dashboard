@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 12:30:47",
+  "updated_at": "2026-11-10 13:00:57",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,30 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110800079"
+    },
+    {
+      "rcept_no": "20261110000154",
+      "corp_name": "솔브레인",
+      "stock_code": "357780",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261110",
+      "flr_nm": "피델리티매니지먼트앤리서치컴퍼니엘엘씨",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000154"
+    },
+    {
+      "rcept_no": "20261110000152",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261110",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110000152"
     },
     {
       "rcept_no": "20261110000125",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800660"
-    },
-    {
-      "rcept_no": "20261102800620",
-      "corp_name": "HD한국조선해양",
-      "stock_code": "009540",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "HD한국조선해양",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800620"
-    },
-    {
-      "rcept_no": "20261102800599",
-      "corp_name": "HD현대중공업",
-      "stock_code": "329180",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261102",
-      "flr_nm": "HD현대중공업",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102800599"
     }
   ]
 }
