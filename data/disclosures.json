@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 11:00:59",
+  "updated_at": "2026-11-11 11:27:33",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900155"
+    },
+    {
+      "rcept_no": "20261111900136",
+      "corp_name": "엔켐",
+      "stock_code": "348370",
+      "report_nm": "전환가액의조정              (제11회차)",
+      "rcept_dt": "20261111",
+      "flr_nm": "엔켐",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900136"
     },
     {
       "rcept_no": "20261111900045",
@@ -97,6 +109,30 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800075"
+    },
+    {
+      "rcept_no": "20261111000115",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261111",
+      "flr_nm": "김재영",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000115"
+    },
+    {
+      "rcept_no": "20261111000113",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261111",
+      "flr_nm": "이시영",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000113"
     },
     {
       "rcept_no": "20261111000076",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800407"
-    },
-    {
-      "rcept_no": "20261103800386",
-      "corp_name": "한국항공우주",
-      "stock_code": "047810",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "한국항공우주",
-      "rm": "유정",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800386"
-    },
-    {
-      "rcept_no": "20261103800382",
-      "corp_name": "한미반도체",
-      "stock_code": "042700",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "한미반도체",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800382"
-    },
-    {
-      "rcept_no": "20261103800375",
-      "corp_name": "한미반도체",
-      "stock_code": "042700",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "한미반도체",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800375"
     }
   ]
 }
