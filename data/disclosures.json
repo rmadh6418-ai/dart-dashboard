@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 09:31:09",
+  "updated_at": "2026-11-11 10:00:57",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900039"
+    },
+    {
+      "rcept_no": "20261111800082",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "유상증자또는주식관련사채등의청약결과(자율공시)              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "삼성바이오로직스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800082"
     },
     {
       "rcept_no": "20261111800077",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800250"
-    },
-    {
-      "rcept_no": "20261103800241",
-      "corp_name": "서울보증보험",
-      "stock_code": "031210",
-      "report_nm": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "서울보증보험",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800241"
     }
   ]
 }
