@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 10:00:57",
+  "updated_at": "2026-11-11 10:31:14",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900039"
+    },
+    {
+      "rcept_no": "20261111800124",
+      "corp_name": "한국콜마",
+      "stock_code": "161890",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "한국콜마",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800124"
     },
     {
       "rcept_no": "20261111800082",
@@ -61,6 +73,18 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800075"
+    },
+    {
+      "rcept_no": "20261111000076",
+      "corp_name": "대한전선",
+      "stock_code": "001440",
+      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+      "rcept_dt": "20261111",
+      "flr_nm": "대한전선",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000076"
     },
     {
       "rcept_no": "20261111000009",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800279"
-    },
-    {
-      "rcept_no": "20261103800277",
-      "corp_name": "카카오페이",
-      "stock_code": "377300",
-      "report_nm": "영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "카카오페이",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800277"
-    },
-    {
-      "rcept_no": "20261103800250",
-      "corp_name": "카카오",
-      "stock_code": "035720",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "카카오",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800250"
     }
   ]
 }
