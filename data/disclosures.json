@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-11 13:00:56",
+  "updated_at": "2026-11-11 13:31:09",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261111900250",
+      "corp_name": "디케이락",
+      "stock_code": "105740",
+      "report_nm": "단기차입금증가결정              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "디케이락",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "피팅·배관기자재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900250"
+    },
     {
       "rcept_no": "20261111900155",
       "corp_name": "클래시스",
@@ -49,6 +61,42 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900039"
+    },
+    {
+      "rcept_no": "20261111800253",
+      "corp_name": "대한조선",
+      "stock_code": "439260",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "대한조선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800253"
+    },
+    {
+      "rcept_no": "20261111800242",
+      "corp_name": "이마트",
+      "stock_code": "139480",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "이마트",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800242"
+    },
+    {
+      "rcept_no": "20261111800235",
+      "corp_name": "이마트",
+      "stock_code": "139480",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "이마트",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800235"
     },
     {
       "rcept_no": "20261111800234",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800583"
-    },
-    {
-      "rcept_no": "20261103800447",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "미래에셋증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800447"
-    },
-    {
-      "rcept_no": "20261103800429",
-      "corp_name": "신세계",
-      "stock_code": "004170",
-      "report_nm": "결산실적공시예고(안내공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "신세계",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800429"
-    },
-    {
-      "rcept_no": "20261103800425",
-      "corp_name": "현대모비스",
-      "stock_code": "012330",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "현대모비스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800425"
-    },
-    {
-      "rcept_no": "20261103800422",
-      "corp_name": "DL이앤씨",
-      "stock_code": "375500",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "DL이앤씨",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800422"
     }
   ]
 }
