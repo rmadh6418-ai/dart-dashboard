@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 12:31:12",
+  "updated_at": "2026-11-11 13:00:56",
   "total_count": 500,
   "disclosures": [
     {
@@ -49,6 +49,18 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900039"
+    },
+    {
+      "rcept_no": "20261111800234",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "벌금등의부과              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "NH투자증권",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800234"
     },
     {
       "rcept_no": "20261111800145",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800422"
-    },
-    {
-      "rcept_no": "20261103800407",
-      "corp_name": "LG생활건강",
-      "stock_code": "051900",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "LG생활건강",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800407"
     }
   ]
 }
