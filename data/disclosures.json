@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 15:00:56",
+  "updated_at": "2026-11-11 15:31:14",
   "total_count": 500,
   "disclosures": [
     {
@@ -61,6 +61,30 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900039"
+    },
+    {
+      "rcept_no": "20261111800428",
+      "corp_name": "한화솔루션",
+      "stock_code": "009830",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "한화솔루션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800428"
+    },
+    {
+      "rcept_no": "20261111800425",
+      "corp_name": "현대건설",
+      "stock_code": "000720",
+      "report_nm": "영업정지(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "현대건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800425"
     },
     {
       "rcept_no": "20261111800375",
@@ -205,6 +229,18 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800075"
+    },
+    {
+      "rcept_no": "20261111000233",
+      "corp_name": "LG전자",
+      "stock_code": "066570",
+      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+      "rcept_dt": "20261111",
+      "flr_nm": "LG전자",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000233"
     },
     {
       "rcept_no": "20261111000213",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900445"
-    },
-    {
-      "rcept_no": "20261103900416",
-      "corp_name": "고영",
-      "stock_code": "098460",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "고영",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900416"
-    },
-    {
-      "rcept_no": "20261103900401",
-      "corp_name": "디어유",
-      "stock_code": "376300",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "디어유",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900401"
-    },
-    {
-      "rcept_no": "20261103900398",
-      "corp_name": "디어유",
-      "stock_code": "376300",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "디어유",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900398"
     }
   ]
 }
