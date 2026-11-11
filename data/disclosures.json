@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-10 21:56:30",
+  "updated_at": "2026-11-11 09:01:25",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261111900045",
+      "corp_name": "네오위즈",
+      "stock_code": "095660",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "네오위즈",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "게임·소프트웨어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900045"
+    },
+    {
+      "rcept_no": "20261111900039",
+      "corp_name": "네오위즈",
+      "stock_code": "095660",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261111",
+      "flr_nm": "네오위즈",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "게임·소프트웨어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111900039"
+    },
+    {
+      "rcept_no": "20261111000009",
+      "corp_name": "한화엔진",
+      "stock_code": "082740",
+      "report_nm": "자기주식취득결과보고서",
+      "rcept_dt": "20261111",
+      "flr_nm": "한화엔진",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111000009"
+    },
     {
       "rcept_no": "20261110900846",
       "corp_name": "에코프로비엠",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800145"
-    },
-    {
-      "rcept_no": "20261103800128",
-      "corp_name": "엘앤에프",
-      "stock_code": "066970",
-      "report_nm": "단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "엘앤에프",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800128"
-    },
-    {
-      "rcept_no": "20261103800115",
-      "corp_name": "풍산",
-      "stock_code": "103140",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "풍산",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800115"
-    },
-    {
-      "rcept_no": "20261103800111",
-      "corp_name": "LG에너지솔루션",
-      "stock_code": "373220",
-      "report_nm": "[기재정정]장래사업ㆍ경영계획(공정공시)              ",
-      "rcept_dt": "20261103",
-      "flr_nm": "LG에너지솔루션",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103800111"
     }
   ]
 }
