@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:31:15",
+  "updated_at": "2026-11-12 18:01:18",
   "total_count": 500,
   "disclosures": [
     {
@@ -541,6 +541,18 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+    },
+    {
+      "rcept_no": "20261112000741",
+      "corp_name": "나노신소재",
+      "stock_code": "121600",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261112",
+      "flr_nm": "나노신소재",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000741"
     },
     {
       "rcept_no": "20261112000717",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800376"
-    },
-    {
-      "rcept_no": "20261105800350",
-      "corp_name": "GS",
-      "stock_code": "078930",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "GS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800350"
     }
   ]
 }
