@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 12:32:41",
+  "updated_at": "2026-11-12 13:01:01",
   "total_count": 500,
   "disclosures": [
     {
@@ -171,13 +171,25 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
     },
     {
+      "rcept_no": "20261112000227",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "[첨부정정]주요사항보고서(회사합병결정)",
+      "rcept_dt": "20261112",
+      "flr_nm": "알테오젠",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000227"
+    },
+    {
       "rcept_no": "20261112000210",
       "corp_name": "알테오젠",
       "stock_code": "196170",
       "report_nm": "[기재정정]주요사항보고서(회사합병결정)",
       "rcept_dt": "20261112",
       "flr_nm": "알테오젠",
-      "rm": "",
+      "rm": "정",
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000210"
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "엔터·미디어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900670"
-    },
-    {
-      "rcept_no": "20261104900666",
-      "corp_name": "서진시스템",
-      "stock_code": "178320",
-      "report_nm": "[기재정정]타인에대한채무보증결정              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "서진시스템",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900666"
     }
   ]
 }
