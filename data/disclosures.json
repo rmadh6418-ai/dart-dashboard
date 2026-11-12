@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-12 09:31:13",
+  "updated_at": "2026-11-12 10:00:56",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261112800191",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "수시공시의무관련사항(공정공시)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "미래에셋증권",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800191"
+    },
+    {
+      "rcept_no": "20261112800178",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "미래에셋증권",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800178"
+    },
     {
       "rcept_no": "20261112800130",
       "corp_name": "대한조선",
@@ -49,6 +73,66 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+    },
+    {
+      "rcept_no": "20261112000081",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000081"
+    },
+    {
+      "rcept_no": "20261112000078",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000078"
+    },
+    {
+      "rcept_no": "20261112000072",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000072"
+    },
+    {
+      "rcept_no": "20261112000068",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000068"
+    },
+    {
+      "rcept_no": "20261112000060",
+      "corp_name": "대덕전자",
+      "stock_code": "353200",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "국민연금공단",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000060"
     },
     {
       "rcept_no": "20261112000017",
@@ -5917,90 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800556"
-    },
-    {
-      "rcept_no": "20261104800511",
-      "corp_name": "롯데쇼핑",
-      "stock_code": "023530",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "롯데쇼핑",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800511"
-    },
-    {
-      "rcept_no": "20261104800485",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "투자판단관련주요경영사항              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800485"
-    },
-    {
-      "rcept_no": "20261104800484",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "주식소각결정              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800484"
-    },
-    {
-      "rcept_no": "20261104800482",
-      "corp_name": "CJ제일제당",
-      "stock_code": "097950",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "CJ제일제당",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800482"
-    },
-    {
-      "rcept_no": "20261104800481",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800481"
-    },
-    {
-      "rcept_no": "20261104800480",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "현금ㆍ현물배당결정              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800480"
-    },
-    {
-      "rcept_no": "20261104800476",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800476"
     }
   ]
 }
