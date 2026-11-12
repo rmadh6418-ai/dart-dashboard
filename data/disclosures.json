@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-12 10:00:56",
+  "updated_at": "2026-11-12 10:30:53",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261112900267",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "[기재정정]회사합병결정(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "알테오젠",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900267"
+    },
+    {
+      "rcept_no": "20261112800224",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "report_nm": "풍문또는보도에대한해명(미확정)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "대웅제약",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800224"
+    },
     {
       "rcept_no": "20261112800191",
       "corp_name": "미래에셋증권",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800602"
-    },
-    {
-      "rcept_no": "20261104800582",
-      "corp_name": "SK가스",
-      "stock_code": "018670",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "SK가스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800582"
-    },
-    {
-      "rcept_no": "20261104800556",
-      "corp_name": "BGF리테일",
-      "stock_code": "282330",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "BGF리테일",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800556"
     }
   ]
 }
