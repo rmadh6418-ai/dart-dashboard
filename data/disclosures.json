@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 17:01:24",
+  "updated_at": "2026-11-12 17:31:15",
   "total_count": 500,
   "disclosures": [
     {
@@ -133,6 +133,30 @@
       "market": "KOSDAQ 150",
       "sector": "로봇·자동화",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900261"
+    },
+    {
+      "rcept_no": "20261112801045",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "[기재정정]연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "미래에셋증권",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112801045"
+    },
+    {
+      "rcept_no": "20261112800989",
+      "corp_name": "한전KPS",
+      "stock_code": "051600",
+      "report_nm": "거래처와의거래중단              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "한전KPS",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800989"
     },
     {
       "rcept_no": "20261112800907",
@@ -465,7 +489,7 @@
       "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
       "rcept_dt": "20261112",
       "flr_nm": "미래에셋증권",
-      "rm": "유",
+      "rm": "유정",
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800178"
@@ -517,6 +541,18 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+    },
+    {
+      "rcept_no": "20261112000717",
+      "corp_name": "LG화학",
+      "stock_code": "051910",
+      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
+      "rcept_dt": "20261112",
+      "flr_nm": "LG화학",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000717"
     },
     {
       "rcept_no": "20261112000663",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800350"
-    },
-    {
-      "rcept_no": "20261105800323",
-      "corp_name": "에코프로머티",
-      "stock_code": "450080",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "에코프로머티",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800323"
-    },
-    {
-      "rcept_no": "20261105800303",
-      "corp_name": "LG화학",
-      "stock_code": "051910",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "LG화학",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800303"
-    },
-    {
-      "rcept_no": "20261105800302",
-      "corp_name": "LG이노텍",
-      "stock_code": "011070",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "LG이노텍",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800302"
     }
   ]
 }
