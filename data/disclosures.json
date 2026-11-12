@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 09:01:29",
+  "updated_at": "2026-11-12 09:31:13",
   "total_count": 500,
   "disclosures": [
     {
@@ -49,6 +49,18 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+    },
+    {
+      "rcept_no": "20261112000017",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "송기재",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000017"
     },
     {
       "rcept_no": "20261112000011",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800476"
-    },
-    {
-      "rcept_no": "20261104800475",
-      "corp_name": "세아제강",
-      "stock_code": "306200",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "세아제강",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800475"
     }
   ]
 }
