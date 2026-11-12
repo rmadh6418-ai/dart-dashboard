@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 13:01:01",
+  "updated_at": "2026-11-12 13:31:14",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "로봇·자동화",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900261"
+    },
+    {
+      "rcept_no": "20261112800395",
+      "corp_name": "솔루스첨단소재",
+      "stock_code": "336370",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "솔루스첨단소재",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800395"
     },
     {
       "rcept_no": "20261112800376",
@@ -169,6 +181,18 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+    },
+    {
+      "rcept_no": "20261112000244",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000244"
     },
     {
       "rcept_no": "20261112000227",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000008"
-    },
-    {
-      "rcept_no": "20261104900674",
-      "corp_name": "JYP Ent.",
-      "stock_code": "035900",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "JYP Ent.",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900674"
-    },
-    {
-      "rcept_no": "20261104900670",
-      "corp_name": "JYP Ent.",
-      "stock_code": "035900",
-      "report_nm": "결산실적공시예고              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "JYP Ent.",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900670"
     }
   ]
 }
