@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-11-11 20:31:08",
+  "updated_at": "2026-11-12 09:01:29",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261112800130",
+      "corp_name": "대한조선",
+      "stock_code": "439260",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "대한조선",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800130"
+    },
+    {
+      "rcept_no": "20261112800091",
+      "corp_name": "DB하이텍",
+      "stock_code": "000990",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "DB하이텍",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800091"
+    },
+    {
+      "rcept_no": "20261112800028",
+      "corp_name": "NAVER",
+      "stock_code": "035420",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "NAVER",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800028"
+    },
+    {
+      "rcept_no": "20261112800027",
+      "corp_name": "NAVER",
+      "stock_code": "035420",
+      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "NAVER",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+    },
+    {
+      "rcept_no": "20261112000011",
+      "corp_name": "KB금융",
+      "stock_code": "105560",
+      "report_nm": "투자설명서",
+      "rcept_dt": "20261112",
+      "flr_nm": "KB금융",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000011"
+    },
+    {
+      "rcept_no": "20261112000009",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "투자설명서",
+      "rcept_dt": "20261112",
+      "flr_nm": "포스코퓨처엠",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000009"
+    },
+    {
+      "rcept_no": "20261104100001",
+      "corp_name": "KB금융",
+      "stock_code": "105560",
+      "report_nm": "효력발생안내( 2026.11.2. 제출 증권신고서(채무증권) )",
+      "rcept_dt": "20261112",
+      "flr_nm": "금융감독원",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104100001"
+    },
+    {
+      "rcept_no": "20261102100034",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "효력발생안내( 2026.11.2. 제출 증권신고서(채무증권) )",
+      "rcept_dt": "20261112",
+      "flr_nm": "금융감독원",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102100034"
+    },
     {
       "rcept_no": "20261111900736",
       "corp_name": "에코프로에이치엔",
@@ -5905,102 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800475"
-    },
-    {
-      "rcept_no": "20261104800474",
-      "corp_name": "고려아연",
-      "stock_code": "010130",
-      "report_nm": "영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "고려아연",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800474"
-    },
-    {
-      "rcept_no": "20261104800439",
-      "corp_name": "한전KPS",
-      "stock_code": "051600",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "한전KPS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800439"
-    },
-    {
-      "rcept_no": "20261104800436",
-      "corp_name": "한전KPS",
-      "stock_code": "051600",
-      "report_nm": "결산실적공시예고(안내공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "한전KPS",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800436"
-    },
-    {
-      "rcept_no": "20261104800410",
-      "corp_name": "카카오뱅크",
-      "stock_code": "323410",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "카카오뱅크",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800410"
-    },
-    {
-      "rcept_no": "20261104800393",
-      "corp_name": "산일전기",
-      "stock_code": "062040",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "산일전기",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800393"
-    },
-    {
-      "rcept_no": "20261104800392",
-      "corp_name": "산일전기",
-      "stock_code": "062040",
-      "report_nm": "영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "산일전기",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800392"
-    },
-    {
-      "rcept_no": "20261104800373",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "[기재정정]주식소각결정              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "하나금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800373"
-    },
-    {
-      "rcept_no": "20261104800266",
-      "corp_name": "이마트",
-      "stock_code": "139480",
-      "report_nm": "결산실적공시예고(안내공시)              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "이마트",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800266"
     }
   ]
 }
