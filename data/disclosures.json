@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:31:15",
+  "updated_at": "2026-11-12 12:01:00",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSDAQ 150",
       "sector": "로봇·자동화",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900261"
+    },
+    {
+      "rcept_no": "20261112800376",
+      "corp_name": "대웅제약",
+      "stock_code": "069620",
+      "report_nm": "[기재정정]풍문또는보도에대한해명(미확정)              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "대웅제약",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800376"
     },
     {
       "rcept_no": "20261112800356",
@@ -81,7 +93,7 @@
       "report_nm": "풍문또는보도에대한해명(미확정)              ",
       "rcept_dt": "20261112",
       "flr_nm": "대웅제약",
-      "rm": "유",
+      "rm": "유정",
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800224"
@@ -157,6 +169,18 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+    },
+    {
+      "rcept_no": "20261112000210",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "[기재정정]주요사항보고서(회사합병결정)",
+      "rcept_dt": "20261112",
+      "flr_nm": "알테오젠",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000210"
     },
     {
       "rcept_no": "20261112000201",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900666"
-    },
-    {
-      "rcept_no": "20261104900639",
-      "corp_name": "원텍",
-      "stock_code": "336570",
-      "report_nm": "불성실공시법인미지정              (공시불이행)",
-      "rcept_dt": "20261104",
-      "flr_nm": "코스닥시장본부",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900639"
-    },
-    {
-      "rcept_no": "20261104900638",
-      "corp_name": "서진시스템",
-      "stock_code": "178320",
-      "report_nm": "[기재정정]타인에대한채무보증결정              ",
-      "rcept_dt": "20261104",
-      "flr_nm": "서진시스템",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900638"
     }
   ]
 }
