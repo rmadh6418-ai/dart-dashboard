@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-12 14:01:01",
+  "updated_at": "2026-11-12 14:30:50",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261112900478",
+      "corp_name": "나노신소재",
+      "stock_code": "121600",
+      "report_nm": "주식소각결정              ",
+      "rcept_dt": "20261112",
+      "flr_nm": "나노신소재",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900478"
+    },
     {
       "rcept_no": "20261112900267",
       "corp_name": "알테오젠",
@@ -217,6 +229,42 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800027"
+    },
+    {
+      "rcept_no": "20261112000326",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000326"
+    },
+    {
+      "rcept_no": "20261112000324",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261112",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000324"
+    },
+    {
+      "rcept_no": "20261112000323",
+      "corp_name": "LG이노텍",
+      "stock_code": "011070",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261112",
+      "flr_nm": "LG이노텍",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000323"
     },
     {
       "rcept_no": "20261112000244",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000093"
-    },
-    {
-      "rcept_no": "20261105000092",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261105",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000092"
-    },
-    {
-      "rcept_no": "20261105000084",
-      "corp_name": "카카오",
-      "stock_code": "035720",
-      "report_nm": "[기재정정]주요사항보고서(회사합병결정)",
-      "rcept_dt": "20261105",
-      "flr_nm": "카카오",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000084"
-    },
-    {
-      "rcept_no": "20261105000080",
-      "corp_name": "코스맥스",
-      "stock_code": "192820",
-      "report_nm": "주식등의대량보유상황보고서(약식)",
-      "rcept_dt": "20261105",
-      "flr_nm": "NorgesBank",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000080"
-    },
-    {
-      "rcept_no": "20261105000074",
-      "corp_name": "LG이노텍",
-      "stock_code": "011070",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261105",
-      "flr_nm": "LG전자",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000074"
     }
   ]
 }
