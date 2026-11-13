@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:01:37",
+  "updated_at": "2026-11-13 12:05:34",
   "total_count": 500,
   "disclosures": [
     {
@@ -109,6 +109,18 @@
       "market": "KOSPI 200",
       "sector": "손해보험",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800181"
+    },
+    {
+      "rcept_no": "20261113000351",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "포스코퓨처엠",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000351"
     },
     {
       "rcept_no": "20261113000323",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900114"
-    },
-    {
-      "rcept_no": "20261105800955",
-      "corp_name": "삼성물산",
-      "stock_code": "028260",
-      "report_nm": "[기재정정]유상증자결정(종속회사의주요경영사항)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "삼성물산",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800955"
     }
   ]
 }
