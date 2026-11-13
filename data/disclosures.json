@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 17:31:25",
+  "updated_at": "2026-11-13 18:01:16",
   "total_count": 500,
   "disclosures": [
     {
@@ -385,6 +385,42 @@
       "market": "KOSPI 200",
       "sector": "손해보험",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800181"
+    },
+    {
+      "rcept_no": "20261113001686",
+      "corp_name": "파마리서치",
+      "stock_code": "214450",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "파마리서치",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001686"
+    },
+    {
+      "rcept_no": "20261113001684",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "서진시스템",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001684"
+    },
+    {
+      "rcept_no": "20261113001645",
+      "corp_name": "해성디에스",
+      "stock_code": "195870",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "해성디에스",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001645"
     },
     {
       "rcept_no": "20261113001609",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000350"
-    },
-    {
-      "rcept_no": "20261109000345",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261109",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000345"
-    },
-    {
-      "rcept_no": "20261109000344",
-      "corp_name": "현대해상",
-      "stock_code": "001450",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261109",
-      "flr_nm": "정몽윤",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000344"
-    },
-    {
-      "rcept_no": "20261109000340",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261109",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000340"
     }
   ]
 }
