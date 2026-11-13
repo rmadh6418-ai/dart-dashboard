@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:31:14",
+  "updated_at": "2026-11-13 12:01:37",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,30 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113900166"
+    },
+    {
+      "rcept_no": "20261113800515",
+      "corp_name": "세아제강",
+      "stock_code": "306200",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261113",
+      "flr_nm": "세아제강",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "철강·금속",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800515"
+    },
+    {
+      "rcept_no": "20261113800506",
+      "corp_name": "SK",
+      "stock_code": "034730",
+      "report_nm": "기타경영사항(자율공시)              ",
+      "rcept_dt": "20261113",
+      "flr_nm": "SK",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800506"
     },
     {
       "rcept_no": "20261113800315",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800955"
-    },
-    {
-      "rcept_no": "20261105800947",
-      "corp_name": "F&F",
-      "stock_code": "383220",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "F&F",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800947"
-    },
-    {
-      "rcept_no": "20261105800946",
-      "corp_name": "F&F",
-      "stock_code": "383220",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "F&F",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800946"
     }
   ]
 }
