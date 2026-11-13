@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:31:18",
+  "updated_at": "2026-11-13 14:01:01",
   "total_count": 500,
   "disclosures": [
     {
@@ -157,6 +157,66 @@
       "market": "KOSPI 200",
       "sector": "손해보험",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800181"
+    },
+    {
+      "rcept_no": "20261113000499",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261113",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000499"
+    },
+    {
+      "rcept_no": "20261113000479",
+      "corp_name": "리가켐바이오",
+      "stock_code": "141080",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "리가켐바이오",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000479"
+    },
+    {
+      "rcept_no": "20261113000467",
+      "corp_name": "HD현대마린솔루션",
+      "stock_code": "443060",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "HD현대마린솔루션",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467"
+    },
+    {
+      "rcept_no": "20261113000455",
+      "corp_name": "이오테크닉스",
+      "stock_code": "039030",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "이오테크닉스",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000455"
+    },
+    {
+      "rcept_no": "20261113000442",
+      "corp_name": "실리콘투",
+      "stock_code": "257720",
+      "report_nm": "주요사항보고서(자기주식취득신탁계약해지결정)",
+      "rcept_dt": "20261113",
+      "flr_nm": "실리콘투",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000442"
     },
     {
       "rcept_no": "20261113000437",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000055"
-    },
-    {
-      "rcept_no": "20261106000043",
-      "corp_name": "아이패밀리에스씨",
-      "stock_code": "114840",
-      "report_nm": "공개매수에관한의견표명서",
-      "rcept_dt": "20261106",
-      "flr_nm": "아이패밀리에스씨",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000043"
-    },
-    {
-      "rcept_no": "20261106000034",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261106",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000034"
-    },
-    {
-      "rcept_no": "20261106000033",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261106",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000033"
-    },
-    {
-      "rcept_no": "20261106000029",
-      "corp_name": "대우건설",
-      "stock_code": "047040",
-      "report_nm": "특수관계인에대한자금대여",
-      "rcept_dt": "20261106",
-      "flr_nm": "대우건설",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000029"
-    },
-    {
-      "rcept_no": "20261106000024",
-      "corp_name": "HD한국조선해양",
-      "stock_code": "009540",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261106",
-      "flr_nm": "곽상혁",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261106000024"
     }
   ]
 }
