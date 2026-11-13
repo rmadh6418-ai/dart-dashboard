@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-13 09:00:56",
+  "updated_at": "2026-11-13 09:30:57",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261113900166",
+      "corp_name": "동화기업",
+      "stock_code": "025900",
+      "report_nm": "[기재정정]중대재해관련형사처벌사실확인              ",
+      "rcept_dt": "20261113",
+      "flr_nm": "동화기업",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113900166"
+    },
+    {
+      "rcept_no": "20261113800182",
+      "corp_name": "한국콜마",
+      "stock_code": "161890",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261113",
+      "flr_nm": "한국콜마",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800182"
+    },
+    {
+      "rcept_no": "20261113800181",
+      "corp_name": "코리안리",
+      "stock_code": "003690",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261113",
+      "flr_nm": "코리안리",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800181"
+    },
+    {
+      "rcept_no": "20261113000076",
+      "corp_name": "GS건설",
+      "stock_code": "006360",
+      "report_nm": "특수관계인과의내부거래",
+      "rcept_dt": "20261113",
+      "flr_nm": "GS건설",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000076"
+    },
+    {
+      "rcept_no": "20261113000047",
+      "corp_name": "에스피지",
+      "stock_code": "058610",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "에스피지",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "로봇·자동화",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000047"
+    },
     {
       "rcept_no": "20261112901176",
       "corp_name": "동화기업",
@@ -9,7 +69,7 @@
       "report_nm": "중대재해관련형사처벌사실확인              ",
       "rcept_dt": "20261112",
       "flr_nm": "동화기업",
-      "rm": "코",
+      "rm": "코정",
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112901176"
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800479"
-    },
-    {
-      "rcept_no": "20261105800459",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "삼성증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800459"
-    },
-    {
-      "rcept_no": "20261105800444",
-      "corp_name": "BGF리테일",
-      "stock_code": "282330",
-      "report_nm": "주식소각결정              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "BGF리테일",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800444"
-    },
-    {
-      "rcept_no": "20261105800405",
-      "corp_name": "BGF리테일",
-      "stock_code": "282330",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "BGF리테일",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800405"
-    },
-    {
-      "rcept_no": "20261105800383",
-      "corp_name": "삼성전기",
-      "stock_code": "009150",
-      "report_nm": "[기재정정]타법인주식및출자증권취득결정              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "삼성전기",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800383"
-    },
-    {
-      "rcept_no": "20261105800378",
-      "corp_name": "GS건설",
-      "stock_code": "006360",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "GS건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800378"
     }
   ]
 }
