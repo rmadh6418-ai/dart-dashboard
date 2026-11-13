@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 10:01:11",
+  "updated_at": "2026-11-13 10:31:17",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,42 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113900166"
+    },
+    {
+      "rcept_no": "20261113800315",
+      "corp_name": "서울보증보험",
+      "stock_code": "031210",
+      "report_nm": "영업(잠정)실적(공정공시)              ",
+      "rcept_dt": "20261113",
+      "flr_nm": "서울보증보험",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "손해보험",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800315"
+    },
+    {
+      "rcept_no": "20261113800308",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261113",
+      "flr_nm": "포스코퓨처엠",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800308"
+    },
+    {
+      "rcept_no": "20261113800306",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261113",
+      "flr_nm": "DL이앤씨",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800306"
     },
     {
       "rcept_no": "20261113800182",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800523"
-    },
-    {
-      "rcept_no": "20261105800512",
-      "corp_name": "SK바이오사이언스",
-      "stock_code": "302440",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "SK바이오사이언스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800512"
-    },
-    {
-      "rcept_no": "20261105800489",
-      "corp_name": "엘앤에프",
-      "stock_code": "066970",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "엘앤에프",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800489"
-    },
-    {
-      "rcept_no": "20261105800479",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "삼성증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800479"
     }
   ]
 }
