@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 12:05:34",
+  "updated_at": "2026-11-13 12:32:44",
   "total_count": 500,
   "disclosures": [
     {
@@ -109,6 +109,18 @@
       "market": "KOSPI 200",
       "sector": "손해보험",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113800181"
+    },
+    {
+      "rcept_no": "20261113000357",
+      "corp_name": "휴젤",
+      "stock_code": "145020",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261113",
+      "flr_nm": "휴젤",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000357"
     },
     {
       "rcept_no": "20261113000351",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900135"
-    },
-    {
-      "rcept_no": "20261105900114",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261105",
-      "flr_nm": "에코프로비엠",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900114"
     }
   ]
 }
