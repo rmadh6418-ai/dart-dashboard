@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 19:31:09",
+  "updated_at": "2026-11-16 20:01:05",
   "total_count": 500,
   "disclosures": [
     {
@@ -169,6 +169,18 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116900630"
+    },
+    {
+      "rcept_no": "20261116802608",
+      "corp_name": "두산에너빌리티",
+      "stock_code": "034020",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261116",
+      "flr_nm": "두산에너빌리티",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116802608"
     },
     {
       "rcept_no": "20261116802597",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000244"
-    },
-    {
-      "rcept_no": "20261112000227",
-      "corp_name": "알테오젠",
-      "stock_code": "196170",
-      "report_nm": "[첨부정정]주요사항보고서(회사합병결정)",
-      "rcept_dt": "20261112",
-      "flr_nm": "알테오젠",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000227"
     }
   ]
 }
