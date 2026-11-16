@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-15 20:59:13",
+  "updated_at": "2026-11-16 09:01:16",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261116800009",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "유상증자또는주식관련사채등의청약결과(자율공시)              ",
+      "rcept_dt": "20261116",
+      "flr_nm": "삼성바이오로직스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800009"
+    },
+    {
+      "rcept_no": "20261116000017",
+      "corp_name": "ISC",
+      "stock_code": "095340",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "ISC",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000017"
+    },
     {
       "rcept_no": "20261113901903",
       "corp_name": "고영",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000355"
-    },
-    {
-      "rcept_no": "20261109000353",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261109",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000353"
-    },
-    {
-      "rcept_no": "20261109000350",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261109",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000350"
     }
   ]
 }
