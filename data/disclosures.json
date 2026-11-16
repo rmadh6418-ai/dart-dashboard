@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 12:01:20",
+  "updated_at": "2026-11-16 12:31:15",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800009"
+    },
+    {
+      "rcept_no": "20261116000287",
+      "corp_name": "더블유씨피",
+      "stock_code": "393890",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "더블유씨피",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000287"
     },
     {
       "rcept_no": "20261116000262",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800423"
-    },
-    {
-      "rcept_no": "20261109800420",
-      "corp_name": "GS건설",
-      "stock_code": "006360",
-      "report_nm": "단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "GS건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800420"
     }
   ]
 }
