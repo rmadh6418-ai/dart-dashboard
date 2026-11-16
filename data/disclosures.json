@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 12:31:15",
+  "updated_at": "2026-11-16 13:01:13",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,18 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800009"
+    },
+    {
+      "rcept_no": "20261116000298",
+      "corp_name": "클래시스",
+      "stock_code": "214150",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "클래시스",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000298"
     },
     {
       "rcept_no": "20261116000287",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800430"
-    },
-    {
-      "rcept_no": "20261109800423",
-      "corp_name": "현대건설",
-      "stock_code": "000720",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "현대건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800423"
     }
   ]
 }
