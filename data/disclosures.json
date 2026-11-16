@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:01:11",
+  "updated_at": "2026-11-16 11:31:01",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,42 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800009"
+    },
+    {
+      "rcept_no": "20261116000222",
+      "corp_name": "태광",
+      "stock_code": "023160",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "태광",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "피팅·배관기자재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000222"
+    },
+    {
+      "rcept_no": "20261116000218",
+      "corp_name": "삼화네트웍스",
+      "stock_code": "046390",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "삼화네트웍스",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000218"
+    },
+    {
+      "rcept_no": "20261116000213",
+      "corp_name": "HL만도",
+      "stock_code": "204320",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "HL만도",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000213"
     },
     {
       "rcept_no": "20261116000111",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800410"
-    },
-    {
-      "rcept_no": "20261109800406",
-      "corp_name": "현대건설",
-      "stock_code": "000720",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "현대건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800406"
-    },
-    {
-      "rcept_no": "20261109800366",
-      "corp_name": "HD현대마린엔진",
-      "stock_code": "071970",
-      "report_nm": "단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "HD현대마린엔진",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800366"
-    },
-    {
-      "rcept_no": "20261109800352",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "NH투자증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800352"
     }
   ]
 }
