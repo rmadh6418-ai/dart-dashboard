@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 18:01:46",
+  "updated_at": "2026-11-16 18:31:45",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116902519"
+    },
+    {
+      "rcept_no": "20261116902516",
+      "corp_name": "오스코텍",
+      "stock_code": "039200",
+      "report_nm": "소송등의제기ㆍ신청(경영권분쟁소송)              (검사인 선임)",
+      "rcept_dt": "20261116",
+      "flr_nm": "오스코텍",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116902516"
     },
     {
       "rcept_no": "20261116902426",
@@ -303,6 +315,18 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800009"
     },
     {
+      "rcept_no": "20261116002248",
+      "corp_name": "삼성SDI",
+      "stock_code": "006400",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "삼성SDI",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116002248"
+    },
+    {
       "rcept_no": "20261116002243",
       "corp_name": "종근당",
       "stock_code": "185750",
@@ -366,7 +390,7 @@
       "rcept_no": "20261116002191",
       "corp_name": "현대모비스",
       "stock_code": "012330",
-      "report_nm": "분기보고서 (2026.09)",
+      "report_nm": "[첨부추가]분기보고서 (2026.09)",
       "rcept_dt": "20261116",
       "flr_nm": "현대모비스",
       "rm": "",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000210"
-    },
-    {
-      "rcept_no": "20261112000201",
-      "corp_name": "파마리서치",
-      "stock_code": "214450",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "손지훈",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000201"
-    },
-    {
-      "rcept_no": "20261112000185",
-      "corp_name": "고영",
-      "stock_code": "098460",
-      "report_nm": "주식등의대량보유상황보고서(약식)",
-      "rcept_dt": "20261112",
-      "flr_nm": "J.P.MORGANSECURITIESPLC",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000185"
     }
   ]
 }
