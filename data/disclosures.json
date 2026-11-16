@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-16 13:31:00",
+  "updated_at": "2026-11-16 14:01:25",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261116800519",
+      "corp_name": "HD현대중공업",
+      "stock_code": "329180",
+      "report_nm": "단일판매ㆍ공급계약체결(자율공시)              ",
+      "rcept_dt": "20261116",
+      "flr_nm": "HD현대중공업",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800519"
+    },
     {
       "rcept_no": "20261116800077",
       "corp_name": "삼성중공업",
@@ -25,6 +37,42 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800009"
+    },
+    {
+      "rcept_no": "20261116000447",
+      "corp_name": "나노신소재",
+      "stock_code": "121600",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261116",
+      "flr_nm": "김미경",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000447"
+    },
+    {
+      "rcept_no": "20261116000401",
+      "corp_name": "하이록코리아",
+      "stock_code": "013030",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "하이록코리아",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "피팅·배관기자재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000401"
+    },
+    {
+      "rcept_no": "20261116000382",
+      "corp_name": "아이패밀리에스씨",
+      "stock_code": "114840",
+      "report_nm": "분기보고서 (2026.09)",
+      "rcept_dt": "20261116",
+      "flr_nm": "아이패밀리에스씨",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000382"
     },
     {
       "rcept_no": "20261116000298",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800603"
-    },
-    {
-      "rcept_no": "20261109800482",
-      "corp_name": "기아",
-      "stock_code": "000270",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "기아",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800482"
-    },
-    {
-      "rcept_no": "20261109800476",
-      "corp_name": "기아",
-      "stock_code": "000270",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "기아",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800476"
-    },
-    {
-      "rcept_no": "20261109800472",
-      "corp_name": "아모레퍼시픽",
-      "stock_code": "090430",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "아모레퍼시픽",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800472"
-    },
-    {
-      "rcept_no": "20261109800430",
-      "corp_name": "현대건설",
-      "stock_code": "000720",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261109",
-      "flr_nm": "현대건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109800430"
     }
   ]
 }
