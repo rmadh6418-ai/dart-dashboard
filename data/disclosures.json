@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-16 09:01:16",
+  "updated_at": "2026-11-16 09:31:19",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261116800077",
+      "corp_name": "삼성중공업",
+      "stock_code": "010140",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261116",
+      "flr_nm": "삼성중공업",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116800077"
+    },
     {
       "rcept_no": "20261116800009",
       "corp_name": "삼성바이오로직스",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000361"
-    },
-    {
-      "rcept_no": "20261109000355",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261109",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261109000355"
     }
   ]
 }
