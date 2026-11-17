@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-17 10:01:14",
+  "updated_at": "2026-11-17 10:31:15",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261117900180",
+      "corp_name": "엘앤씨바이오",
+      "stock_code": "290650",
+      "report_nm": "[기재정정]기업설명회(IR)개최              ",
+      "rcept_dt": "20261117",
+      "flr_nm": "엘앤씨바이오",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900180"
+    },
     {
       "rcept_no": "20261117800119",
       "corp_name": "아모레퍼시픽",
@@ -25,6 +37,18 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800115"
+    },
+    {
+      "rcept_no": "20261117000030",
+      "corp_name": "삼화네트웍스",
+      "stock_code": "046390",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261117",
+      "flr_nm": "신상윤",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "엔터·미디어",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000030"
     },
     {
       "rcept_no": "20261116902519",
@@ -69,7 +93,7 @@
       "report_nm": "기업설명회(IR)개최              ",
       "rcept_dt": "20261116",
       "flr_nm": "엘앤씨바이오",
-      "rm": "코",
+      "rm": "코정",
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116902395"
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000347"
-    },
-    {
-      "rcept_no": "20261112000326",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000326"
-    },
-    {
-      "rcept_no": "20261112000324",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000324"
     }
   ]
 }
