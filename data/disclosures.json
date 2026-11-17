@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 11:01:09",
+  "updated_at": "2026-11-17 11:31:07",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900180"
+    },
+    {
+      "rcept_no": "20261117800231",
+      "corp_name": "KB금융",
+      "stock_code": "105560",
+      "report_nm": "[기재정정]상각형조건부자본증권발행결정(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261117",
+      "flr_nm": "KB금융",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800231"
     },
     {
       "rcept_no": "20261117800119",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000367"
-    },
-    {
-      "rcept_no": "20261112000347",
-      "corp_name": "애경산업",
-      "stock_code": "018250",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261112",
-      "flr_nm": "애경산업",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000347"
     }
   ]
 }
