@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 17:31:09",
+  "updated_at": "2026-11-17 18:01:23",
   "total_count": 500,
   "disclosures": [
     {
@@ -289,6 +289,42 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000082"
+    },
+    {
+      "rcept_no": "20261117000037",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고서(파생결합증권-상장지수증권)",
+      "rcept_dt": "20261117",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000037"
+    },
+    {
+      "rcept_no": "20261117000034",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고서(기타파생결합증권)",
+      "rcept_dt": "20261117",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000034"
+    },
+    {
+      "rcept_no": "20261117000031",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "일괄신고서(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261117",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000031"
     },
     {
       "rcept_no": "20261117000030",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000495"
-    },
-    {
-      "rcept_no": "20261112000493",
-      "corp_name": "한화손해보험",
-      "stock_code": "000370",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261112",
-      "flr_nm": "한화손해보험",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000493"
-    },
-    {
-      "rcept_no": "20261112000491",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "[기재정정]일괄신고서(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20261112",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000491"
-    },
-    {
-      "rcept_no": "20261112000490",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000490"
     }
   ]
 }
