@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-17 16:31:09",
+  "updated_at": "2026-11-17 17:01:15",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261117900524",
+      "corp_name": "에스티팜",
+      "stock_code": "237690",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261117",
+      "flr_nm": "에스티팜",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900524"
+    },
     {
       "rcept_no": "20261117900180",
       "corp_name": "엘앤씨바이오",
@@ -13,6 +25,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900180"
+    },
+    {
+      "rcept_no": "20261117800520",
+      "corp_name": "영원무역",
+      "stock_code": "111770",
+      "report_nm": "유상증자결정(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261117",
+      "flr_nm": "영원무역",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800520"
+    },
+    {
+      "rcept_no": "20261117800516",
+      "corp_name": "영원무역",
+      "stock_code": "111770",
+      "report_nm": "유상증자결정(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261117",
+      "flr_nm": "영원무역",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800516"
     },
     {
       "rcept_no": "20261117800497",
@@ -97,6 +133,30 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800115"
+    },
+    {
+      "rcept_no": "20261117000215",
+      "corp_name": "아이패밀리에스씨",
+      "stock_code": "114840",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261117",
+      "flr_nm": "김태욱",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000215"
+    },
+    {
+      "rcept_no": "20261117000202",
+      "corp_name": "KB금융",
+      "stock_code": "105560",
+      "report_nm": "[기재정정]일괄신고서",
+      "rcept_dt": "20261117",
+      "flr_nm": "KB금융",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000202"
     },
     {
       "rcept_no": "20261117000184",
@@ -5941,66 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000483"
-    },
-    {
-      "rcept_no": "20261112000475",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000475"
-    },
-    {
-      "rcept_no": "20261112000472",
-      "corp_name": "키움증권",
-      "stock_code": "039490",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "키움증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000472"
-    },
-    {
-      "rcept_no": "20261112000461",
-      "corp_name": "한화솔루션",
-      "stock_code": "009830",
-      "report_nm": "[기재정정]사업보고서 (2025.12)",
-      "rcept_dt": "20261112",
-      "flr_nm": "한화솔루션",
-      "rm": "연",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000461"
-    },
-    {
-      "rcept_no": "20261112000446",
-      "corp_name": "한화",
-      "stock_code": "000880",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261112",
-      "flr_nm": "한화",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000446"
-    },
-    {
-      "rcept_no": "20261112000432",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261112",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000432"
     }
   ]
 }
