@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 15:01:16",
+  "updated_at": "2026-11-17 15:30:53",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900180"
+    },
+    {
+      "rcept_no": "20261117800347",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "유상증자또는주식관련사채등의발행결과(자율공시)              ",
+      "rcept_dt": "20261117",
+      "flr_nm": "삼성바이오로직스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800347"
     },
     {
       "rcept_no": "20261117800231",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000381"
-    },
-    {
-      "rcept_no": "20261112000380",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000380"
     }
   ]
 }
