@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 13:01:14",
+  "updated_at": "2026-11-18 13:31:09",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,18 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800027"
+    },
+    {
+      "rcept_no": "20261118000099",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000099"
     },
     {
       "rcept_no": "20261118000090",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000558"
-    },
-    {
-      "rcept_no": "20261112000545",
-      "corp_name": "SK바이오사이언스",
-      "stock_code": "302440",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261112",
-      "flr_nm": "SK바이오사이언스",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000545"
     }
   ]
 }
