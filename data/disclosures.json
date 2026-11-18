@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 18:03:29",
+  "updated_at": "2026-11-18 18:31:14",
   "total_count": 500,
   "disclosures": [
     {
@@ -85,6 +85,30 @@
       "market": "KOSDAQ 150",
       "sector": "피팅·배관기자재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900050"
+    },
+    {
+      "rcept_no": "20261118800606",
+      "corp_name": "한전KPS",
+      "stock_code": "051600",
+      "report_nm": "[기재정정]거래처와의거래중단              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "한전KPS",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800606"
+    },
+    {
+      "rcept_no": "20261118800582",
+      "corp_name": "DB하이텍",
+      "stock_code": "000990",
+      "report_nm": "주식소각결정              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "DB하이텍",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800582"
     },
     {
       "rcept_no": "20261118800567",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900678"
-    },
-    {
-      "rcept_no": "20261112900546",
-      "corp_name": "HLB",
-      "stock_code": "028300",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "HLB",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900546"
-    },
-    {
-      "rcept_no": "20261112900535",
-      "corp_name": "클래시스",
-      "stock_code": "214150",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "클래시스",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900535"
     }
   ]
 }
