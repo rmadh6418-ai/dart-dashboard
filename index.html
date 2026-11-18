@@ -131,10 +131,23 @@
     let currentMarket = "ALL";
     let isUnlocked = false;
 
+    // 💡 [수정됨] 페이지가 로드될 때 세션 스토리지를 확인하는 로직 추가
+    window.addEventListener('DOMContentLoaded', () => {
+      if (sessionStorage.getItem('dartUnlocked') === 'true') {
+        document.getElementById('authOverlay').style.display = 'none';
+        isUnlocked = true;
+        fetchData();
+        setInterval(fetchData, 300000);
+      }
+    });
+
     function unlockDashboard() {
       const inputVal = parseInt(document.getElementById('pwdInput').value, 10);
       
       if (!isNaN(inputVal) && (inputVal ^ 0x3F) === 0x1054) {
+        // 💡 [수정됨] 비밀번호 성공 시 세션 스토리지에 저장
+        sessionStorage.setItem('dartUnlocked', 'true');
+        
         document.getElementById('authOverlay').style.display = 'none';
         isUnlocked = true;
         fetchData();
