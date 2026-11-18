@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-18 09:01:30",
+  "updated_at": "2026-11-18 09:31:17",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261118800027",
+      "corp_name": "한국금융지주",
+      "stock_code": "071050",
+      "report_nm": "투자판단관련주요경영사항              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "한국금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800027"
+    },
     {
       "rcept_no": "20261117900524",
       "corp_name": "에스티팜",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000497"
-    },
-    {
-      "rcept_no": "20261112000495",
-      "corp_name": "SK",
-      "stock_code": "034730",
-      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
-      "rcept_dt": "20261112",
-      "flr_nm": "SK",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000495"
     }
   ]
 }
