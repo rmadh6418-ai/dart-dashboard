@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 10:01:18",
+  "updated_at": "2026-11-18 10:30:52",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,30 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800027"
+    },
+    {
+      "rcept_no": "20261118000053",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "report_nm": "특수관계인과의보험거래",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화시스템",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000053"
+    },
+    {
+      "rcept_no": "20261118000048",
+      "corp_name": "새빗켐",
+      "stock_code": "107600",
+      "report_nm": "주주총회소집공고",
+      "rcept_dt": "20261118",
+      "flr_nm": "새빗켐",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000048"
     },
     {
       "rcept_no": "20261117900524",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000507"
-    },
-    {
-      "rcept_no": "20261112000499",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "[기재정정]일괄신고서(기타파생결합증권)",
-      "rcept_dt": "20261112",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000499"
-    },
-    {
-      "rcept_no": "20261112000498",
-      "corp_name": "한화",
-      "stock_code": "000880",
-      "report_nm": "주요사항보고서(자기주식취득결정)",
-      "rcept_dt": "20261112",
-      "flr_nm": "한화",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000498"
     }
   ]
 }
