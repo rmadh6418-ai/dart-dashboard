@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 11:31:13",
+  "updated_at": "2026-11-18 12:01:03",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,18 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800027"
+    },
+    {
+      "rcept_no": "20261118000090",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000090"
     },
     {
       "rcept_no": "20261118000053",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000545"
-    },
-    {
-      "rcept_no": "20261112000541",
-      "corp_name": "기아",
-      "stock_code": "000270",
-      "report_nm": "특수관계인으로부터기타유가증권매수",
-      "rcept_dt": "20261112",
-      "flr_nm": "기아",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000541"
     }
   ]
 }
