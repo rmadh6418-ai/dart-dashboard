@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 14:30:50",
+  "updated_at": "2026-11-18 15:01:16",
   "total_count": 500,
   "disclosures": [
     {
@@ -51,6 +51,18 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900050"
     },
     {
+      "rcept_no": "20261118800225",
+      "corp_name": "하나금융지주",
+      "stock_code": "086790",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "하나금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800225"
+    },
+    {
       "rcept_no": "20261118800027",
       "corp_name": "한국금융지주",
       "stock_code": "071050",
@@ -61,6 +73,30 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800027"
+    },
+    {
+      "rcept_no": "20261118000161",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000161"
+    },
+    {
+      "rcept_no": "20261118000151",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261118",
+      "flr_nm": "GOYAL SIDDHARTH",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000151"
     },
     {
       "rcept_no": "20261118000127",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000649"
-    },
-    {
-      "rcept_no": "20261112000648",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000648"
-    },
-    {
-      "rcept_no": "20261112000642",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000642"
-    },
-    {
-      "rcept_no": "20261112000636",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000636"
     }
   ]
 }
