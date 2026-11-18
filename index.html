@@ -322,6 +322,20 @@
         });
       });
     }
+
+    // --- [추가] 부모 창(메인 대시보드)에서 보내는 종목명 검색어 수신 로직 ---
+    window.addEventListener('message', (event) => {
+      const data = event.data;
+      if (data && data.type === 'SEARCH_CORP') {
+        const searchInput = document.getElementById("searchInput");
+        if (searchInput) {
+          // 검색창에 전달받은 기업명 입력
+          searchInput.value = data.corpName;
+          // 리스트 필터링(검색) 실행
+          renderList();
+        }
+      }
+    });
   </script>
 </body>
 </html>
