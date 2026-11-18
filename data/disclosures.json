@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-18 13:31:09",
+  "updated_at": "2026-11-18 14:01:16",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261118900170",
+      "corp_name": "태광",
+      "stock_code": "023160",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "태광",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "피팅·배관기자재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900170"
+    },
+    {
+      "rcept_no": "20261118900145",
+      "corp_name": "서진시스템",
+      "stock_code": "178320",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "서진시스템",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900145"
+    },
     {
       "rcept_no": "20261118900086",
       "corp_name": "성광벤드",
@@ -37,6 +61,78 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800027"
+    },
+    {
+      "rcept_no": "20261118000127",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000127"
+    },
+    {
+      "rcept_no": "20261118000123",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000123"
+    },
+    {
+      "rcept_no": "20261118000119",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000119"
+    },
+    {
+      "rcept_no": "20261118000114",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000114"
+    },
+    {
+      "rcept_no": "20261118000111",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000111"
+    },
+    {
+      "rcept_no": "20261118000105",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000105"
     },
     {
       "rcept_no": "20261118000099",
@@ -5905,102 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000636"
-    },
-    {
-      "rcept_no": "20261112000626",
-      "corp_name": "포스코퓨처엠",
-      "stock_code": "003670",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "포스코퓨처엠",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000626"
-    },
-    {
-      "rcept_no": "20261112000622",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261112",
-      "flr_nm": "에코프로",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000622"
-    },
-    {
-      "rcept_no": "20261112000614",
-      "corp_name": "KB금융",
-      "stock_code": "105560",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261112",
-      "flr_nm": "KB금융",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000614"
-    },
-    {
-      "rcept_no": "20261112000607",
-      "corp_name": "카카오페이",
-      "stock_code": "377300",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261112",
-      "flr_nm": "카카오페이",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000607"
-    },
-    {
-      "rcept_no": "20261112000606",
-      "corp_name": "에코프로",
-      "stock_code": "086520",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261112",
-      "flr_nm": "이동채",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000606"
-    },
-    {
-      "rcept_no": "20261112000566",
-      "corp_name": "하나머티리얼즈",
-      "stock_code": "166090",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261112",
-      "flr_nm": "하나머티리얼즈",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000566"
-    },
-    {
-      "rcept_no": "20261112000562",
-      "corp_name": "한화",
-      "stock_code": "000880",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261112",
-      "flr_nm": "김승연",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "방위산업·우주항공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000562"
-    },
-    {
-      "rcept_no": "20261112000558",
-      "corp_name": "티씨케이",
-      "stock_code": "064760",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261112",
-      "flr_nm": "티씨케이",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000558"
     }
   ]
 }
