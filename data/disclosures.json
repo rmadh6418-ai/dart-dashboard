@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-18 10:30:52",
+  "updated_at": "2026-11-18 11:01:20",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261118900086",
+      "corp_name": "성광벤드",
+      "stock_code": "014620",
+      "report_nm": "주식소각결정              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "성광벤드",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "피팅·배관기자재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900086"
+    },
     {
       "rcept_no": "20261118900050",
       "corp_name": "성광벤드",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000541"
-    },
-    {
-      "rcept_no": "20261112000507",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "[기재정정]일괄신고서(기타파생결합사채)",
-      "rcept_dt": "20261112",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112000507"
     }
   ]
 }
