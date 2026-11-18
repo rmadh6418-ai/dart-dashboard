@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-18 16:31:11",
+  "updated_at": "2026-11-18 17:01:25",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261118900433",
+      "corp_name": "보로노이",
+      "stock_code": "310210",
+      "report_nm": "[기재정정]투자판단관련주요경영사항(임상시험계획변경승인신청)              (VRN110755의 제 1/2상 임상시험)",
+      "rcept_dt": "20261118",
+      "flr_nm": "보로노이",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900433"
+    },
+    {
+      "rcept_no": "20261118900426",
+      "corp_name": "티씨케이",
+      "stock_code": "064760",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "티씨케이",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900426"
+    },
     {
       "rcept_no": "20261118900252",
       "corp_name": "삼현",
@@ -73,6 +97,18 @@
       "market": "KOSPI 200",
       "sector": "손해보험",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800397"
+    },
+    {
+      "rcept_no": "20261118800394",
+      "corp_name": "한국금융지주",
+      "stock_code": "071050",
+      "report_nm": "타법인주식및출자증권취득결정              ",
+      "rcept_dt": "20261118",
+      "flr_nm": "한국금융지주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800394"
     },
     {
       "rcept_no": "20261118800353",
@@ -169,6 +205,78 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800027"
+    },
+    {
+      "rcept_no": "20261118000287",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000287"
+    },
+    {
+      "rcept_no": "20261118000282",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261118",
+      "flr_nm": "유승호",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000282"
+    },
+    {
+      "rcept_no": "20261118000279",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261118",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000279"
+    },
+    {
+      "rcept_no": "20261118000260",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261118",
+      "flr_nm": "노균",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000260"
+    },
+    {
+      "rcept_no": "20261118000249",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261118",
+      "flr_nm": "John Chongbo Rim",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000249"
+    },
+    {
+      "rcept_no": "20261118000246",
+      "corp_name": "삼양식품",
+      "stock_code": "003230",
+      "report_nm": "임원ㆍ주요주주특정증권등거래계획보고서",
+      "rcept_dt": "20261118",
+      "flr_nm": "전인장",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "음식료·유통",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000246"
     },
     {
       "rcept_no": "20261118000234",
@@ -5893,114 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800691"
-    },
-    {
-      "rcept_no": "20261112800674",
-      "corp_name": "HD한국조선해양",
-      "stock_code": "009540",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "HD한국조선해양",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800674"
-    },
-    {
-      "rcept_no": "20261112800662",
-      "corp_name": "HD현대중공업",
-      "stock_code": "329180",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "HD현대중공업",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800662"
-    },
-    {
-      "rcept_no": "20261112800651",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "삼성증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800651"
-    },
-    {
-      "rcept_no": "20261112800648",
-      "corp_name": "삼성에피스홀딩스",
-      "stock_code": "0126Z0",
-      "report_nm": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정(자회사의 주요경영사항)              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "삼성에피스홀딩스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800648"
-    },
-    {
-      "rcept_no": "20261112800579",
-      "corp_name": "HMM",
-      "stock_code": "011200",
-      "report_nm": "[기재정정]기업가치제고계획(자율공시)              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "HMM",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800579"
-    },
-    {
-      "rcept_no": "20261112800571",
-      "corp_name": "삼성SDI",
-      "stock_code": "006400",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "삼성SDI",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800571"
-    },
-    {
-      "rcept_no": "20261112800560",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "미래에셋증권",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800560"
-    },
-    {
-      "rcept_no": "20261112800507",
-      "corp_name": "DB손해보험",
-      "stock_code": "005830",
-      "report_nm": "연결재무제표기준영업(잠정)실적(공정공시)              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "DB손해보험",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800507"
-    },
-    {
-      "rcept_no": "20261112800439",
-      "corp_name": "한국가스공사",
-      "stock_code": "036460",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "한국가스공사",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112800439"
     }
   ]
 }
