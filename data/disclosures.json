@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 10:03:17",
+  "updated_at": "2026-11-19 10:31:16",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900001"
+    },
+    {
+      "rcept_no": "20261119800082",
+      "corp_name": "한화오션",
+      "stock_code": "042660",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261119",
+      "flr_nm": "한화오션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800082"
     },
     {
       "rcept_no": "20261119800078",
@@ -49,6 +61,30 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800002"
+    },
+    {
+      "rcept_no": "20261119000043",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000043"
+    },
+    {
+      "rcept_no": "20261119000042",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000042"
     },
     {
       "rcept_no": "20261119000022",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000215"
-    },
-    {
-      "rcept_no": "20261113000198",
-      "corp_name": "비엠티",
-      "stock_code": "086670",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "비엠티",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "피팅·배관기자재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000198"
-    },
-    {
-      "rcept_no": "20261113000190",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000190"
-    },
-    {
-      "rcept_no": "20261113000076",
-      "corp_name": "GS건설",
-      "stock_code": "006360",
-      "report_nm": "특수관계인과의내부거래",
-      "rcept_dt": "20261113",
-      "flr_nm": "GS건설",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000076"
     }
   ]
 }
