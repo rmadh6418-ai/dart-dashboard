@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:01:16",
+  "updated_at": "2026-11-19 13:30:50",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900001"
+    },
+    {
+      "rcept_no": "20261119800214",
+      "corp_name": "일진전기",
+      "stock_code": "103590",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261119",
+      "flr_nm": "일진전기",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800214"
     },
     {
       "rcept_no": "20261119800168",
@@ -85,6 +97,30 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800002"
+    },
+    {
+      "rcept_no": "20261119000127",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000127"
+    },
+    {
+      "rcept_no": "20261119000124",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000124"
     },
     {
       "rcept_no": "20261119000068",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000351"
-    },
-    {
-      "rcept_no": "20261113000323",
-      "corp_name": "에브리봇",
-      "stock_code": "270660",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261113",
-      "flr_nm": "정우철",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "로봇·자동화",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000323"
-    },
-    {
-      "rcept_no": "20261113000317",
-      "corp_name": "HD현대마린솔루션",
-      "stock_code": "443060",
-      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
-      "rcept_dt": "20261113",
-      "flr_nm": "HD현대마린솔루션",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000317"
-    },
-    {
-      "rcept_no": "20261113000302",
-      "corp_name": "농심",
-      "stock_code": "004370",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "농심",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000302"
     }
   ]
 }
