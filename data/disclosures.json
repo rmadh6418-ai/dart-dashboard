@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 13:30:50",
+  "updated_at": "2026-11-19 14:01:01",
   "total_count": 500,
   "disclosures": [
     {
@@ -97,6 +97,42 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800002"
+    },
+    {
+      "rcept_no": "20261119000158",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000158"
+    },
+    {
+      "rcept_no": "20261119000139",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000139"
+    },
+    {
+      "rcept_no": "20261119000136",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000136"
     },
     {
       "rcept_no": "20261119000127",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000380"
-    },
-    {
-      "rcept_no": "20261113000376",
-      "corp_name": "주성엔지니어링",
-      "stock_code": "036930",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "주성엔지니어링",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000376"
-    },
-    {
-      "rcept_no": "20261113000357",
-      "corp_name": "휴젤",
-      "stock_code": "145020",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "휴젤",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000357"
-    },
-    {
-      "rcept_no": "20261113000351",
-      "corp_name": "포스코퓨처엠",
-      "stock_code": "003670",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "포스코퓨처엠",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000351"
     }
   ]
 }
