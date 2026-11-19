@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 14:01:01",
+  "updated_at": "2026-11-19 14:31:15",
   "total_count": 500,
   "disclosures": [
     {
@@ -97,6 +97,30 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800002"
+    },
+    {
+      "rcept_no": "20261119000173",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000173"
+    },
+    {
+      "rcept_no": "20261119000159",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000159"
     },
     {
       "rcept_no": "20261119000158",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000396"
-    },
-    {
-      "rcept_no": "20261113000391",
-      "corp_name": "안랩",
-      "stock_code": "053800",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "안랩",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000391"
-    },
-    {
-      "rcept_no": "20261113000380",
-      "corp_name": "동국제강",
-      "stock_code": "460860",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "동국제강",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "철강·금속",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000380"
     }
   ]
 }
