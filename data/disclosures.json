@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-19 15:31:09",
+  "updated_at": "2026-11-19 16:01:29",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261119900374",
+      "corp_name": "펩트론",
+      "stock_code": "087010",
+      "report_nm": "[기재정정]투자판단관련주요경영사항(임상시험계획승인신청등결정)              (PT403의 제1상 임상시험계획 승인)",
+      "rcept_dt": "20261119",
+      "flr_nm": "펩트론",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900374"
+    },
     {
       "rcept_no": "20261119900001",
       "corp_name": "펩트론",
@@ -9,10 +21,34 @@
       "report_nm": "투자판단관련주요경영사항(임상시험계획승인신청등결정)              (PT403의 제1상 임상시험계획 승인)",
       "rcept_dt": "20261119",
       "flr_nm": "펩트론",
-      "rm": "코",
+      "rm": "코정",
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900001"
+    },
+    {
+      "rcept_no": "20261119800372",
+      "corp_name": "현대모비스",
+      "stock_code": "012330",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261119",
+      "flr_nm": "현대모비스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "자동차·운송장비",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800372"
+    },
+    {
+      "rcept_no": "20261119800347",
+      "corp_name": "코스맥스",
+      "stock_code": "192820",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261119",
+      "flr_nm": "코스맥스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "화장품·의류",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800347"
     },
     {
       "rcept_no": "20261119800214",
@@ -97,6 +133,54 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800002"
+    },
+    {
+      "rcept_no": "20261119000244",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261119",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000244"
+    },
+    {
+      "rcept_no": "20261119000241",
+      "corp_name": "LG전자",
+      "stock_code": "066570",
+      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래",
+      "rcept_dt": "20261119",
+      "flr_nm": "LG전자",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000241"
+    },
+    {
+      "rcept_no": "20261119000234",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000234"
+    },
+    {
+      "rcept_no": "20261119000230",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261119",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000230"
     },
     {
       "rcept_no": "20261119000215",
@@ -5917,90 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000606"
-    },
-    {
-      "rcept_no": "20261113000584",
-      "corp_name": "대한전선",
-      "stock_code": "001440",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "대한전선",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000584"
-    },
-    {
-      "rcept_no": "20261113000557",
-      "corp_name": "GS건설",
-      "stock_code": "006360",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "GS건설",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000557"
-    },
-    {
-      "rcept_no": "20261113000499",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000499"
-    },
-    {
-      "rcept_no": "20261113000479",
-      "corp_name": "리가켐바이오",
-      "stock_code": "141080",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "리가켐바이오",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000479"
-    },
-    {
-      "rcept_no": "20261113000467",
-      "corp_name": "HD현대마린솔루션",
-      "stock_code": "443060",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "HD현대마린솔루션",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000467"
-    },
-    {
-      "rcept_no": "20261113000455",
-      "corp_name": "이오테크닉스",
-      "stock_code": "039030",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "이오테크닉스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000455"
-    },
-    {
-      "rcept_no": "20261113000442",
-      "corp_name": "실리콘투",
-      "stock_code": "257720",
-      "report_nm": "주요사항보고서(자기주식취득신탁계약해지결정)",
-      "rcept_dt": "20261113",
-      "flr_nm": "실리콘투",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000442"
     }
   ]
 }
