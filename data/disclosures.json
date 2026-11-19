@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 11:01:01",
+  "updated_at": "2026-11-19 11:31:06",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900001"
+    },
+    {
+      "rcept_no": "20261119800168",
+      "corp_name": "LG전자",
+      "stock_code": "066570",
+      "report_nm": "[기재정정]중대재해발생(종속회사의주요경영사항)              ",
+      "rcept_dt": "20261119",
+      "flr_nm": "LG전자",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800168"
+    },
+    {
+      "rcept_no": "20261119800164",
+      "corp_name": "POSCO홀딩스",
+      "stock_code": "005490",
+      "report_nm": "풍문또는보도에대한해명(미확정)(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261119",
+      "flr_nm": "POSCO홀딩스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800164"
     },
     {
       "rcept_no": "20261119800082",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000302"
-    },
-    {
-      "rcept_no": "20261113000294",
-      "corp_name": "나노신소재",
-      "stock_code": "121600",
-      "report_nm": "자기주식처분결과보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "나노신소재",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000294"
-    },
-    {
-      "rcept_no": "20261113000274",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000274"
     }
   ]
 }
