@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:31:03",
+  "updated_at": "2026-11-19 10:03:17",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900001"
+    },
+    {
+      "rcept_no": "20261119800078",
+      "corp_name": "LG이노텍",
+      "stock_code": "011070",
+      "report_nm": "[기재정정]중대재해발생              ",
+      "rcept_dt": "20261119",
+      "flr_nm": "LG이노텍",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800078"
     },
     {
       "rcept_no": "20261119800003",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "건설·시공",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000076"
-    },
-    {
-      "rcept_no": "20261113000047",
-      "corp_name": "에스피지",
-      "stock_code": "058610",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "에스피지",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "로봇·자동화",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000047"
     }
   ]
 }
