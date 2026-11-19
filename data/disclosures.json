@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 17:31:22",
+  "updated_at": "2026-11-19 18:01:23",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900001"
+    },
+    {
+      "rcept_no": "20261119800743",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261119",
+      "flr_nm": "삼성물산",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800743"
     },
     {
       "rcept_no": "20261119800598",
@@ -313,6 +325,18 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800002"
+    },
+    {
+      "rcept_no": "20261119000398",
+      "corp_name": "HLB",
+      "stock_code": "028300",
+      "report_nm": "주요사항보고서(회사합병결정)",
+      "rcept_dt": "20261119",
+      "flr_nm": "HLB",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000398"
     },
     {
       "rcept_no": "20261119000389",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "인터넷·게임·플랫폼",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000928"
-    },
-    {
-      "rcept_no": "20261113000918",
-      "corp_name": "SK증권",
-      "stock_code": "001510",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "SK증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000918"
-    },
-    {
-      "rcept_no": "20261113000899",
-      "corp_name": "삼성중공업",
-      "stock_code": "010140",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "김경희",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000899"
     }
   ]
 }
