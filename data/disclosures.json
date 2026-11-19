@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 09:01:02",
+  "updated_at": "2026-11-19 09:31:03",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,54 @@
       "market": "KOSPI 200",
       "sector": "철강·금속",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800002"
+    },
+    {
+      "rcept_no": "20261119000022",
+      "corp_name": "알테오젠",
+      "stock_code": "196170",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261119",
+      "flr_nm": "김항연",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000022"
+    },
+    {
+      "rcept_no": "20261119000011",
+      "corp_name": "카카오",
+      "stock_code": "035720",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261119",
+      "flr_nm": "막시모피티이엘티디",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000011"
+    },
+    {
+      "rcept_no": "20261119000009",
+      "corp_name": "한화엔진",
+      "stock_code": "082740",
+      "report_nm": "의결권대리행사권유참고서류",
+      "rcept_dt": "20261119",
+      "flr_nm": "한화엔진",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000009"
+    },
+    {
+      "rcept_no": "20261119000004",
+      "corp_name": "한화엔진",
+      "stock_code": "082740",
+      "report_nm": "주주총회소집공고",
+      "rcept_dt": "20261119",
+      "flr_nm": "한화엔진",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000004"
     },
     {
       "rcept_no": "20261118900433",
@@ -5953,54 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "로봇·자동화",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000047"
-    },
-    {
-      "rcept_no": "20261112901176",
-      "corp_name": "동화기업",
-      "stock_code": "025900",
-      "report_nm": "중대재해관련형사처벌사실확인              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "동화기업",
-      "rm": "코정",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112901176"
-    },
-    {
-      "rcept_no": "20261112900985",
-      "corp_name": "태광",
-      "stock_code": "023160",
-      "report_nm": "중간(분기)배당락              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "코스닥시장본부",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "피팅·배관기자재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900985"
-    },
-    {
-      "rcept_no": "20261112900889",
-      "corp_name": "컴투스",
-      "stock_code": "078340",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "컴투스",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900889"
-    },
-    {
-      "rcept_no": "20261112900881",
-      "corp_name": "컴투스",
-      "stock_code": "078340",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261112",
-      "flr_nm": "컴투스",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261112900881"
     }
   ]
 }
