@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 10:01:01",
+  "updated_at": "2026-11-20 10:30:52",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,54 @@
       "market": "KOSDAQ 150",
       "sector": "로봇·자동화",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900120"
+    },
+    {
+      "rcept_no": "20261120000137",
+      "corp_name": "포스코퓨처엠",
+      "stock_code": "003670",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261120",
+      "flr_nm": "홍영준",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000137"
+    },
+    {
+      "rcept_no": "20261120000134",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261120",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000134"
+    },
+    {
+      "rcept_no": "20261120000124",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261120",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000124"
+    },
+    {
+      "rcept_no": "20261120000114",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261120",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000114"
     },
     {
       "rcept_no": "20261120000101",
@@ -522,7 +570,7 @@
       "rcept_no": "20261119000398",
       "corp_name": "HLB",
       "stock_code": "028300",
-      "report_nm": "주요사항보고서(회사합병결정)",
+      "report_nm": "[첨부추가]주요사항보고서(회사합병결정)",
       "rcept_dt": "20261119",
       "flr_nm": "HLB",
       "rm": "",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001144"
-    },
-    {
-      "rcept_no": "20261113001143",
-      "corp_name": "하이젠알앤엠",
-      "stock_code": "160190",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "하이젠알앤엠",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "로봇·자동화",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001143"
-    },
-    {
-      "rcept_no": "20261113001140",
-      "corp_name": "NAVER",
-      "stock_code": "035420",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "NAVER",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001140"
-    },
-    {
-      "rcept_no": "20261113001122",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "[기재정정]일괄신고서(기타파생결합증권)",
-      "rcept_dt": "20261113",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001122"
-    },
-    {
-      "rcept_no": "20261113001117",
-      "corp_name": "아이패밀리에스씨",
-      "stock_code": "114840",
-      "report_nm": "공개매수결과보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "웰라이언트",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001117"
     }
   ]
 }
