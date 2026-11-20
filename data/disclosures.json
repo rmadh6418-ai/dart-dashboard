@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-11-19 21:26:34",
+  "updated_at": "2026-11-20 09:01:12",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261120900120",
+      "corp_name": "로보티즈",
+      "stock_code": "108490",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261120",
+      "flr_nm": "로보티즈",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "로봇·자동화",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900120"
+    },
+    {
+      "rcept_no": "20261120000022",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261120",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000022"
+    },
+    {
+      "rcept_no": "20261120000021",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261120",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000021"
+    },
+    {
+      "rcept_no": "20261120000020",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000020"
+    },
+    {
+      "rcept_no": "20261120000017",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000017"
+    },
+    {
+      "rcept_no": "20261116100038",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "효력발생안내( 2026.11.16. 제출 일괄신고서 )",
+      "rcept_dt": "20261120",
+      "flr_nm": "금융감독원",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116100038"
+    },
     {
       "rcept_no": "20261119900540",
       "corp_name": "보로노이",
@@ -5929,78 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001000"
-    },
-    {
-      "rcept_no": "20261113000996",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000996"
-    },
-    {
-      "rcept_no": "20261113000979",
-      "corp_name": "셀트리온",
-      "stock_code": "068270",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "장소용",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000979"
-    },
-    {
-      "rcept_no": "20261113000976",
-      "corp_name": "NAVER",
-      "stock_code": "035420",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "나군호",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000976"
-    },
-    {
-      "rcept_no": "20261113000939",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "증권발행실적보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000939"
-    },
-    {
-      "rcept_no": "20261113000938",
-      "corp_name": "심텍",
-      "stock_code": "222800",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "심텍",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000938"
-    },
-    {
-      "rcept_no": "20261113000928",
-      "corp_name": "NAVER",
-      "stock_code": "035420",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "오성권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113000928"
     }
   ]
 }
