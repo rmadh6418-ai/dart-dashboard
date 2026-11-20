@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 12:49:50",
+  "updated_at": "2026-11-20 13:01:11",
   "total_count": 500,
   "disclosures": [
     {
@@ -49,6 +49,18 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800332"
+    },
+    {
+      "rcept_no": "20261120000255",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261120",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000255"
     },
     {
       "rcept_no": "20261120000251",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "게임·소프트웨어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001280"
-    },
-    {
-      "rcept_no": "20261113001271",
-      "corp_name": "삼성에피스홀딩스",
-      "stock_code": "0126Z0",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "삼성에피스홀딩스",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001271"
     }
   ]
 }
