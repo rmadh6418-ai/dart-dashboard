@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 09:30:54",
+  "updated_at": "2026-11-20 10:01:01",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,66 @@
       "market": "KOSDAQ 150",
       "sector": "로봇·자동화",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900120"
+    },
+    {
+      "rcept_no": "20261120000101",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000101"
+    },
+    {
+      "rcept_no": "20261120000095",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000095"
+    },
+    {
+      "rcept_no": "20261120000089",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261120",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000089"
+    },
+    {
+      "rcept_no": "20261120000076",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000076"
+    },
+    {
+      "rcept_no": "20261120000065",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(기타파생결합증권)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000065"
     },
     {
       "rcept_no": "20261120000063",
@@ -49,6 +109,18 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000047"
+    },
+    {
+      "rcept_no": "20261120000040",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고서(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000040"
     },
     {
       "rcept_no": "20261120000037",
@@ -5929,78 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001117"
-    },
-    {
-      "rcept_no": "20261113001110",
-      "corp_name": "오스코텍",
-      "stock_code": "039200",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "오스코텍",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001110"
-    },
-    {
-      "rcept_no": "20261113001106",
-      "corp_name": "DL이앤씨",
-      "stock_code": "375500",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "DL이앤씨",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001106"
-    },
-    {
-      "rcept_no": "20261113001097",
-      "corp_name": "POSCO홀딩스",
-      "stock_code": "005490",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "POSCO홀딩스",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001097"
-    },
-    {
-      "rcept_no": "20261113001084",
-      "corp_name": "펄어비스",
-      "stock_code": "263750",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "펄어비스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001084"
-    },
-    {
-      "rcept_no": "20261113001055",
-      "corp_name": "에코프로비엠",
-      "stock_code": "247540",
-      "report_nm": "특수관계인으로부터자산양수",
-      "rcept_dt": "20261113",
-      "flr_nm": "에코프로비엠",
-      "rm": "공",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001055"
-    },
-    {
-      "rcept_no": "20261113001035",
-      "corp_name": "보로노이",
-      "stock_code": "310210",
-      "report_nm": "주요사항보고서(전환사채권발행결정)",
-      "rcept_dt": "20261113",
-      "flr_nm": "보로노이",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001035"
     }
   ]
 }
