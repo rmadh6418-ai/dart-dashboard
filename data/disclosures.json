@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 09:01:12",
+  "updated_at": "2026-11-20 09:30:54",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,54 @@
       "market": "KOSDAQ 150",
       "sector": "로봇·자동화",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900120"
+    },
+    {
+      "rcept_no": "20261120000063",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000063"
+    },
+    {
+      "rcept_no": "20261120000053",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261120",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000053"
+    },
+    {
+      "rcept_no": "20261120000047",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261120",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000047"
+    },
+    {
+      "rcept_no": "20261120000037",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261120",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000037"
     },
     {
       "rcept_no": "20261120000022",
@@ -5953,54 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001035"
-    },
-    {
-      "rcept_no": "20261113001019",
-      "corp_name": "한국카본",
-      "stock_code": "017960",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261113",
-      "flr_nm": "한국카본",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001019"
-    },
-    {
-      "rcept_no": "20261113001011",
-      "corp_name": "NAVER",
-      "stock_code": "035420",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "김소연",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "인터넷·게임·플랫폼",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001011"
-    },
-    {
-      "rcept_no": "20261113001007",
-      "corp_name": "심텍",
-      "stock_code": "222800",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "심텍홀딩스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001007"
-    },
-    {
-      "rcept_no": "20261113001000",
-      "corp_name": "LG생활건강",
-      "stock_code": "051900",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261113",
-      "flr_nm": "이선주",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261113001000"
     }
   ]
 }
