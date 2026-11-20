@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-20 17:30:59",
+  "updated_at": "2026-11-20 18:01:02",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261120900936",
+      "corp_name": "보로노이",
+      "stock_code": "310210",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261120",
+      "flr_nm": "보로노이",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900936"
+    },
     {
       "rcept_no": "20261120900746",
       "corp_name": "동진쎄미켐",
@@ -253,6 +265,18 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800332"
+    },
+    {
+      "rcept_no": "20261120000607",
+      "corp_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261120",
+      "flr_nm": "삼성전자",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000607"
     },
     {
       "rcept_no": "20261120000596",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "피팅·배관기자재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000222"
-    },
-    {
-      "rcept_no": "20261116000218",
-      "corp_name": "삼화네트웍스",
-      "stock_code": "046390",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "삼화네트웍스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000218"
-    },
-    {
-      "rcept_no": "20261116000213",
-      "corp_name": "HL만도",
-      "stock_code": "204320",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "HL만도",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000213"
     }
   ]
 }
