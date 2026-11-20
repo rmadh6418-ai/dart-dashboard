@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 18:01:02",
+  "updated_at": "2026-11-20 18:31:19",
   "total_count": 500,
   "disclosures": [
     {
@@ -265,6 +265,18 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800332"
+    },
+    {
+      "rcept_no": "20261120700973",
+      "corp_name": "엔켐",
+      "stock_code": "348370",
+      "report_nm": "조회공시요구(풍문또는보도등)              ",
+      "rcept_dt": "20261120",
+      "flr_nm": "채권시장",
+      "rm": "채",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120700973"
     },
     {
       "rcept_no": "20261120000607",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "반도체 소부장",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000236"
-    },
-    {
-      "rcept_no": "20261116000222",
-      "corp_name": "태광",
-      "stock_code": "023160",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "태광",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "피팅·배관기자재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000222"
     }
   ]
 }
