@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-23 09:01:21",
+  "updated_at": "2026-11-23 09:30:49",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261123800110",
+      "corp_name": "KB금융",
+      "stock_code": "105560",
+      "report_nm": "[기재정정]상각형조건부자본증권발행결정(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "KB금융",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800110"
+    },
     {
       "rcept_no": "20261123800004",
       "corp_name": "DL이앤씨",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000385"
-    },
-    {
-      "rcept_no": "20261116000382",
-      "corp_name": "아이패밀리에스씨",
-      "stock_code": "114840",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "아이패밀리에스씨",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000382"
     }
   ]
 }
