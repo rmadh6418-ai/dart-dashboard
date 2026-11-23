@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-23 09:30:49",
+  "updated_at": "2026-11-23 10:01:16",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261123800132",
+      "corp_name": "대우건설",
+      "stock_code": "047040",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "대우건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800132"
+    },
+    {
+      "rcept_no": "20261123800122",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "report_nm": "투자판단관련주요경영사항              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "DL이앤씨",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800122"
+    },
     {
       "rcept_no": "20261123800110",
       "corp_name": "KB금융",
@@ -73,6 +97,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123700074"
+    },
+    {
+      "rcept_no": "20261123000031",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "[기재정정]증권발행실적보고서",
+      "rcept_dt": "20261123",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000031"
     },
     {
       "rcept_no": "20261120900936",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000455"
-    },
-    {
-      "rcept_no": "20261116000447",
-      "corp_name": "나노신소재",
-      "stock_code": "121600",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261116",
-      "flr_nm": "김미경",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000447"
-    },
-    {
-      "rcept_no": "20261116000401",
-      "corp_name": "하이록코리아",
-      "stock_code": "013030",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "하이록코리아",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "피팅·배관기자재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000401"
-    },
-    {
-      "rcept_no": "20261116000385",
-      "corp_name": "LG디스플레이",
-      "stock_code": "034220",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "LG디스플레이",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000385"
     }
   ]
 }
