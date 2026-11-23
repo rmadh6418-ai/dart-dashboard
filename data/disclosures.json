@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 12:31:10",
+  "updated_at": "2026-11-23 13:00:56",
   "total_count": 500,
   "disclosures": [
     {
@@ -157,6 +157,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123700074"
+    },
+    {
+      "rcept_no": "20261123000078",
+      "corp_name": "보로노이",
+      "stock_code": "310210",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261123",
+      "flr_nm": "김현태",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000078"
     },
     {
       "rcept_no": "20261123000063",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000560"
-    },
-    {
-      "rcept_no": "20261116000552",
-      "corp_name": "에코프로에이치엔",
-      "stock_code": "383310",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261116",
-      "flr_nm": "에코프로",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000552"
     }
   ]
 }
