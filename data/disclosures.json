@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:01:10",
+  "updated_at": "2026-11-23 11:31:11",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900159"
+    },
+    {
+      "rcept_no": "20261123800180",
+      "corp_name": "한국항공우주",
+      "stock_code": "047810",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "한국항공우주",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800180"
+    },
+    {
+      "rcept_no": "20261123800169",
+      "corp_name": "GS건설",
+      "stock_code": "006360",
+      "report_nm": "투자판단관련주요경영사항              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "GS건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800169"
     },
     {
       "rcept_no": "20261123800132",
@@ -109,6 +133,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123700074"
+    },
+    {
+      "rcept_no": "20261123000063",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261123",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000063"
     },
     {
       "rcept_no": "20261123000031",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000538"
-    },
-    {
-      "rcept_no": "20261116000524",
-      "corp_name": "한전기술",
-      "stock_code": "052690",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "한전기술",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000524"
-    },
-    {
-      "rcept_no": "20261116000490",
-      "corp_name": "대한조선",
-      "stock_code": "439260",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "대한조선",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000490"
-    },
-    {
-      "rcept_no": "20261116000477",
-      "corp_name": "와이지엔터테인먼트",
-      "stock_code": "122870",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "와이지엔터테인먼트",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000477"
     }
   ]
 }
