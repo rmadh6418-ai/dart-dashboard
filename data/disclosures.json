@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 13:31:16",
+  "updated_at": "2026-11-23 14:01:21",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900159"
+    },
+    {
+      "rcept_no": "20261123800253",
+      "corp_name": "해성디에스",
+      "stock_code": "195870",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "해성디에스",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800253"
     },
     {
       "rcept_no": "20261123800239",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "손해보험",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000605"
-    },
-    {
-      "rcept_no": "20261116000573",
-      "corp_name": "LS에코에너지",
-      "stock_code": "229640",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "LS에코에너지",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000573"
     }
   ]
 }
