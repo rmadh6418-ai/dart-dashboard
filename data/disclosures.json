@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 17:01:06",
+  "updated_at": "2026-11-23 17:31:22",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,42 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900159"
+    },
+    {
+      "rcept_no": "20261123800687",
+      "corp_name": "현대건설",
+      "stock_code": "000720",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "현대건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800687"
+    },
+    {
+      "rcept_no": "20261123800686",
+      "corp_name": "삼성물산",
+      "stock_code": "028260",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "삼성물산",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800686"
+    },
+    {
+      "rcept_no": "20261123800641",
+      "corp_name": "한화시스템",
+      "stock_code": "272210",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "한화시스템",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800641"
     },
     {
       "rcept_no": "20261123800611",
@@ -373,6 +409,42 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123700074"
+    },
+    {
+      "rcept_no": "20261123000384",
+      "corp_name": "POSCO홀딩스",
+      "stock_code": "005490",
+      "report_nm": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+      "rcept_dt": "20261123",
+      "flr_nm": "POSCO홀딩스",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000384"
+    },
+    {
+      "rcept_no": "20261123000381",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261123",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000381"
+    },
+    {
+      "rcept_no": "20261123000368",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261123",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000368"
     },
     {
       "rcept_no": "20261123000362",
@@ -5929,78 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001310"
-    },
-    {
-      "rcept_no": "20261116001301",
-      "corp_name": "올릭스",
-      "stock_code": "226950",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "올릭스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001301"
-    },
-    {
-      "rcept_no": "20261116001289",
-      "corp_name": "삼양식품",
-      "stock_code": "003230",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261116",
-      "flr_nm": "삼양라운드스퀘어",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001289"
-    },
-    {
-      "rcept_no": "20261116001277",
-      "corp_name": "현대차증권",
-      "stock_code": "001500",
-      "report_nm": "[기재정정]일괄신고서(기타파생결합사채)",
-      "rcept_dt": "20261116",
-      "flr_nm": "현대차증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001277"
-    },
-    {
-      "rcept_no": "20261116001266",
-      "corp_name": "LG생활건강",
-      "stock_code": "051900",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "LG생활건강",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001266"
-    },
-    {
-      "rcept_no": "20261116001246",
-      "corp_name": "펩트론",
-      "stock_code": "087010",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "펩트론",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001246"
-    },
-    {
-      "rcept_no": "20261116001244",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001244"
     }
   ]
 }
