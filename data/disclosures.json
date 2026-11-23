@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-23 10:01:16",
+  "updated_at": "2026-11-23 10:31:05",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261123900159",
+      "corp_name": "리가켐바이오",
+      "stock_code": "141080",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "리가켐바이오",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900159"
+    },
     {
       "rcept_no": "20261123800132",
       "corp_name": "대우건설",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "엔터·미디어",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000477"
-    },
-    {
-      "rcept_no": "20261116000455",
-      "corp_name": "기업은행",
-      "stock_code": "024110",
-      "report_nm": "[기재정정]주요사항보고서(상각형조건부자본증권발행결정)",
-      "rcept_dt": "20261116",
-      "flr_nm": "기업은행",
-      "rm": "정",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000455"
     }
   ]
 }
