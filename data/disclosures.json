@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-11-22 21:50:05",
+  "updated_at": "2026-11-23 09:01:21",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261123800004",
+      "corp_name": "DL이앤씨",
+      "stock_code": "375500",
+      "report_nm": "중대재해발생              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "DL이앤씨",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800004"
+    },
+    {
+      "rcept_no": "20261123800003",
+      "corp_name": "카카오",
+      "stock_code": "035720",
+      "report_nm": "소송등의제기ㆍ신청(일정금액이상의청구)              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "카카오",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "인터넷·게임·플랫폼",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800003"
+    },
+    {
+      "rcept_no": "20261123800002",
+      "corp_name": "LS",
+      "stock_code": "006260",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "LS",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800002"
+    },
+    {
+      "rcept_no": "20261123800001",
+      "corp_name": "LS",
+      "stock_code": "006260",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "LS",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800001"
+    },
+    {
+      "rcept_no": "20261123700074",
+      "corp_name": "엔켐",
+      "stock_code": "348370",
+      "report_nm": "조회공시요구(풍문또는보도등)에대한답변(부인)              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "엔켐",
+      "rm": "채",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123700074"
+    },
     {
       "rcept_no": "20261120900936",
       "corp_name": "보로노이",
@@ -5941,66 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "미용의료·화장품",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000382"
-    },
-    {
-      "rcept_no": "20261116000298",
-      "corp_name": "클래시스",
-      "stock_code": "214150",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "클래시스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000298"
-    },
-    {
-      "rcept_no": "20261116000287",
-      "corp_name": "더블유씨피",
-      "stock_code": "393890",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "더블유씨피",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000287"
-    },
-    {
-      "rcept_no": "20261116000262",
-      "corp_name": "S-Oil",
-      "stock_code": "010950",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "S-Oil",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000262"
-    },
-    {
-      "rcept_no": "20261116000238",
-      "corp_name": "HL만도",
-      "stock_code": "204320",
-      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
-      "rcept_dt": "20261116",
-      "flr_nm": "HL만도",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000238"
-    },
-    {
-      "rcept_no": "20261116000236",
-      "corp_name": "테크윙",
-      "stock_code": "089030",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "테크윙",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000236"
     }
   ]
 }
