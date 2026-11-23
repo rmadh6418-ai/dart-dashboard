@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 11:31:11",
+  "updated_at": "2026-11-23 12:01:12",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,30 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900159"
+    },
+    {
+      "rcept_no": "20261123800197",
+      "corp_name": "HD현대",
+      "stock_code": "267250",
+      "report_nm": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "HD현대",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800197"
+    },
+    {
+      "rcept_no": "20261123800187",
+      "corp_name": "HD한국조선해양",
+      "stock_code": "009540",
+      "report_nm": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ",
+      "rcept_dt": "20261123",
+      "flr_nm": "HD한국조선해양",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800187"
     },
     {
       "rcept_no": "20261123800180",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000552"
-    },
-    {
-      "rcept_no": "20261116000543",
-      "corp_name": "서울보증보험",
-      "stock_code": "031210",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "서울보증보험",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000543"
-    },
-    {
-      "rcept_no": "20261116000538",
-      "corp_name": "나노신소재",
-      "stock_code": "121600",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261116",
-      "flr_nm": "이기호",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000538"
     }
   ]
 }
