@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-24 09:01:17",
+  "updated_at": "2026-11-24 09:30:52",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261124800288",
+      "corp_name": "HD현대마린솔루션",
+      "stock_code": "443060",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "rcept_dt": "20261124",
+      "flr_nm": "HD현대마린솔루션",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
     {
       "rcept_no": "20261124000017",
       "corp_name": "NH투자증권",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001329"
-    },
-    {
-      "rcept_no": "20261116001323",
-      "corp_name": "SK증권",
-      "stock_code": "001510",
-      "report_nm": "[기재정정]일괄신고서(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261116",
-      "flr_nm": "SK증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001323"
     }
   ]
 }
