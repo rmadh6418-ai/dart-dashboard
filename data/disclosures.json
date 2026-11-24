@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:31:04",
+  "updated_at": "2026-11-24 15:39:53",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,30 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000340",
+      "corp_name": "유진테크",
+      "stock_code": "084370",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261124",
+      "flr_nm": "JPMorganAssetManagement(AsiaPacific)Limited",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000340"
+    },
+    {
+      "rcept_no": "20261124000334",
+      "corp_name": "해성디에스",
+      "stock_code": "195870",
+      "report_nm": "주식등의대량보유상황보고서(약식)",
+      "rcept_dt": "20261124",
+      "flr_nm": "JPMorganAssetManagement(AsiaPacific)Limited",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000334"
     },
     {
       "rcept_no": "20261124000325",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001592"
-    },
-    {
-      "rcept_no": "20261116001579",
-      "corp_name": "삼성에스디에스",
-      "stock_code": "018260",
-      "report_nm": "동일인등출자계열회사와의상품ㆍ용역거래변경",
-      "rcept_dt": "20261116",
-      "flr_nm": "삼성에스디에스",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001579"
-    },
-    {
-      "rcept_no": "20261116001577",
-      "corp_name": "알테오젠",
-      "stock_code": "196170",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "알테오젠",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001577"
     }
   ]
 }
