@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:01:17",
+  "updated_at": "2026-11-24 10:30:53",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,54 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000102",
+      "corp_name": "HD현대일렉트릭",
+      "stock_code": "267260",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "김관중",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000102"
+    },
+    {
+      "rcept_no": "20261124000101",
+      "corp_name": "HD현대일렉트릭",
+      "stock_code": "267260",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "이재웅",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000101"
+    },
+    {
+      "rcept_no": "20261124000088",
+      "corp_name": "메디톡스",
+      "stock_code": "086900",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "정현호",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000088"
+    },
+    {
+      "rcept_no": "20261124000085",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261124",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000085"
     },
     {
       "rcept_no": "20261124000066",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "손해보험",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001356"
-    },
-    {
-      "rcept_no": "20261116001355",
-      "corp_name": "보로노이",
-      "stock_code": "310210",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "보로노이",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001355"
-    },
-    {
-      "rcept_no": "20261116001351",
-      "corp_name": "하나금융지주",
-      "stock_code": "086790",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "하나금융지주",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001351"
-    },
-    {
-      "rcept_no": "20261116001350",
-      "corp_name": "기업은행",
-      "stock_code": "024110",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "기업은행",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001350"
-    },
-    {
-      "rcept_no": "20261116001343",
-      "corp_name": "HD현대마린엔진",
-      "stock_code": "071970",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "HD현대마린엔진",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001343"
     }
   ]
 }
