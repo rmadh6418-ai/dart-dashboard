@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-24 17:30:56",
+  "updated_at": "2026-11-24 18:01:22",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261124900987",
+      "corp_name": "오스코텍",
+      "stock_code": "039200",
+      "report_nm": "소송등의판결ㆍ결정              ",
+      "rcept_dt": "20261124",
+      "flr_nm": "오스코텍",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900987"
+    },
     {
       "rcept_no": "20261124900892",
       "corp_name": "에코프로",
@@ -277,6 +289,18 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000525",
+      "corp_name": "브이티",
+      "stock_code": "018290",
+      "report_nm": "[기재정정]주요사항보고서(유형자산양수결정)",
+      "rcept_dt": "20261124",
+      "flr_nm": "브이티",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "미용의료·화장품",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000525"
     },
     {
       "rcept_no": "20261124000512",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "자동차·운송장비",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116002191"
-    },
-    {
-      "rcept_no": "20261116002183",
-      "corp_name": "미래에셋증권",
-      "stock_code": "006800",
-      "report_nm": "[기재정정]일괄신고서(파생결합증권-상장지수증권)",
-      "rcept_dt": "20261116",
-      "flr_nm": "미래에셋증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116002183"
-    },
-    {
-      "rcept_no": "20261116002172",
-      "corp_name": "컴투스",
-      "stock_code": "078340",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "컴투스",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "게임·소프트웨어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116002172"
     }
   ]
 }
