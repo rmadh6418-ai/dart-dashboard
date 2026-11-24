@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 10:30:53",
+  "updated_at": "2026-11-24 11:01:14",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000117",
+      "corp_name": "코스모신소재",
+      "stock_code": "005070",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261124",
+      "flr_nm": "코스모화학",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000117"
     },
     {
       "rcept_no": "20261124000102",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "음식료·유통",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001393"
-    },
-    {
-      "rcept_no": "20261116001356",
-      "corp_name": "현대해상",
-      "stock_code": "001450",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "현대해상",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001356"
     }
   ]
 }
