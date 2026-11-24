@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:01:28",
+  "updated_at": "2026-11-24 14:31:08",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,30 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000223",
+      "corp_name": "삼성SDI",
+      "stock_code": "006400",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "박정준",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000223"
+    },
+    {
+      "rcept_no": "20261124000219",
+      "corp_name": "HMM",
+      "stock_code": "011200",
+      "report_nm": "[기재정정]의결권대리행사권유참고서류",
+      "rcept_dt": "20261124",
+      "flr_nm": "HMM",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000219"
     },
     {
       "rcept_no": "20261124000212",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001508"
-    },
-    {
-      "rcept_no": "20261116001505",
-      "corp_name": "새빗켐",
-      "stock_code": "107600",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "새빗켐",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001505"
-    },
-    {
-      "rcept_no": "20261116001497",
-      "corp_name": "HPSP",
-      "stock_code": "403870",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "HPSP",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001497"
     }
   ]
 }
