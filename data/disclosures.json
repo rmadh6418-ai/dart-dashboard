@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:00:59",
+  "updated_at": "2026-11-24 15:31:04",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,42 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000325",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261124",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000325"
+    },
+    {
+      "rcept_no": "20261124000314",
+      "corp_name": "HD현대",
+      "stock_code": "267250",
+      "report_nm": "임원ㆍ주요주주특정증권등거래계획보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "정기선",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000314"
+    },
+    {
+      "rcept_no": "20261124000300",
+      "corp_name": "HD현대",
+      "stock_code": "267250",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "조영철",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000300"
     },
     {
       "rcept_no": "20261124000286",
@@ -5965,42 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001577"
-    },
-    {
-      "rcept_no": "20261116001575",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "[기재정정]일괄신고서(기타파생결합증권)",
-      "rcept_dt": "20261116",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001575"
-    },
-    {
-      "rcept_no": "20261116001572",
-      "corp_name": "로보스타",
-      "stock_code": "090360",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "로보스타",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "로봇·자동화",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001572"
-    },
-    {
-      "rcept_no": "20261116001551",
-      "corp_name": "POSCO홀딩스",
-      "stock_code": "005490",
-      "report_nm": "특수관계인에대한주식의처분",
-      "rcept_dt": "20261116",
-      "flr_nm": "POSCO홀딩스",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001551"
     }
   ]
 }
