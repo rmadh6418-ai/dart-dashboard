@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 11:30:51",
+  "updated_at": "2026-11-24 12:01:05",
   "total_count": 500,
   "disclosures": [
     {
@@ -25,6 +25,30 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000160",
+      "corp_name": "HD현대중공업",
+      "stock_code": "329180",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "여용화",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000160"
+    },
+    {
+      "rcept_no": "20261124000157",
+      "corp_name": "HD현대중공업",
+      "stock_code": "329180",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "여용화",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000157"
     },
     {
       "rcept_no": "20261124000144",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001469"
-    },
-    {
-      "rcept_no": "20261116001460",
-      "corp_name": "HD현대",
-      "stock_code": "267250",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "HD현대",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001460"
-    },
-    {
-      "rcept_no": "20261116001414",
-      "corp_name": "아모레퍼시픽",
-      "stock_code": "090430",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "아모레퍼시픽",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001414"
     }
   ]
 }
