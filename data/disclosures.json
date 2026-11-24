@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-23 22:35:50",
+  "updated_at": "2026-11-24 09:01:17",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261124000017",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000017"
+    },
+    {
+      "rcept_no": "20261124000015",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000015"
+    },
+    {
+      "rcept_no": "20261124000014",
+      "corp_name": "NH투자증권",
+      "stock_code": "005940",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "NH투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000014"
+    },
+    {
+      "rcept_no": "20261124000003",
+      "corp_name": "HD현대중공업",
+      "stock_code": "329180",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "한주석",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000003"
+    },
     {
       "rcept_no": "20261123900655",
       "corp_name": "보로노이",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001323"
-    },
-    {
-      "rcept_no": "20261116001322",
-      "corp_name": "산일전기",
-      "stock_code": "062040",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "산일전기",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "원전·전력인프라",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001322"
-    },
-    {
-      "rcept_no": "20261116001320",
-      "corp_name": "동화기업",
-      "stock_code": "025900",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "동화기업",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001320"
-    },
-    {
-      "rcept_no": "20261116001318",
-      "corp_name": "CJ ENM",
-      "stock_code": "035760",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "CJ ENM",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001318"
-    },
-    {
-      "rcept_no": "20261116001310",
-      "corp_name": "윤성에프앤씨",
-      "stock_code": "372170",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "윤성에프앤씨",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001310"
     }
   ]
 }
