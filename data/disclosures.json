@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-24 11:01:14",
+  "updated_at": "2026-11-24 11:30:51",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261124800429",
+      "corp_name": "한전기술",
+      "stock_code": "052690",
+      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261124",
+      "flr_nm": "한전기술",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800429"
+    },
     {
       "rcept_no": "20261124800288",
       "corp_name": "HD현대마린솔루션",
@@ -13,6 +25,18 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000144",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261124",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000144"
     },
     {
       "rcept_no": "20261124000117",
@@ -870,7 +894,7 @@
       "rcept_no": "20261123000211",
       "corp_name": "한화솔루션",
       "stock_code": "009830",
-      "report_nm": "주요사항보고서(회사합병결정)",
+      "report_nm": "[첨부추가]주요사항보고서(회사합병결정)",
       "rcept_dt": "20261123",
       "flr_nm": "한화솔루션",
       "rm": "",
@@ -5977,30 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001414"
-    },
-    {
-      "rcept_no": "20261116001399",
-      "corp_name": "SK가스",
-      "stock_code": "018670",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261116",
-      "flr_nm": "SK디스커버리",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화학·에너지",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001399"
-    },
-    {
-      "rcept_no": "20261116001393",
-      "corp_name": "신세계",
-      "stock_code": "004170",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261116",
-      "flr_nm": "안상우",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "음식료·유통",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001393"
     }
   ]
 }
