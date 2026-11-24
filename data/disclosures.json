@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:31:08",
+  "updated_at": "2026-11-24 15:00:59",
   "total_count": 500,
   "disclosures": [
     {
@@ -37,6 +37,54 @@
       "market": "KOSPI 200",
       "sector": "조선·해운·중공업",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800288"
+    },
+    {
+      "rcept_no": "20261124000286",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261124",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000286"
+    },
+    {
+      "rcept_no": "20261124000280",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261124",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000280"
+    },
+    {
+      "rcept_no": "20261124000248",
+      "corp_name": "현대차증권",
+      "stock_code": "001500",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261124",
+      "flr_nm": "현대차증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000248"
+    },
+    {
+      "rcept_no": "20261124000242",
+      "corp_name": "HD현대일렉트릭",
+      "stock_code": "267260",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261124",
+      "flr_nm": "김영기",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000242"
     },
     {
       "rcept_no": "20261124000223",
@@ -5953,54 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "이차전지·배터리",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001551"
-    },
-    {
-      "rcept_no": "20261116001533",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "[기재정정]일괄신고서(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20261116",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001533"
-    },
-    {
-      "rcept_no": "20261116001532",
-      "corp_name": "유진테크",
-      "stock_code": "084370",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261116",
-      "flr_nm": "정인용",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001532"
-    },
-    {
-      "rcept_no": "20261116001529",
-      "corp_name": "기아",
-      "stock_code": "000270",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "기아",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001529"
-    },
-    {
-      "rcept_no": "20261116001508",
-      "corp_name": "한국콜마",
-      "stock_code": "161890",
-      "report_nm": "분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "한국콜마",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001508"
     }
   ]
 }
