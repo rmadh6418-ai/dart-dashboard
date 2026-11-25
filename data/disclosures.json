@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 14:11:39",
+  "updated_at": "2026-11-25 14:30:52",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,30 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900186"
+    },
+    {
+      "rcept_no": "20261125800307",
+      "corp_name": "현대건설",
+      "stock_code": "000720",
+      "report_nm": "단일판매ㆍ공급계약체결              ",
+      "rcept_dt": "20261125",
+      "flr_nm": "현대건설",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800307"
+    },
+    {
+      "rcept_no": "20261125800299",
+      "corp_name": "SK",
+      "stock_code": "034730",
+      "report_nm": "기타경영사항(자율공시)              ",
+      "rcept_dt": "20261125",
+      "flr_nm": "SK",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "금융·지주",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800299"
     },
     {
       "rcept_no": "20261125800279",
@@ -85,6 +109,30 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800103"
+    },
+    {
+      "rcept_no": "20261125000374",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261125",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000374"
+    },
+    {
+      "rcept_no": "20261125000358",
+      "corp_name": "HD현대마린솔루션",
+      "stock_code": "443060",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261125",
+      "flr_nm": "김성준",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000358"
     },
     {
       "rcept_no": "20261125000351",
@@ -5953,54 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000232"
-    },
-    {
-      "rcept_no": "20261117000227",
-      "corp_name": "하나머티리얼즈",
-      "stock_code": "166090",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261117",
-      "flr_nm": "하나마이크론",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "반도체 소부장",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000227"
-    },
-    {
-      "rcept_no": "20261117000223",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261117",
-      "flr_nm": "권현미",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000223"
-    },
-    {
-      "rcept_no": "20261117000215",
-      "corp_name": "아이패밀리에스씨",
-      "stock_code": "114840",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261117",
-      "flr_nm": "김태욱",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "미용의료·화장품",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000215"
-    },
-    {
-      "rcept_no": "20261117000202",
-      "corp_name": "KB금융",
-      "stock_code": "105560",
-      "report_nm": "[기재정정]일괄신고서",
-      "rcept_dt": "20261117",
-      "flr_nm": "KB금융",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "금융·지주",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000202"
     }
   ]
 }
