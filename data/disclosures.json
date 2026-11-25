@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 12:30:52",
+  "updated_at": "2026-11-25 13:01:11",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900186"
+    },
+    {
+      "rcept_no": "20261125800220",
+      "corp_name": "현대로템",
+      "stock_code": "064350",
+      "report_nm": "임시주주총회결과              ",
+      "rcept_dt": "20261125",
+      "flr_nm": "현대로템",
+      "rm": "유",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800220"
     },
     {
       "rcept_no": "20261125800216",
@@ -61,6 +73,18 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800103"
+    },
+    {
+      "rcept_no": "20261125000244",
+      "corp_name": "현대로템",
+      "stock_code": "064350",
+      "report_nm": "주요사항보고서(자기주식처분결정)",
+      "rcept_dt": "20261125",
+      "flr_nm": "현대로템",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "방위산업·우주항공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000244"
     },
     {
       "rcept_no": "20261125000242",
@@ -5977,30 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116902516"
-    },
-    {
-      "rcept_no": "20261116902426",
-      "corp_name": "피엔티",
-      "stock_code": "137400",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261116",
-      "flr_nm": "피엔티",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "이차전지·소재",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116902426"
-    },
-    {
-      "rcept_no": "20261116902395",
-      "corp_name": "엘앤씨바이오",
-      "stock_code": "290650",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261116",
-      "flr_nm": "엘앤씨바이오",
-      "rm": "코정",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116902395"
     }
   ]
 }
