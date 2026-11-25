@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-25 03:18:39",
+  "updated_at": "2026-11-25 09:01:06",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261125000007",
+      "corp_name": "현대건설",
+      "stock_code": "000720",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261125",
+      "flr_nm": "이형석",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000007"
+    },
     {
       "rcept_no": "20261124900987",
       "corp_name": "오스코텍",
@@ -5989,18 +6001,6 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116002193"
-    },
-    {
-      "rcept_no": "20261116002191",
-      "corp_name": "현대모비스",
-      "stock_code": "012330",
-      "report_nm": "[첨부추가]분기보고서 (2026.09)",
-      "rcept_dt": "20261116",
-      "flr_nm": "현대모비스",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "자동차·운송장비",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116002191"
     }
   ]
 }
