@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-25 17:01:17",
+  "updated_at": "2026-11-25 17:30:52",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261125900706",
+      "corp_name": "HLB",
+      "stock_code": "028300",
+      "report_nm": "기업설명회(IR)개최              ",
+      "rcept_dt": "20261125",
+      "flr_nm": "HLB",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900706"
+    },
     {
       "rcept_no": "20261125900597",
       "corp_name": "차바이오텍",
@@ -195,6 +207,66 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800103"
     },
     {
+      "rcept_no": "20261125000755",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261125",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000755"
+    },
+    {
+      "rcept_no": "20261125000737",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261125",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000737"
+    },
+    {
+      "rcept_no": "20261125000733",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261125",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000733"
+    },
+    {
+      "rcept_no": "20261125000732",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261125",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000732"
+    },
+    {
+      "rcept_no": "20261125000711",
+      "corp_name": "SK이노베이션",
+      "stock_code": "096770",
+      "report_nm": "[첨부정정]증권신고서(합병)",
+      "rcept_dt": "20261125",
+      "flr_nm": "SK이노베이션",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000711"
+    },
+    {
       "rcept_no": "20261125000703",
       "corp_name": "한화투자증권",
       "stock_code": "003530",
@@ -213,7 +285,7 @@
       "report_nm": "[첨부정정]증권신고서(합병)",
       "rcept_dt": "20261125",
       "flr_nm": "SK이노베이션",
-      "rm": "",
+      "rm": "정",
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000702"
@@ -5929,78 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000342"
-    },
-    {
-      "rcept_no": "20261118000340",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
-      "rcept_dt": "20261118",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000340"
-    },
-    {
-      "rcept_no": "20261118000339",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261118",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000339"
-    },
-    {
-      "rcept_no": "20261118000333",
-      "corp_name": "DB하이텍",
-      "stock_code": "000990",
-      "report_nm": "특수관계인으로부터부동산매수",
-      "rcept_dt": "20261118",
-      "flr_nm": "DB하이텍",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000333"
-    },
-    {
-      "rcept_no": "20261118000330",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261118",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000330"
-    },
-    {
-      "rcept_no": "20261118000300",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "투자설명서(일괄신고)",
-      "rcept_dt": "20261118",
-      "flr_nm": "한화투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000300"
-    },
-    {
-      "rcept_no": "20261118000293",
-      "corp_name": "한화투자증권",
-      "stock_code": "003530",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "rcept_dt": "20261118",
-      "flr_nm": "추성식",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000293"
     }
   ]
 }
