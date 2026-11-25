@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 13:01:11",
+  "updated_at": "2026-11-25 13:30:55",
   "total_count": 500,
   "disclosures": [
     {
@@ -73,6 +73,90 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800103"
+    },
+    {
+      "rcept_no": "20261125000302",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261125",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000302"
+    },
+    {
+      "rcept_no": "20261125000286",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261125",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000286"
+    },
+    {
+      "rcept_no": "20261125000285",
+      "corp_name": "한화투자증권",
+      "stock_code": "003530",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261125",
+      "flr_nm": "한화투자증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000285"
+    },
+    {
+      "rcept_no": "20261125000282",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
+      "rcept_dt": "20261125",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000282"
+    },
+    {
+      "rcept_no": "20261125000281",
+      "corp_name": "HD현대중공업",
+      "stock_code": "329180",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261125",
+      "flr_nm": "손동식",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000281"
+    },
+    {
+      "rcept_no": "20261125000271",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(기타파생결합사채)",
+      "rcept_dt": "20261125",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000271"
+    },
+    {
+      "rcept_no": "20261125000269",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261125",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000269"
     },
     {
       "rcept_no": "20261125000244",
@@ -5917,90 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000127"
-    },
-    {
-      "rcept_no": "20261117000082",
-      "corp_name": "HMM",
-      "stock_code": "011200",
-      "report_nm": "특수관계인에대한출자",
-      "rcept_dt": "20261117",
-      "flr_nm": "HMM",
-      "rm": "공",
-      "market": "KOSPI 200",
-      "sector": "조선·해운·중공업",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000082"
-    },
-    {
-      "rcept_no": "20261117000037",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "일괄신고서(파생결합증권-상장지수증권)",
-      "rcept_dt": "20261117",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000037"
-    },
-    {
-      "rcept_no": "20261117000034",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "일괄신고서(기타파생결합증권)",
-      "rcept_dt": "20261117",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000034"
-    },
-    {
-      "rcept_no": "20261117000031",
-      "corp_name": "삼성증권",
-      "stock_code": "016360",
-      "report_nm": "일괄신고서(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261117",
-      "flr_nm": "삼성증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000031"
-    },
-    {
-      "rcept_no": "20261117000030",
-      "corp_name": "삼화네트웍스",
-      "stock_code": "046390",
-      "report_nm": "주식등의대량보유상황보고서(일반)",
-      "rcept_dt": "20261117",
-      "flr_nm": "신상윤",
-      "rm": "",
-      "market": "KOSDAQ 150",
-      "sector": "엔터·미디어",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117000030"
-    },
-    {
-      "rcept_no": "20261116902519",
-      "corp_name": "오스코텍",
-      "stock_code": "039200",
-      "report_nm": "기업설명회(IR)개최              ",
-      "rcept_dt": "20261116",
-      "flr_nm": "오스코텍",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116902519"
-    },
-    {
-      "rcept_no": "20261116902516",
-      "corp_name": "오스코텍",
-      "stock_code": "039200",
-      "report_nm": "소송등의제기ㆍ신청(경영권분쟁소송)              (검사인 선임)",
-      "rcept_dt": "20261116",
-      "flr_nm": "오스코텍",
-      "rm": "코",
-      "market": "KOSDAQ 150",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116902516"
     }
   ]
 }
