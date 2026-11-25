@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 15:01:00",
+  "updated_at": "2026-11-25 15:31:00",
   "total_count": 500,
   "disclosures": [
     {
@@ -109,6 +109,18 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800103"
+    },
+    {
+      "rcept_no": "20261125000465",
+      "corp_name": "삼성증권",
+      "stock_code": "016360",
+      "report_nm": "증권발행실적보고서",
+      "rcept_dt": "20261125",
+      "flr_nm": "삼성증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000465"
     },
     {
       "rcept_no": "20261125000430",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800380"
-    },
-    {
-      "rcept_no": "20261117800347",
-      "corp_name": "삼성바이오로직스",
-      "stock_code": "207940",
-      "report_nm": "유상증자또는주식관련사채등의발행결과(자율공시)              ",
-      "rcept_dt": "20261117",
-      "flr_nm": "삼성바이오로직스",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117800347"
     }
   ]
 }
