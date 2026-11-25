@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 10:01:27",
+  "updated_at": "2026-11-25 10:31:09",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,42 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800103"
+    },
+    {
+      "rcept_no": "20261125000114",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261125",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000114"
+    },
+    {
+      "rcept_no": "20261125000091",
+      "corp_name": "S-Oil",
+      "stock_code": "010950",
+      "report_nm": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+      "rcept_dt": "20261125",
+      "flr_nm": "S-Oil",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "화학·에너지",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000091"
+    },
+    {
+      "rcept_no": "20261125000088",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261125",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000088"
     },
     {
       "rcept_no": "20261125000086",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116802492"
-    },
-    {
-      "rcept_no": "20261116802490",
-      "corp_name": "한미약품",
-      "stock_code": "128940",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "rcept_dt": "20261116",
-      "flr_nm": "한미약품",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "제약·바이오",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116802490"
-    },
-    {
-      "rcept_no": "20261116802417",
-      "corp_name": "GS건설",
-      "stock_code": "006360",
-      "report_nm": "타인에대한채무보증결정              ",
-      "rcept_dt": "20261116",
-      "flr_nm": "GS건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116802417"
-    },
-    {
-      "rcept_no": "20261116802268",
-      "corp_name": "롯데손해보험",
-      "stock_code": "000400",
-      "report_nm": "파생상품거래손실발생              ",
-      "rcept_dt": "20261116",
-      "flr_nm": "롯데손해보험",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116802268"
     }
   ]
 }
