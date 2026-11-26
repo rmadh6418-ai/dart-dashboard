@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:01:21",
+  "updated_at": "2026-11-26 12:31:09",
   "total_count": 500,
   "disclosures": [
     {
@@ -61,6 +61,18 @@
       "market": "KOSPI 200",
       "sector": "화장품·의류",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800161"
+    },
+    {
+      "rcept_no": "20261126000250",
+      "corp_name": "삼성전자",
+      "stock_code": "005930",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261126",
+      "flr_nm": "최수민",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "전기·전자(반도체/IT)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000250"
     },
     {
       "rcept_no": "20261126000227",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000054"
-    },
-    {
-      "rcept_no": "20261119000043",
-      "corp_name": "NH투자증권",
-      "stock_code": "005940",
-      "report_nm": "일괄신고추가서류(파생결합증권-주가연계증권)",
-      "rcept_dt": "20261119",
-      "flr_nm": "NH투자증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000043"
     }
   ]
 }
