@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-26 00:40:43",
+  "updated_at": "2026-11-26 09:01:24",
   "total_count": 500,
   "disclosures": [
+    {
+      "rcept_no": "20261126900003",
+      "corp_name": "오스코텍",
+      "stock_code": "039200",
+      "report_nm": "소송등의판결ㆍ결정              ",
+      "rcept_dt": "20261126",
+      "flr_nm": "오스코텍",
+      "rm": "코",
+      "market": "KOSDAQ 150",
+      "sector": "제약·바이오",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900003"
+    },
+    {
+      "rcept_no": "20261126000008",
+      "corp_name": "포스코인터내셔널",
+      "stock_code": "047050",
+      "report_nm": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+      "rcept_dt": "20261126",
+      "flr_nm": "포스코인터내셔널",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000008"
+    },
+    {
+      "rcept_no": "20261126000001",
+      "corp_name": "HD현대중공업",
+      "stock_code": "329180",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "rcept_dt": "20261126",
+      "flr_nm": "이용화",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "조선·해운·중공업",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000001"
+    },
     {
       "rcept_no": "20261125900706",
       "corp_name": "HLB",
@@ -5965,42 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800567"
-    },
-    {
-      "rcept_no": "20261118800553",
-      "corp_name": "LG생활건강",
-      "stock_code": "051900",
-      "report_nm": "풍문또는보도에대한해명(미확정)              ",
-      "rcept_dt": "20261118",
-      "flr_nm": "LG생활건강",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800553"
-    },
-    {
-      "rcept_no": "20261118800397",
-      "corp_name": "DB손해보험",
-      "stock_code": "005830",
-      "report_nm": "최대주주등소유주식변동신고서              ",
-      "rcept_dt": "20261118",
-      "flr_nm": "DB손해보험",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800397"
-    },
-    {
-      "rcept_no": "20261118800394",
-      "corp_name": "한국금융지주",
-      "stock_code": "071050",
-      "report_nm": "타법인주식및출자증권취득결정              ",
-      "rcept_dt": "20261118",
-      "flr_nm": "한국금융지주",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800394"
     }
   ]
 }
