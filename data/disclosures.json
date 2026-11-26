@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 17:01:20",
+  "updated_at": "2026-11-26 17:30:57",
   "total_count": 500,
   "disclosures": [
     {
@@ -159,6 +159,90 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800161"
     },
     {
+      "rcept_no": "20261126000904",
+      "corp_name": "에코프로머티",
+      "stock_code": "450080",
+      "report_nm": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+      "rcept_dt": "20261126",
+      "flr_nm": "에코프로머티",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "이차전지·배터리",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000904"
+    },
+    {
+      "rcept_no": "20261126000892",
+      "corp_name": "대우건설",
+      "stock_code": "047040",
+      "report_nm": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+      "rcept_dt": "20261126",
+      "flr_nm": "대우건설",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000892"
+    },
+    {
+      "rcept_no": "20261126000873",
+      "corp_name": "한국금융지주",
+      "stock_code": "071050",
+      "report_nm": "임원ㆍ주요주주특정증권등거래계획보고서",
+      "rcept_dt": "20261126",
+      "flr_nm": "김남구",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000873"
+    },
+    {
+      "rcept_no": "20261126000837",
+      "corp_name": "에코프로비엠",
+      "stock_code": "247540",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261126",
+      "flr_nm": "에코프로",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000837"
+    },
+    {
+      "rcept_no": "20261126000836",
+      "corp_name": "키움증권",
+      "stock_code": "039490",
+      "report_nm": "투자설명서(일괄신고)",
+      "rcept_dt": "20261126",
+      "flr_nm": "키움증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000836"
+    },
+    {
+      "rcept_no": "20261126000825",
+      "corp_name": "에코프로비엠",
+      "stock_code": "247540",
+      "report_nm": "[기재정정]주식등의대량보유상황보고서(일반)",
+      "rcept_dt": "20261126",
+      "flr_nm": "에코프로",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "이차전지·소재",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000825"
+    },
+    {
+      "rcept_no": "20261126000823",
+      "corp_name": "효성",
+      "stock_code": "004800",
+      "report_nm": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+      "rcept_dt": "20261126",
+      "flr_nm": "효성",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "원전·전력인프라",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000823"
+    },
+    {
       "rcept_no": "20261126000802",
       "corp_name": "지투지바이오",
       "stock_code": "456160",
@@ -205,6 +289,18 @@
       "market": "KOSDAQ 150",
       "sector": "이차전지·소재",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000771"
+    },
+    {
+      "rcept_no": "20261126000770",
+      "corp_name": "솔브레인",
+      "stock_code": "357780",
+      "report_nm": "주요사항보고서(자기주식처분결정)",
+      "rcept_dt": "20261126",
+      "flr_nm": "솔브레인",
+      "rm": "",
+      "market": "KOSDAQ 150",
+      "sector": "반도체 소부장",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000770"
     },
     {
       "rcept_no": "20261126000754",
@@ -5905,102 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "금융·지주",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800743"
-    },
-    {
-      "rcept_no": "20261119800598",
-      "corp_name": "LG디스플레이",
-      "stock_code": "034220",
-      "report_nm": "[기재정정]신규시설투자등              ",
-      "rcept_dt": "20261119",
-      "flr_nm": "LG디스플레이",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800598"
-    },
-    {
-      "rcept_no": "20261119800592",
-      "corp_name": "LG디스플레이",
-      "stock_code": "034220",
-      "report_nm": "기업가치제고계획예고(안내공시)              ",
-      "rcept_dt": "20261119",
-      "flr_nm": "LG디스플레이",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800592"
-    },
-    {
-      "rcept_no": "20261119800587",
-      "corp_name": "대우건설",
-      "stock_code": "047040",
-      "report_nm": "[기재정정]단일판매ㆍ공급계약체결              ",
-      "rcept_dt": "20261119",
-      "flr_nm": "대우건설",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "건설·시공",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800587"
-    },
-    {
-      "rcept_no": "20261119800586",
-      "corp_name": "엘앤에프",
-      "stock_code": "066970",
-      "report_nm": "풍문또는보도에대한해명(미확정)              ",
-      "rcept_dt": "20261119",
-      "flr_nm": "엘앤에프",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "이차전지·배터리",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800586"
-    },
-    {
-      "rcept_no": "20261119800572",
-      "corp_name": "롯데손해보험",
-      "stock_code": "000400",
-      "report_nm": "주주총회소집결의              ",
-      "rcept_dt": "20261119",
-      "flr_nm": "롯데손해보험",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800572"
-    },
-    {
-      "rcept_no": "20261119800547",
-      "corp_name": "롯데손해보험",
-      "stock_code": "000400",
-      "report_nm": "주주명부폐쇄기간또는기준일설정              ",
-      "rcept_dt": "20261119",
-      "flr_nm": "롯데손해보험",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "손해보험",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800547"
-    },
-    {
-      "rcept_no": "20261119800519",
-      "corp_name": "LG전자",
-      "stock_code": "066570",
-      "report_nm": "주식소각결정              ",
-      "rcept_dt": "20261119",
-      "flr_nm": "LG전자",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800519"
-    },
-    {
-      "rcept_no": "20261119800517",
-      "corp_name": "LG생활건강",
-      "stock_code": "051900",
-      "report_nm": "기업가치제고계획예고(안내공시)              ",
-      "rcept_dt": "20261119",
-      "flr_nm": "LG생활건강",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "화장품·의류",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800517"
     }
   ]
 }
