@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 09:01:24",
+  "updated_at": "2026-11-26 09:31:12",
   "total_count": 500,
   "disclosures": [
     {
@@ -13,6 +13,18 @@
       "market": "KOSDAQ 150",
       "sector": "제약·바이오",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900003"
+    },
+    {
+      "rcept_no": "20261126000035",
+      "corp_name": "미래에셋증권",
+      "stock_code": "006800",
+      "report_nm": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+      "rcept_dt": "20261126",
+      "flr_nm": "미래에셋증권",
+      "rm": "",
+      "market": "KOSPI 200",
+      "sector": "증권사",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000035"
     },
     {
       "rcept_no": "20261126000008",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "전기·전자(반도체/IT)",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800582"
-    },
-    {
-      "rcept_no": "20261118800567",
-      "corp_name": "DB하이텍",
-      "stock_code": "000990",
-      "report_nm": "유형자산취득결정              ",
-      "rcept_dt": "20261118",
-      "flr_nm": "DB하이텍",
-      "rm": "유",
-      "market": "KOSPI 200",
-      "sector": "전기·전자(반도체/IT)",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800567"
     }
   ]
 }
