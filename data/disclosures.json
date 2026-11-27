@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:30:55",
+  "updated_at": "2026-11-27 13:42:04",
   "total_count": 500,
   "disclosures": [
     {
@@ -169,6 +169,18 @@
       "market": "KOSPI 200",
       "sector": "화학·에너지",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800171"
+    },
+    {
+      "rcept_no": "20261127000839",
+      "corp_name": "현대건설",
+      "stock_code": "000720",
+      "report_nm": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+      "rcept_dt": "20261127",
+      "flr_nm": "현대건설",
+      "rm": "공",
+      "market": "KOSPI 200",
+      "sector": "건설·시공",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000839"
     },
     {
       "rcept_no": "20261127000817",
@@ -5989,18 +6001,6 @@
       "market": "KOSPI 200",
       "sector": "증권사",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000342"
-    },
-    {
-      "rcept_no": "20261120000337",
-      "corp_name": "대신증권",
-      "stock_code": "003540",
-      "report_nm": "일괄신고추가서류(기타파생결합사채)",
-      "rcept_dt": "20261120",
-      "flr_nm": "대신증권",
-      "rm": "",
-      "market": "KOSPI 200",
-      "sector": "증권사",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000337"
     }
   ]
 }
